@@ -1,6 +1,5 @@
 # LOTN
-LOTN is the proposed model in 《Latent Opinions Transfer Network for Target-Oriented
-Opinion Words Extraction》, which is accepted by AAAI'2020.
+LOTN is the proposed model in 《Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction》, which is accepted by AAAI'2020.
 
 # Dependencies
 
@@ -9,7 +8,6 @@ python==3.5
 numpy==1.14.2
 tensorflow==1.9
 ```
-
 # Quick Start
 
 ### Step1: pretrained
@@ -17,13 +15,22 @@ tensorflow==1.9
 sh run_pre_trained.sh
 ```
 ### step2: transfer
-- softmax(train and test)
+- Softmax
 ```angularjs
 sh run_LOTN.sh
 python eval_LOTN.py
 ```
-- crf(train and test)
+- CRF
 ```angularjs
-train：sh run_LOTN.sh
-test：python eval_LOTN_crf.py
+sh run_LOTN.sh
+python eval_LOTN_crf.py
+```
+# Cite
+```angularjs
+@article{wu2020latent,
+  title={Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction},
+  author={Wu, Zhen and Zhao, Fei and Dai, Xin-Yu and Huang, Shujian and Chen, Jiajun},
+  journal={arXiv preprint arXiv:2001.01989},
+  year={2020}
+}
 ```

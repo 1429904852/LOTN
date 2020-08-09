@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+python pre-trained.py --train_file_path='data/amazon/sentiment_label_train.txt' --test_file_path='data/amazon/sentiment_label_test.txt' --embedding_file_path='data/amazon/amazon_2014_840b_300.txt' --saver_checkpoint='data/amazon/checkpoint'
+python pre-trained.py --train_file_path='data/yelp/sentiment_label_train.txt' --test_file_path='data/yelp/sentiment_label_test.txt' --embedding_file_path='data/yelp/yelp_2014_840b_300.txt' --saver_checkpoint='data/yelp/checkpoint'

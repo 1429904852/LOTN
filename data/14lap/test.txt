@@ -1,0 +1,1928 @@
+Boot time
+Boot\O time\O is\O super\O fast\B ,\O around\O anywhere\O from\O 35\O seconds\O to\O 1\O minute\O .\O
+0 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+1 0 0 0 0 0 0 0 0 0 0 0 0
+tech support
+tech\O support\O would\O not\B fix\I the\O problem\O unless\O I\O bought\O your\O plan\O for\O $\O 150\O plus\O .\O
+0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+1 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0
+Set up
+Set\O up\O was\O easy\B .\O
+0 0 1 2 3
+0 1 0 0 0
+Windows 8
+Did\O not\B enjoy\I the\O new\O Windows\O 8\O and\O touchscreen\O functions\O .\O
+5 4 3 2 1 0 0 1 2 3 4
+1 1 0 0 0 0 0 0 0 0
+touchscreen functions
+Did\O not\B enjoy\I the\O new\O Windows\O 8\O and\O touchscreen\O functions\O .\O
+8 7 6 5 4 3 2 1 0 0 1
+1 1 0 0 0 0 0 0 0 0
+internal speakers
+Other\O than\O not\O being\O a\O fan\O of\O click\O pads\O (\O industry\O standard\O these\O days\O )\O and\O the\O lousy\B internal\O speakers\O ,\O it\O 's\O hard\O for\O me\O to\O find\O things\O about\O this\O notebook\O I\O do\O n't\O like\O ,\O especially\O considering\O the\O $\O 350\O price\O tag\O .\O
+18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+installation disk
+No\O installation\O disk\O (\O DVD\O )\O is\O included\B .\O
+1 0 0 1 2 3 4 5 6
+1 0 0 1 0 0 0
+use
+It\O 's\O fast\B ,\O light\B ,\O and\O simple\B to\O use\O .\O
+9 8 7 6 5 4 3 2 1 0 1
+1 0 0 0 0 0 0 0 0 0
+Works
+Works\O well\B ,\O and\O I\O am\O extremely\O happy\O to\O be\O back\O to\O an\O apple\O OS\O .\O
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+0 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0
+apple OS
+Works\O well\O ,\O and\O I\O am\O extremely\O happy\B to\O be\O back\O to\O an\O apple\O OS\O .\O
+13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+features
+Sure\O it\O 's\O not\B light\I and\I slim\I but\O the\O features\O make\O up\O for\O it\O 100\O %\O .\O
+9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+log on
+I\O am\O pleased\B with\O the\O fast\B log\O on\O ,\O speedy\O WiFi\O connection\O and\O the\O long\O battery\O life\O (\O >\O 6\O hrs\O )\O .\O
+6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+WiFi connection
+I\O am\O pleased\B with\O the\O fast\O log\O on\O ,\O speedy\B WiFi\O connection\O and\O the\O long\O battery\O life\O (\O >\O 6\O hrs\O )\O .\O
+10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11
+1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+battery life
+I\O am\O pleased\B with\O the\O fast\O log\O on\O ,\O speedy\O WiFi\O connection\O and\O the\O long\B battery\O life\O (\O >\O 6\O hrs\O )\O .\O
+15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6
+1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+delete key
+The\O Apple\O engineers\O have\O not\B yet\I discovered\I the\O delete\O key\O .\O
+8 7 6 5 4 3 2 1 0 0 1
+0 1 0 0 0 0 0 0 1 0 0
+interneting
+Made\O interneting\O (\O part\O of\O my\O business\O )\O very\O difficult\B to\O maintain\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 0 0 0 0 1 0 0 0
+priced
+Luckily\O ,\O for\O all\O of\O us\O contemplating\O the\O decision\O ,\O the\O Mac\O Mini\O is\O priced\O just\O right\B .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0
+track pad
+Only\O problem\O that\O I\O had\O was\O that\O the\O track\O pad\O was\O not\B very\I good\I for\O me\O ,\O I\O only\O had\O a\O problem\O once\O or\O twice\O with\O it\O ,\O But\O probably\O my\O computer\O was\O a\O bit\O defective\O .\O
+8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+graphics
+It\O is\O super\O fast\O and\O has\O outstanding\B graphics\O .\O
+7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 1 0
+mountain lion
+But\O the\O mountain\O lion\O is\O just\O too\O slow\B .\O
+2 1 0 0 1 2 3 4 5
+0 0 1 1 0 0 1 0 0
+durability
+Strong\B build\O though\O which\O really\O adds\O to\O its\O durability\O .\O
+8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 0 0 0
+build
+Strong\B build\O though\O which\O really\O adds\O to\O its\O durability\O .\O
+1 0 1 2 3 4 5 6 7 8
+0 0 0 0 0 0 0 0 0 0
+battery life
+The\O battery\O life\O is\O excellent\B --\O 6-7\O hours\O without\O charging\O .\O
+1 0 0 1 2 3 4 5 6 7 8
+1 0 0 0 1 0 0 0 0
+works
+I\O 've\O had\O my\O computer\O for\O 2\O weeks\O already\O and\O it\O works\O perfectly\B .\O
+11 10 9 8 7 6 5 4 3 2 1 0 1 2
+0 0 0 1 0 0 0 0 0 0 1 0
+Windows 8
+And\O I\O may\O be\O the\O only\O one\O but\O I\O am\O really\O liking\B Windows\O 8\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 0 0 0 1 0 0 0 0 0 1 1 0
+baterry
+The\O baterry\O is\O very\O longer\B .\O
+1 0 1 2 3 4
+1 1 0 0 0 0
+size
+Its\O size\O is\O ideal\B and\O the\O weight\O is\O acceptable\O .\O
+1 0 1 2 3 4 5 6 7 8
+0 0 0 1 0 0 0 0 0 0
+weight
+Its\O size\O is\O ideal\O and\O the\O weight\O is\O acceptable\B .\O
+6 5 4 3 2 1 0 1 2 3
+0 0 0 1 0 0 0 0 0 0
+performance
+I\O can\O say\O that\O I\O am\O fully\O satisfied\B with\O the\O performance\O that\O the\O computer\O has\O supplied\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6
+0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0
+speed
+It\O has\O so\O much\B more\I speed\O and\O the\O screen\O is\O very\O sharp\O .\O
+5 4 3 2 1 0 1 2 3 4 5 6 7
+1 0 1 1 0 0 0 0 0 0 0 0 0
+screen
+It\O has\O so\O much\O more\O speed\O and\O the\O screen\O is\O very\O sharp\B .\O
+8 7 6 5 4 3 2 1 0 1 2 3 4
+0 0 1 1 0 0 0 0 0 0 0 0 0
+price
+Everything\O I\O wanted\O and\O everything\O I\O needed\O and\O the\O price\O was\O great\B !\O
+9 8 7 6 5 4 3 2 1 0 1 2 3
+0 0 0 0 0 0 0 0 0 0 0 1 0
+Hardware performance
+It\O 's\O not\O inexpensive\O but\O the\O Hardware\O performance\O is\O impressive\B for\O a\O computer\O this\O small\O .\O
+6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8
+0 0 0 0 0 0 0 0 1 1 0 1 0 0 0
+works
+This\O thing\O is\O awesome\O ,\O everything\O always\B works\O ,\O everything\O is\O always\O easy\O to\O set\O up\O ,\O everything\O is\O compatible\O ,\O its\O literally\O everything\O I\O could\O ask\O for\O .\O
+7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0
+set up
+This\O thing\O is\O awesome\O ,\O everything\O always\O works\O ,\O everything\O is\O always\O easy\B to\O set\O up\O ,\O everything\O is\O compatible\O ,\O its\O literally\O everything\O I\O could\O ask\O for\O .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0
+Keyboard
+Keyboard\O responds\B well\I to\O presses\O .\O
+0 1 2 3 4 5
+0 0 1 0 0 0
+Windows 8
+Lastly\O ,\O Windows\O 8\O is\O annoying\B .\O
+2 1 0 0 1 2 3
+0 0 1 0 1 0
+setup
+Everything\O is\O so\O easy\B and\O intuitive\B to\O setup\O or\O configure\O .\O
+7 6 5 4 3 2 1 0 1 2 3
+0 0 0 1 1 0 0 0 0 0 0
+configure
+Everything\O is\O so\O easy\B and\O intuitive\B to\O setup\O or\O configure\O .\O
+9 8 7 6 5 4 3 2 1 0 1
+0 0 0 1 1 0 0 0 0 0 0
+Windows 8
+Biggest\O complaint\B is\O Windows\O 8\O .\O
+3 2 1 0 0 1
+0 0 0 1 0
+usb ports
+Only\O 2\O usb\O ports\O ...\O seems\O kind\O of\O ...\O limited\B .\O
+2 1 0 0 1 2 3 4 5 6 7
+0 0 0 0 0 0 0 0
+features
+It\O has\O all\O the\O expected\B features\O and\O more\O +plus\O a\O wide\O screen\O and\O more\O than\O roomy\O keyboard\O .\O
+5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+screen
+It\O has\O all\O the\O expected\O features\O and\O more\O +plus\O a\O wide\B screen\O and\O more\O than\O roomy\O keyboard\O .\O
+11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+keyboard
+It\O has\O all\O the\O expected\O features\O and\O more\O +plus\O a\O wide\O screen\O and\O more\O than\O roomy\B keyboard\O .\O
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Performance
+Amazing\B Performance\O for\O anything\O I\O throw\O at\O it\O .\O
+1 0 1 2 3 4 5 6 7
+1 0 0 0 0 1 0 0 0
+quality
+The\O receiver\O was\O full\O of\O superlatives\B for\O the\O quality\O and\O performance\O .\O
+8 7 6 5 4 3 2 1 0 1 2 3
+0 1 0 0 0 1 0 0 0 0 0 0
+performance
+The\O receiver\O was\O full\O of\O superlatives\B for\O the\O quality\O and\O performance\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1
+0 1 0 0 0 1 0 0 0 0 0 0
+OS
+I\O was\O extremely\O happy\B with\O the\O OS\O itself\O .\O
+6 5 4 3 2 1 0 1 2
+0 1 0 1 0 0 0 0 0
+portability
+The\O new\O MBP\O offers\O great\B portability\O and\O gives\O us\O confidence\O that\O we\O are\O not\O going\O to\O need\O to\O purchase\O a\O new\O laptop\O in\O 18\O months\O .\O
+5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+portable computing
+The\O criticism\O has\O waned\O ,\O and\O now\O I\O 'd\O be\O the\O first\O to\O recommend\B an\O Air\O for\O truly\B portable\O computing\O .\O
+18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 1 0 1 0 0 0 0 0 0 0 1 0 1 1 0 1 0
+MS Office 2011 for Mac
+MS\O Office\O 2011\O for\O Mac\O is\O wonderful\B ,\O well\B worth\I it\O .\O
+0 0 0 0 0 1 2 3 4 5 6 7
+0 1 1 1 0 0 0 0 0 0 0
+performance
+But\O the\O performance\O of\O Mac\O Mini\O is\O a\O huge\O disappointment\B .\O
+2 1 0 1 2 3 4 5 6 7 8
+0 0 0 0 1 0 0 0 0 1 0
+look
+They\O do\O n't\O just\O look\O good\B ;\O they\O deliver\O excellent\O performance\O .\O
+4 3 2 1 0 1 2 3 4 5 6 7
+0 0 1 0 0 1 0 0 1 0 0
+performance
+They\O do\O n't\O just\O look\O good\O ;\O they\O deliver\O excellent\B performance\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1
+0 0 1 0 0 1 0 0 1 0 0
+lit up keys
+I\O have\O had\O it\O over\O a\O year\O now\O with\O out\O a\O Glitch\O of\O any\O kind..I\O love\B the\O lit\O up\O keys\O and\O screen\O display\O ...\O this\O thing\O is\O Fast\B and\O clear\B as\O can\O be\O .\O
+17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 0 1 1 1 1 0 0 0
+screen display
+I\O have\O had\O it\O over\O a\O year\O now\O with\O out\O a\O Glitch\O of\O any\O kind..I\O love\B the\O lit\O up\O keys\O and\O screen\O display\O ...\O this\O thing\O is\O Fast\B and\O clear\B as\O can\O be\O .\O
+21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 0 1 1 1 1 0 0 0
+Mountain Lion OS
+The\O Mountain\O Lion\O OS\O is\O not\B hard\I to\O figure\O out\O if\O you\O are\O familiar\O with\O Microsoft\O Windows\O .\O
+1 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Microsoft Windows
+The\O Mountain\O Lion\O OS\O is\O not\O hard\O to\O figure\O out\O if\O you\O are\O familiar\B with\O Microsoft\O Windows\O .\O
+15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+OSX
+However\O ,\O I\O can\O refute\O that\O OSX\O is\O ``\O FAST\B ''\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5
+0 0 0 0 0 1 0 0 0
+Microsoft Office
+Enjoy\B using\O Microsoft\O Office\O !\O
+2 1 0 0 1
+0 0 1 1 0
+graphics
+Incredible\B graphics\O and\O brilliant\O colors\O .\O
+1 0 1 2 3 4
+0 1 0 0 0 0
+colors
+Incredible\O graphics\O and\O brilliant\B colors\O .\O
+4 3 2 1 0 1
+0 1 0 0 0 0
+Built-in apps
+Built-in\O apps\O are\O purely\O amazing\B .\O
+0 0 1 2 3 4
+1 0 0 0 0
+operating system
+From\O the\O speed\O to\O the\O multi\O touch\O gestures\O this\O operating\O system\O beats\B Windows\O easily\O .\O
+9 8 7 6 5 4 3 2 1 0 0 1 2 3 4
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0
+size
+I\O really\O like\B the\O size\O and\O I\O 'm\O a\O fan\O of\O the\O ACERS\O .\O
+4 3 2 1 0 1 2 3 4 5 6 7 8 9
+0 0 0 0 0 1 0 0 0 0 1 0
+SquareTrade 3-Year Computer Accidental Protection Warranty
+I\O opted\O for\O the\O SquareTrade\O 3-Year\O Computer\O Accidental\O Protection\O Warranty\O (\O $\O 1500-2000\O )\O which\O also\O support\B ``\O accidents\O ''\O like\O drops\O and\O spills\O that\O are\O NOT\O covered\O by\O AppleCare\O .\O
+4 3 2 1 0 0 0 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+0 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+AppleCare
+I\O opted\O for\O the\O SquareTrade\O 3-Year\O Computer\O Accidental\O Protection\O Warranty\O (\O $\O 1500-2000\O )\O which\O also\O support\O ``\O accidents\O ''\O like\O drops\O and\O spills\O that\O are\O NOT\B covered\I by\O AppleCare\O .\O
+29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+transport
+It\O 's\O light\B and\O easy\B to\O transport\O .\O
+6 5 4 3 2 1 0 1
+1 1 0 0 0 0 0
+Windows 8 Set-Up
+Once\O you\O get\O past\O learning\O how\O to\O use\O the\O poorly\B designed\I Windows\O 8\O Set-Up\O you\O may\O feel\O frustrated\B .\O
+11 10 9 8 7 6 5 4 3 2 1 0 0 0 1 2 3 4 5
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+aluminum body
+The\O aluminum\O body\O sure\O makes\O it\O stand\B out\I .\O
+1 0 0 1 2 3 4 5 6
+1 0 0 1 0 1 0 0 0
+integrate bluetooth devices
+It\O is\O very\O easy\B to\O integrate\O bluetooth\O devices\O ,\O and\O USB\O devices\O are\O recognized\O almost\O instantly\O .\O
+5 4 3 2 1 0 0 0 1 2 3 4 5
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+USB devices
+It\O is\O very\O easy\O to\O integrate\O bluetooth\O devices\O ,\O and\O USB\O devices\O are\O recognized\O almost\O instantly\B .\O
+7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+Intel4000 graphic chip
+And\O the\O fact\O that\O Apple\O is\O driving\O the\O 13\O ''\O RMBP\O with\O the\O Intel4000\O graphic\O chip\O seems\O underpowered\B (\O to\O me\O .\O
+13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 1 2 3 4 5 6
+0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0
+DVD drive Firewire port
+Apple\O removed\B the\O DVD\O drive\O Firewire\O port\O (\O will\O work\O with\O adapter\O )\O and\O put\O the\O SDXC\O slot\O in\O a\O silly\O position\O on\O the\O back\O .\O
+3 2 1 0 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SDXC slot
+Apple\O removed\O the\O DVD\O drive\O Firewire\O port\O (\O will\O work\O with\O adapter\O )\O and\O put\O the\O SDXC\O slot\O in\O a\O silly\B position\O on\O the\O back\O .\O
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8
+1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+durability
+The\O durability\O of\O the\O laptop\O will\O make\O it\O worth\B the\O money\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 1 0 0 0 1 0 0 0
+designed
+Well\B designed\O and\O fast\O .\O
+1 0 1 2 3
+1 0 0 0 0
+use
+But\O I\O was\O completely\O wrong\O ,\O this\O computer\O is\O UNBELIEVABLE\O amazing\O and\O easy\B to\O use\O .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0
+value
+Exactly\O as\O posted\O plus\O a\O great\B value\O .\O
+6 5 4 3 2 1 0 1
+0 0 0 0 0 1 0 0
+specs
+The\O specs\O are\O pretty\O good\B too\O .\O
+1 0 1 2 3 4 5
+1 1 0 0 0 0 0
+product quality
+Apple\O is\O unmatched\B in\O product\O quality\O ,\O aesthetics\O ,\O craftmanship\O ,\O and\O customer\O service\O .\O
+4 3 2 1 0 0 1 2 3 4 5 6 7 8 9
+1 1 0 1 0 0 0 0 0 0 0 0 0 0 0
+aesthetics
+Apple\O is\O unmatched\B in\O product\O quality\O ,\O aesthetics\O ,\O craftmanship\O ,\O and\O customer\O service\O .\O
+7 6 5 4 3 2 1 0 1 2 3 4 5 6 7
+1 1 0 1 0 0 0 0 0 0 0 0 0 0 0
+craftmanship
+Apple\O is\O unmatched\B in\O product\O quality\O ,\O aesthetics\O ,\O craftmanship\O ,\O and\O customer\O service\O .\O
+9 8 7 6 5 4 3 2 1 0 1 2 3 4 5
+1 1 0 1 0 0 0 0 0 0 0 0 0 0 0
+customer service
+Apple\O is\O unmatched\B in\O product\O quality\O ,\O aesthetics\O ,\O craftmanship\O ,\O and\O customer\O service\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+1 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+size
+It\O is\O a\O great\B size\O and\O amazing\O windows\O 8\O included\O !\O
+4 3 2 1 0 1 2 3 4 5 6
+0 0 0 1 0 0 1 0 0 0
+windows 8
+It\O is\O a\O great\O size\O and\O amazing\B windows\O 8\O included\O !\O
+7 6 5 4 3 2 1 0 0 1 2
+0 0 0 1 0 0 1 0 0 0
+Windows 8
+I\O do\O not\B like\I too\O much\O Windows\O 8\O .\O
+6 5 4 3 2 1 0 0 1
+0 0 0 0 0 0 0 0
+Startup times
+Startup\O times\O are\O incredibly\O long\B :\O over\O two\O minutes\O .\O
+0 0 1 2 3 4 5 6 7 8
+1 1 0 0 0 0 0 0 0 0
+colors
+Also\O stunning\B colors\O and\O speedy\O
+2 1 0 1 2
+1 0 0 1 0
+price
+great\B price\O free\O shipping\O what\O else\O can\O i\O ask\O for\O !\O !\O
+1 0 1 2 3 4 5 6 7 8 9 10
+1 0 0 0 0 0 0 0 0 0 0 0
+shipping
+great\O price\O free\B shipping\O what\O else\O can\O i\O ask\O for\O !\O !\O
+3 2 1 0 1 2 3 4 5 6 7 8
+1 0 0 0 0 0 0 0 0 0 0 0
+mouse
+This\O mouse\O is\O terrific\B .\O
+1 0 1 2 3
+0 1 0 0 0
+battery
+It\O is\O really\O thick\B around\O the\O battery\O .\O
+6 5 4 3 2 1 0 1
+0 0 0 0 0 1 1 0
+windows 7
+And\O windows\O 7\O works\O like\O a\O charm\B .\O
+1 0 0 1 2 3 4 5
+0 0 0 0 0 0 0
+price
+:\O )\O Great\O product\O ,\O great\B price\O ,\O great\O delivery\O ,\O and\O great\O service\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8
+0 1 0 0 0 0 0 0 0 0 0 1 0 0
+delivery
+:\O )\O Great\O product\O ,\O great\O price\O ,\O great\B delivery\O ,\O and\O great\O service\O .\O
+9 8 7 6 5 4 3 2 1 0 1 2 3 4 5
+0 1 0 0 0 0 0 0 0 0 0 1 0 0
+service
+:\O )\O Great\O product\O ,\O great\O price\O ,\O great\O delivery\O ,\O and\O great\B service\O .\O
+13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 1 0 0 0 0 0 0 0 0 0 1 0 0
+customer service
+:\O ]\O It\O arrived\O so\O fast\O and\O customer\O service\O was\O great\B .\O
+7 6 5 4 3 2 1 0 0 1 2 3
+0 1 0 0 0 0 0 1 0 0 0
+windows 8
+tried\O windows\O 8\O and\O hated\B it\O !\O !\O !\O
+1 0 0 1 2 3 4 5 6
+1 0 0 1 0 0 0 0
+price
+The\O price\O is\O higher\B than\O most\O lab\O top\O out\O there\O ;\O however\O ,\O he/she\O will\O get\O what\O they\O paid\O for\O ,\O which\O is\O a\O great\O computer\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+0 0 0 0 0 0 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 1 1 0
+Set up
+Set\O up\O was\O a\O breeze\B .\O
+0 0 1 2 3 4
+0 1 0 0 0 0
+Win8
+But\O I\O do\O NOT\B like\I Win8\O .\O
+5 4 3 2 1 0 1
+0 0 0 1 0 0
+OSX
+I\O had\O the\O same\O reasons\O as\O most\O PC\O users\O :\O the\O price\O ,\O the\O overbearing\B restrictions\O of\O OSX\O and\O lack\O of\O support\O for\O games\O .\O
+17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+support for games
+I\O had\O the\O same\O reasons\O as\O most\O PC\O users\O :\O the\O price\O ,\O the\O overbearing\O restrictions\O of\O OSX\O and\O lack\B of\O support\O for\O games\O .\O
+21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 1
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+mobility
+I\O wanted\O it\O for\O it\O 's\O mobility\O and\O man\O ,\O this\O little\O bad\O boy\O is\O very\O nice\B .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+price
+The\O investment\O of\O a\O new\O MacBook\O Pro\O came\O at\O a\O price\O ,\O but\O totally\O worth\B it\O for\O a\O good\O piece\O of\O mind\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0
+set up
+I\O found\O the\O mini\O to\O be\O :\O Exceptionally\O easy\B to\O set\O up\O
+10 9 8 7 6 5 4 3 2 1 0 0
+0 0 0 1 0 0 0 1 1 1 1 0
+sound
+The\O sound\O is\O nice\B and\O loud\B ;\O I\O do\O n't\O have\O any\O problems\O with\O hearing\O anything\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+track pad
+It\O is\O very\O slim\B ,\O the\O track\O pad\O is\O very\O much\O impressed\B with\O me\O .\O
+6 5 4 3 2 1 0 0 1 2 3 4 5 6 7
+0 0 0 0 1 0 0 1 0 0 1 1 1 0 0
+settings
+The\O settings\O are\O not\B user-friendly\I either\O .\O
+1 0 1 2 3 4 5
+0 0 0 1 0 0
+OpenOffice
+Thank\O goodness\B for\O OpenOffice\O !\O
+3 2 1 0 1
+1 0 0 0
+form factor
+Awesome\B form\O factor\O ,\O great\O battery\O life\O ,\O wonderful\O UX\O .\O
+1 0 0 1 2 3 4 5 6 7 8
+1 1 0 0 1 1 0 0 0 0
+battery life
+Awesome\O form\O factor\O ,\O great\B battery\O life\O ,\O wonderful\O UX\O .\O
+5 4 3 2 1 0 0 1 2 3 4
+1 1 0 0 1 1 0 0 0 0
+UX
+Awesome\O form\O factor\O ,\O great\O battery\O life\O ,\O wonderful\B UX\O .\O
+9 8 7 6 5 4 3 2 1 0 1
+1 1 0 0 1 1 0 0 0 0
+keyboard
+i\O love\B the\O keyboard\O and\O the\O screen\O .\O
+3 2 1 0 1 2 3 4
+0 0 0 0 0 0 0 0
+screen
+i\O love\B the\O keyboard\O and\O the\O screen\O .\O
+6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 0
+touchpad
+However\O ,\O there\O are\O MAJOR\O issues\B with\O the\O touchpad\O which\O render\O the\O device\O nearly\O useless\B .\O
+8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7
+0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0
+Mavericks
+I\O 've\O already\O upgraded\O o\O Mavericks\O and\O I\O am\O impressed\B with\O everything\O about\O this\O computer\O .\O
+5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 0 0 0 0 0 0 0 0 1 0
+i5
+Not\B as\I fast\I as\O I\O would\O have\O expect\O for\O an\O i5\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1
+1 1 0 0 0 0 0 0 0 0 0
+service
+thanks\O for\O great\B service\O and\O shipping\O !\O
+3 2 1 0 1 2 3
+1 0 1 0 0 0 0
+shipping
+thanks\O for\O great\B service\O and\O shipping\O !\O
+5 4 3 2 1 0 1
+1 0 1 0 0 0 0
+performance
+The\O performance\O seems\O quite\O good\B ,\O and\O built-in\O applications\O like\O iPhoto\O work\O great\O with\O my\O phone\O and\O camera\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0
+built-in applications
+The\O performance\O seems\O quite\O good\O ,\O and\O built-in\O applications\O like\O iPhoto\O work\O great\B with\O my\O phone\O and\O camera\O .\O
+7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10
+1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0
+iPhoto
+The\O performance\O seems\O quite\O good\O ,\O and\O built-in\O applications\O like\O iPhoto\O work\O great\B with\O my\O phone\O and\O camera\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8
+1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0
+Samsung 830 SSD
+I\O did\O swap\O out\O the\O hard\O drive\O for\O a\O Samsung\O 830\O SSD\O which\O I\O highly\O recommend\B .\O
+9 8 7 6 5 4 3 2 1 0 0 0 1 2 3 4 5
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0
+aluminum
+Yes\O ,\O that\O 's\O a\O good\O thing\O ,\O but\O it\O 's\O made\O from\O aluminum\O that\O scratches\B easily\I .\O
+13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4
+1 1 0 0 0 0 1 0 1 1 0 1 0 0 0 0
+components
+I\O was\O also\O informed\O that\O the\O components\O of\O the\O Mac\O Book\O were\O dirty\B .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7
+0 0 0 1 0 0 0 0 0 1 0 0 1 0
+hardware
+the\O hardware\O problems\O have\O been\O so\O bad\B ,\O i\O ca\O n't\O wait\O till\O it\O completely\O dies\O in\O 3\O years\O ,\O TOPS\O !\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0
+battery
+It\O 's\O so\O nice\B that\O the\O battery\O last\O so\O long\B and\O that\O this\O machine\O has\O the\O snow\O lion\O !\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0
+features
+it\O 's\O exactly\O what\O i\O wanted\B ,\O and\O it\O has\O all\O the\O new\B features\O and\O whatnot\O .\O
+13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+keyboard
+It\O feels\O cheap\B ,\O the\O keyboard\O is\O not\B very\I sensitive\I .\O
+5 4 3 2 1 0 1 2 3 4 5
+0 0 1 0 0 1 0 1 0 0 0
+sound quality
+Though\O please\O note\O that\O sometimes\O it\O crashes\O ,\O and\O the\O sound\O quality\O isnt\B superb\I .\O
+10 9 8 7 6 5 4 3 2 1 0 0 1 2 3
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0
+navigate
+It\O is\O very\O easy\B to\O navigate\O even\O for\O a\O novice\O .\O
+5 4 3 2 1 0 1 2 3 4 5
+0 0 0 1 0 1 0 0 0 0 0
+battery life
+Does\O everything\O I\O need\O it\O to\O ,\O has\O a\O wonderful\B battery\O life\O and\O I\O could\O n't\O be\O happier\O .\O
+10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+Performance
+Great\B Performance\O and\O Quality\O .\O
+1 0 1 2 3
+1 0 0 0 0
+Quality
+Great\B Performance\O and\O Quality\O .\O
+3 2 1 0 1
+1 0 0 0 0
+material
+One\O more\O thing\O ,\O this\O mac\O does\O NOT\O come\O with\O restore\O disks\O and\O I\O am\O not\O sure\O if\O you\O can\O make\O them\O direct\O from\O the\O mac\O like\O you\O can\O with\O newer\O PC\O 's\O ,\O also\O the\O charging\O cables\O are\O made\O of\O the\O same\O cheap\B material\O as\O the\O iPhone/iPod\O touch\O cables\O .\O
+44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6
+0 0 0 1 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 1 0 0 0 1 0 0
+os
+The\O new\O os\O is\O great\B on\O my\O macbook\O pro\O !\O
+2 1 0 1 2 3 4 5 6 7
+0 0 0 0 1 0 0 0 0 0
+screen
+I\O had\O a\O little\O problem\O adjusting\O to\O the\O small\B screen\O but\O works\O fine\O as\O long\O as\O I\O remember\O to\O carry\O my\O glasses\O .\O
+9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0
+works
+I\O have\O experienced\O no\O problems\O ,\O works\O as\B anticipated\I .\O
+6 5 4 3 2 1 0 1 2 3
+0 0 0 0 0 0 1 1 0 0
+System
+System\O is\O running\O great\B .\O
+0 1 2 3 4
+1 0 0 0 0
+customize setting
+Easy\B to\O customize\O setting\O and\O even\O create\O your\O own\O bookmarks\O .\O
+2 1 0 0 1 2 3 4 5 6 7
+1 1 0 0 1 0 0 0 0 0 0
+create your own bookmarks
+Easy\B to\O customize\O setting\O and\O even\O create\O your\O own\O bookmarks\O .\O
+6 5 4 3 2 1 0 0 0 0 1
+1 1 0 0 1 0 0 0 0 0 0
+price
+it\O has\O all\O the\O features\O that\O we\O expected\O and\O the\O price\O was\O good\B ,\O working\O well\O so\O far\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8
+0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0
+working
+it\O has\O all\O the\O features\O that\O we\O expected\O and\O the\O price\O was\O good\O ,\O working\O well\B so\O far\O .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0
+operating system
+The\O new\B operating\O system\O makes\O this\O computer\O into\O a\O super\O iPad\O .\O
+2 1 0 0 1 2 3 4 5 6 7 8
+1 0 0 0 0 0 1 0 0 0 1 0
+set up
+Easy\B to\O set\O up\O and\O go\O !\O
+2 1 0 0 1 2 3
+1 0 0 0 0 0 0
+hard drive
+I\O ca\O n't\O believe\O how\O quiet\B the\O hard\O drive\O is\O and\O how\O quick\O this\O thing\O boots\O up\O .\O
+7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+boots up
+I\O ca\O n't\O believe\O how\O quiet\O the\O hard\O drive\O is\O and\O how\O quick\B this\O thing\O boots\O up\O .\O
+15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+works
+It\O 's\O just\O what\O we\O were\O looking\O for\O and\O it\O works\O great\B .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2
+0 0 0 0 0 0 0 0 0 0 1 0
+working
+It\O 's\O so\O quick\O and\O responsive\O that\O it\O makes\O working\O /\O surfing\O on\O a\O computer\O so\O much\O more\O pleasurable\B !\O
+9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+surfing
+It\O 's\O so\O quick\O and\O responsive\O that\O it\O makes\O working\O /\O surfing\O on\O a\O computer\O so\O much\O more\O pleasurable\B !\O
+11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+works
+It\O works\O fine\B ,\O and\O all\O the\O software\O seems\O to\O run\O pretty\O well\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12
+1 1 1 1 0 0 0 0 0 0 0 0 0 0
+software
+It\O works\O fine\O ,\O and\O all\O the\O software\O seems\O to\O run\O pretty\O well\B .\O
+7 6 5 4 3 2 1 0 1 2 3 4 5 6
+1 0 1 1 0 0 0 1 0 0 0 0 0 0
+performance
+I\O wanted\O a\O computer\O that\O was\O quite\O ,\O fast\O ,\O and\O that\O had\O overall\O great\B performance\O .\O
+15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+Harddrive
+Harddrive\O was\O in\O poor\B condition\O ,\O had\O to\O replace\O it\O .\O
+0 1 2 3 4 5 6 7 8 9 10
+1 0 0 0 0 0 0 0 0 0 0
+on/off switch
+The\O on/off\O switch\O is\O a\O bit\O obscure\B in\O the\O rear\O corner\O .\O
+1 0 0 1 2 3 4 5 6 7 8 9
+0 0 0 0 0 0 0 0 0 0 0
+instructions
+My\O only\O complaint\O is\O the\O total\O lack\B of\O instructions\O that\O come\O with\O the\O mac\O mini\O .\O
+8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+gaming
+The\O only\O task\O that\O this\O computer\O would\O not\B be\I good\I enough\O for\O would\O be\O gaming\O ,\O otherwise\O the\O integrated\O Intel\O 4000\O graphics\O work\O well\O for\O other\O tasks\O .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 0 0 0 0 0 0
+integrated Intel 4000 graphics
+The\O only\O task\O that\O this\O computer\O would\O not\O be\O good\O enough\O for\O would\O be\O gaming\O ,\O otherwise\O the\O integrated\O Intel\O 4000\O graphics\O work\O well\B for\O other\O tasks\O .\O
+18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 0 1 2 3 4 5 6
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 0 0 0 0 0 0
+features
+I\O 'm\O hoping\O the\O rest\O of\O the\O features\O will\O be\O the\O signature\B quality\O of\O apple\O .\O
+7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+Audio
+I\O use\O it\O mostly\O for\O content\O creation\O (\O Audio\O ,\O video\O ,\O photo\O editing\O )\O and\O its\O reliable\B .\O
+8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+video
+I\O use\O it\O mostly\O for\O content\O creation\O (\O Audio\O ,\O video\O ,\O photo\O editing\O )\O and\O its\O reliable\B .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+photo editing
+I\O use\O it\O mostly\O for\O content\O creation\O (\O Audio\O ,\O video\O ,\O photo\O editing\O )\O and\O its\O reliable\B .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Screen
+Screen\O is\O bright\B and\O gorgeous\B .\O
+0 1 2 3 4 5
+1 1 0 0 0 0
+use
+It\O is\O robust\O ,\O with\O a\O friendly\B use\O as\O all\O Apple\O products\O .\O
+7 6 5 4 3 2 1 0 1 2 3 4 5
+0 0 0 0 0 0 0 0 0 0 1 0 0
+use
+It\O is\O fast\O and\O easy\B to\O use\O .\O
+6 5 4 3 2 1 0 1
+0 0 0 0 1 0 0 0
+i5 processor
+And\O the\O fact\O that\O it\O comes\O with\O an\O i5\O processor\O definitely\O speeds\B things\I up\I
+8 7 6 5 4 3 2 1 0 0 1 2 3 4
+0 1 0 0 0 0 0 1 1 0 0 1 0
+built in features
+I\O have\O been\O PC\O for\O years\O but\O this\O computer\O is\O intuitive\O and\O its\O built\O in\O features\O are\O a\O great\B help\I
+13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 1 2 3 4
+0 0 0 1 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0
+screen
+Nice\B screen\O ,\O keyboard\O works\O great\O !\O
+1 0 1 2 3 4 5
+1 0 0 0 0 1 0
+keyboard
+Nice\O screen\O ,\O keyboard\O works\O great\B !\O
+3 2 1 0 1 2 3
+1 0 0 0 0 1 0
+delivery
+I\O was\O amazed\B at\O how\O fast\B the\O delivery\O was\O .\O
+7 6 5 4 3 2 1 0 1 2
+0 0 0 0 0 0 0 0 0 0
+memory
+The\O memory\O was\O gone\B and\O it\O was\O not\B able\I to\I be\I used\I .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11
+0 1 0 0 0 1 0 1 0 0 0 0 0
+works
+It\O works\O great\B and\O I\O am\O so\O happy\O I\O bought\O it\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 0 0 0 1 0 0 0 0
+design
+I\O like\B the\O design\O and\O ease\O of\O use\O with\O the\O keyboard\O ,\O plenty\O of\O ports\O .\O
+3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 0 0 1 1 0 1 1 1 1 0 0 0 0 0
+keyboard
+I\O like\B the\O design\O and\O ease\B of\I use\I with\O the\O keyboard\O ,\O plenty\O of\O ports\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5
+0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0
+ports
+I\O like\O the\O design\O and\O ease\O of\O use\O with\O the\O keyboard\O ,\O plenty\B of\O ports\O .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0
+service
+it\O definitely\O beats\O my\O old\O mac\O and\O the\O service\O was\O great\B .\O
+8 7 6 5 4 3 2 1 0 1 2 3
+0 0 0 0 0 1 0 0 1 0 0 0
+Web browsing
+Web\O browsing\O is\O very\O quick\B with\O Safari\O browser\O .\O
+0 0 1 2 3 4 5 6 7
+1 1 0 0 0 1 0 0 0
+Safari browser
+Web\O browsing\O is\O very\O quick\B with\O Safari\O browser\O .\O
+6 5 4 3 2 1 0 0 1
+0 0 0 0 0 1 0 0 0
+lighted screen
+I\O like\B the\O lighted\O screen\O at\O night\O .\O
+3 2 1 0 0 1 2 3
+0 0 1 0 0 0 0 0
+use
+It\O is\O really\O easy\B to\O use\O and\O it\O is\O quick\O to\O start\O up\O .\O
+5 4 3 2 1 0 1 2 3 4 5 6 7 8
+1 0 0 1 1 0 1 0 0 0 0 0 0 0
+start up
+It\O is\O really\O easy\O to\O use\O and\O it\O is\O quick\B to\O start\O up\O .\O
+11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 0 1 0 0 1 0 0 0 0 0 0 0
+operation
+I\O 've\O lived\O with\O the\O crashes\O and\O slow\B operation\O and\O restarts\O .\O
+8 7 6 5 4 3 2 1 0 1 2 3
+0 0 0 0 1 0 1 0 0 0 0
+USB3 Peripherals
+USB3\O Peripherals\O are\O noticably\O less\B expensive\I than\O the\O ThunderBolt\O ones\O .\O
+0 0 1 2 3 4 5 6 7 8 9
+0 0 0 0 0 0 0 1 0 0
+media editing
+It\O 's\O fast\O ,\O light\O ,\O and\O is\O perfect\B for\O media\O editing\O ,\O which\O is\O mostly\O why\O I\O bought\O it\O in\O the\O first\O place\O .\O
+10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+1 1 1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+user experience
+The\O battery\O lasts\O as\O advertised\O (\O give\O or\O take\O 15-20\O minutes\O )\O ,\O and\O the\O entire\O user\O experience\O is\O very\O elegant\B .\O
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0
+shipment
+Thanks\O for\O the\O fast\B shipment\O and\O great\O price\O .\O
+4 3 2 1 0 1 2 3 4
+1 0 0 0 0 0 1 0 0
+price
+Thanks\O for\O the\O fast\O shipment\O and\O great\B price\O .\O
+7 6 5 4 3 2 1 0 1
+1 0 0 0 0 0 1 0 0
+performance
+!\O Excellent\B performance\O ,\O usability\O ,\O presentation\O and\O time\O response\O .\O
+2 1 0 1 2 3 4 5 6 7 8
+1 1 1 0 0 0 0 0 0 0 0
+usability
+!\O Excellent\B performance\O ,\O usability\O ,\O presentation\O and\O time\O response\O .\O
+4 3 2 1 0 1 2 3 4 5 6
+0 1 1 0 0 0 0 0 0 0 0
+presentation
+!\O Excellent\B performance\O ,\O usability\O ,\O presentation\O and\O time\O response\O .\O
+6 5 4 3 2 1 0 1 2 3 4
+0 1 1 0 0 0 0 0 0 0 0
+time response
+!\O Excellent\B performance\O ,\O usability\O ,\O presentation\O and\O time\O response\O .\O
+8 7 6 5 4 3 2 1 0 0 1
+0 1 1 0 0 0 0 0 0 0 0
+size
+The\O smaller\B size\O was\O a\O bonus\B because\O of\O space\O restrictions\O .\O
+2 1 0 1 2 3 4 5 6 7 8
+1 0 0 0 0 0 0 0 0 0 0
+Mac OS
+I\O blame\B the\O Mac\O OS\O .\O
+3 2 1 0 0 1
+0 0 1 1 0 0
+operating system
+I\O like\B the\O operating\O system\O .\O
+3 2 1 0 0 1
+0 0 1 0 1 0
+form factor
+I\O love\B the\O form\O factor\O .\O
+3 2 1 0 0 1
+0 0 0 1 0 0
+loading the internet
+It\O 's\O fast\B at\O loading\O the\O internet\O .\O
+4 3 2 1 0 0 0 1
+1 0 0 1 0 0 0
+looking
+So\O much\O faster\B and\O sleeker\B looking\O .\O
+5 4 3 2 1 0 1
+1 0 0 0 0 0 0
+XP
+Unfortunately\B ,\O it\O runs\O XP\O and\O Microsoft\O is\O dropping\O support\O next\O April\O .\O
+4 3 2 1 0 1 2 3 4 5 6 7 8
+0 0 0 0 1 0 1 0 0 0 0 0 0
+support
+Unfortunately\B ,\O it\O runs\O XP\O and\O Microsoft\O is\O dropping\B support\O next\O April\O .\O
+9 8 7 6 5 4 3 2 1 0 1 2 3
+0 0 0 0 1 0 1 0 1 0 0 0 0
+OS
+First\O off\O ,\O I\O really\O do\O like\B my\O MBP\O ...\O once\O used\O to\O the\O OS\O it\O is\O pretty\O easy\B to\O get\O around\O ,\O and\O the\O overall\O build\O is\O great\O ...\O eg\O the\O keyboard\O is\O one\O of\O the\O best\O to\O type\O on\O .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27
+0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 1 0 0 0 0
+overall build
+First\O off\O ,\O I\O really\O do\O like\O my\O MBP\O ...\O once\O used\O to\O the\O OS\O it\O is\O pretty\O easy\O to\O get\O around\O ,\O and\O the\O overall\O build\O is\O great\B ...\O eg\O the\O keyboard\O is\O one\O of\O the\O best\O to\O type\O on\O .\O
+25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 1 0 0 0 0
+keyboard
+First\O off\O ,\O I\O really\O do\O like\O my\O MBP\O ...\O once\O used\O to\O the\O OS\O it\O is\O pretty\O easy\O to\O get\O around\O ,\O and\O the\O overall\O build\O is\O great\O ...\O eg\O the\O keyboard\O is\O one\O of\O the\O best\B to\O type\O on\O .\O
+32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9
+0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 1 0 0 0 0
+construction
+It\O is\O made\O of\O such\O solid\B construction\O and\O since\O I\O have\O never\O had\O a\O Mac\O using\O my\O iPhone\O helped\O me\O get\O used\O to\O the\O system\O a\O bit\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+1 1 1 1 1 1 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0
+unibody construction
+Very\O nice\B unibody\O construction\O .\O
+2 1 0 0 1
+0 1 1 0 0
+runs
+This\O Macbook\O Pro\O is\O fast\O ,\O powerful\O ,\O and\O runs\O super\O quiet\B and\O cool\B .\O
+9 8 7 6 5 4 3 2 1 0 1 2 3 4 5
+0 1 0 0 0 1 0 1 0 0 0 0 0 0 0
+disk drive
+It\O 's\O ok\O but\O does\B n't\I have\I a\O disk\O drive\O which\O I\O did\O n't\O know\O until\O after\O I\O bought\O it\O .\O
+8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+HDMI receptacle
+There\O is\O no\B HDMI\O receptacle\O ,\O nor\O is\O there\O an\O SD\O card\O slot\O located\O anywhere\O on\O the\O device\O .\O
+3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SD card slot
+There\O is\O no\O HDMI\O receptacle\O ,\O nor\B is\O there\O an\O SD\O card\O slot\O located\O anywhere\O on\O the\O device\O .\O
+10 9 8 7 6 5 4 3 2 1 0 0 0 1 2 3 4 5 6
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+works
+It\O came\O in\O brand\O new\O and\O works\O perfectly\B .\O
+6 5 4 3 2 1 0 1 2
+0 0 0 0 0 0 0 1 0
+design app
+It\O should\O n't\O happen\O like\O that\O ,\O I\O do\B n't\I have\I any\O design\O app\O open\O or\O anything\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4
+0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0
+TRACKPAD
+MY\O TRACKPAD\O IS\O NOT\B WORKING\I .\O
+1 0 1 2 3 4
+0 1 0 1 0 0
+finish
+It\O looks\O and\O feels\O solid\O ,\O with\O a\O flawless\B finish\O .\O
+9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 0 0 0 0
+looks
+It\O looks\O and\O feels\O solid\B ,\O with\O a\O flawless\O finish\O .\O
+1 0 1 2 3 4 5 6 7 8 9
+1 0 0 0 0 0 0 0 0 0 0
+feels
+It\O looks\O and\O feels\O solid\B ,\O with\O a\O flawless\O finish\O .\O
+3 2 1 0 1 2 3 4 5 6 7
+0 0 0 0 0 0 0 0 0 0 0
+Price
+Price\O was\O higher\B when\O purchased\O on\O MAC\O when\O compared\O to\O price\O showing\O on\O PC\O when\O I\O bought\O this\O product\O .\O
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+system
+Then\O the\O system\O would\O many\O times\O not\B power\I down\I without\O a\O forced\O power-off\O .\O
+2 1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 1 1 0 0 0 0 0 0 0 0 0
+power down
+Then\O the\O system\O would\O many\O times\O not\B power\O down\O without\O a\O forced\O power-off\O .\O
+7 6 5 4 3 2 1 0 0 1 2 3 4 5
+0 0 1 1 0 0 0 0 0 0 0 0 0
+configuration
+The\O configuration\O is\O perfect\B for\O my\O needs\O .\O
+1 0 1 2 3 4 5 6
+0 1 0 0 0 0 0 0
+speakers
+and\O the\O speakers\O is\O the\O worst\B ever\O .\O
+2 1 0 1 2 3 4 5
+0 0 1 0 0 1 0 0
+use
+Its\O the\O best\O ,\O its\O got\O the\O looks\O ,\O super\O easy\B to\O use\O and\O love\O all\O you\O can\O do\O with\O the\O trackpad\O !\O ..\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0
+trackpad
+Its\O the\O best\O ,\O its\O got\O the\O looks\O ,\O super\O easy\O to\O use\O and\O love\B all\O you\O can\O do\O with\O the\O trackpad\O !\O ..\O
+21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2
+0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0
+Web surfuring
+Web\O surfuring\O is\O smooth\B and\O seamless\B .\O
+0 0 1 2 3 4 5
+1 0 0 0 0 0
+interface
+I\O 'm\O overall\O pleased\B with\O the\O interface\O and\O the\O portability\O of\O this\O product\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7
+0 0 1 1 0 0 0 0 0 0 0 0 0
+portability
+I\O 'm\O overall\O pleased\B with\O the\O interface\O and\O the\O portability\O of\O this\O product\O .\O
+9 8 7 6 5 4 3 2 1 0 1 2 3 4
+0 0 1 1 0 0 0 0 0 0 0 0 0
+works
+This\O item\O is\O a\O beautiful\O piece\O ,\O it\O works\O well\B ,\O it\O is\O easy\O to\O carry\O and\O handle\O .\O
+8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 1 0 0
+carry
+This\O item\O is\O a\O beautiful\O piece\O ,\O it\O works\O well\O ,\O it\O is\O easy\B to\O carry\O and\O handle\O .\O
+15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3
+0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0
+handle
+This\O item\O is\O a\O beautiful\O piece\O ,\O it\O works\O well\O ,\O it\O is\O easy\B to\O carry\O and\O handle\O .\O
+17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0
+performance
+It\O was\O also\O suffering\O from\O hardware\O (\O keyboard\O )\O issues\O ,\O relatively\O slow\B performance\O and\O shortening\O battery\O lifetime\O .\O
+13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5
+1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0
+battery lifetime
+It\O was\O also\O suffering\O from\O hardware\O (\O keyboard\O )\O issues\O ,\O relatively\O slow\O performance\O and\O shortening\B battery\O lifetime\O .\O
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0
+hardware ( keyboard )
+It\O was\O also\O suffering\B from\O hardware\O (\O keyboard\O )\O issues\B ,\O relatively\O slow\O performance\O and\O shortening\O battery\O lifetime\O .\O
+5 4 3 2 1 0 0 0 0 1 2 3 4 5 6 7 8 9 10
+1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0
+Runs
+Runs\O good\B and\O does\O the\O job\O ,\O ca\O n't\O complain\O about\O that\O !\O
+0 1 2 3 4 5 6 7 8 9 10 11 12
+1 1 0 0 0 1 0 0 0 0 1 0
+footprint
+It\O 's\O silent\O and\O has\O a\O very\O small\B footprint\O on\O my\O desk\O .\O
+8 7 6 5 4 3 2 1 0 1 2 3 4
+1 1 1 0 0 0 0 0 0 0 0 0
+exterior
+The\O exterior\O is\O absolutely\O gorgeous\B .\O
+1 0 1 2 3 4
+1 0 0 0 0 0
+performance
+It\O has\O a\O very\O high\B performance\O ,\O just\O for\O what\O I\O needed\O for\O .\O
+5 4 3 2 1 0 1 2 3 4 5 6 7 8
+0 0 0 0 0 1 1 0 0 0 0 0 0 0
+intel 4000 graphics chipset
+Apple\O is\O aware\O of\O this\O issue\O and\O this\O is\O either\O old\O stock\O or\O a\O defective\B design\O involving\O the\O intel\O 4000\O graphics\O chipset\O .\O
+18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 0 1
+1 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 1 1 1 0
+design
+Apple\O is\O aware\O of\O this\O issue\O and\O this\O is\O either\O old\O stock\O or\O a\O defective\B design\O involving\O the\O intel\O 4000\O graphics\O chipset\O .\O
+15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7
+1 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 1 1 1 0
+USB ports
+I\O just\O bought\O the\O new\O MacBook\O Pro\O ,\O the\O 13\O ''\O model\O ,\O and\O I\O ca\O n't\O believe\O Apple\O keeps\O making\O the\O same\O mistake\B with\O regard\O to\O USB\O ports\O .\O
+27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0 0
+size
+It\O is\O the\O perfect\B size\O and\O speed\O for\O me\O .\O
+4 3 2 1 0 1 2 3 4 5
+0 0 0 1 0 0 0 0 0 0
+speed
+It\O is\O the\O perfect\B size\O and\O speed\O for\O me\O .\O
+6 5 4 3 2 1 0 1 2 3
+0 0 0 1 0 0 0 0 0 0
+CUSTOMER SERVICE
+THE\O CUSTOMER\O SERVICE\O IS\O TERRIFIC\B !\O !\O
+1 0 0 1 2 3 4
+1 0 1 0 0 0 0
+performed
+My\O last\O laptop\O was\O a\O 17\O ''\O ASUS\O gaming\O machine\O ,\O which\O performed\O admirably\B ,\O but\O having\O since\O built\O my\O own\O desktop\O and\O really\O settling\O into\O the\O college\O life\O ,\O I\O found\O myself\O wanting\O something\O smaller\O and\O less\O cumbersome\O ,\O not\O to\O mention\O that\O the\O ASUS\O had\O been\O slowly\O developing\O problems\O ever\O since\O I\O bought\O it\O about\O 4\O years\O ago\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48
+0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+battery cycle count
+However\O ,\O it\O did\O not\O have\O any\O scratches\O ,\O ZERO\B battery\O cycle\O count\O (\O pretty\O surprised\B )\O ,\O and\O all\O the\O hardware\O seemed\O to\O be\O working\O perfectly\O .\O
+10 9 8 7 6 5 4 3 2 1 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+0 0 0 1 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0
+hardware
+However\O ,\O it\O did\O not\O have\O any\O scratches\O ,\O ZERO\O battery\O cycle\O count\O (\O pretty\O surprised\O )\O ,\O and\O all\O the\O hardware\O seemed\O to\O be\O working\O perfectly\B .\O
+21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6
+0 0 0 1 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0
+finger swipes
+And\O as\O for\O all\O the\O fancy\B finger\O swipes\O --\O I\O just\O gave\O up\O and\O attached\O a\O mouse\O .\O
+6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+storage
+I\O needed\O a\O laptop\O with\O big\B storage\O ,\O a\O nice\O screen\O and\O fast\O so\O I\O can\O photoshop\O without\O any\O problem\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+screen
+I\O needed\O a\O laptop\O with\O big\O storage\O ,\O a\O nice\B screen\O and\O fast\O so\O I\O can\O photoshop\O without\O any\O problem\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mac OS
+I\O like\B coming\O back\O to\O Mac\O OS\O but\O this\O laptop\O is\O lacking\O in\O speaker\O quality\O compared\O to\O my\O $\O 400\O old\O HP\O laptop\O .\O
+5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0
+speaker quality
+I\O like\O coming\O back\O to\O Mac\O OS\O but\O this\O laptop\O is\O lacking\B in\O speaker\O quality\O compared\O to\O my\O $\O 400\O old\O HP\O laptop\O .\O
+13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9
+0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0
+Shipped
+Shipped\O very\O quickly\B and\O safely\B .\O
+0 1 2 3 4 5
+0 0 0 0 0 0
+thunderbolt port
+The\O thunderbolt\O port\O is\O awesome\B !\O
+1 0 0 1 2 3
+0 0 0 0 1 0
+performance
+The\O performance\O is\O definitely\O superior\B to\O any\O computer\O I\O 've\O ever\O put\O my\O hands\O on\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 0 1 0 0 1 0 0 0 0 0 0 0
+streaming video
+It\O 's\O great\B for\O streaming\O video\O and\O other\O entertainment\O uses\O .\O
+4 3 2 1 0 0 1 2 3 4 5
+1 1 1 0 0 0 0 0 0 0
+entertainment uses
+It\O 's\O great\B for\O streaming\O video\O and\O other\O entertainment\O uses\O .\O
+8 7 6 5 4 3 2 1 0 0 1
+1 1 1 0 0 0 0 0 0 0
+design
+I\O like\B the\O design\O and\O its\O features\O but\O there\O are\O somethings\O I\O think\O needs\O to\O be\O improved\O .\O
+3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 1 0 0 0 0 1 1 0 1 0 0 1 1 0 0 0
+features
+I\O like\O the\O design\O and\O its\O features\O but\O there\O are\O somethings\O I\O think\O needs\B to\I be\I improved\I .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0
+Mac office
+There\O were\O small\O problems\B with\O Mac\O office\O .\O
+5 4 3 2 1 0 0 1
+0 0 0 0 0 1 0 0
+spec
+I\O ordered\O my\O 2012\O mac\O mini\O after\O being\O disappointed\B with\O spec\O of\O the\O new\O 27\O ''\O Imacs\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7
+0 0 0 1 0 0 0 0 0 0 0 0 0 0
+use
+Its\O fast\O ,\O easy\B to\O use\O and\O it\O looks\O great\O .\O
+5 4 3 2 1 0 1 2 3 4 5
+0 0 0 1 0 0 0 0 0 0 0
+looks
+Its\O fast\O ,\O easy\O to\O use\O and\O it\O looks\O great\B .\O
+8 7 6 5 4 3 2 1 0 1 2
+0 0 0 0 0 0 0 0 0 0 0
+Performance
+Performance\O is\O much\O much\O better\B on\O the\O Pro\O ,\O especially\O if\O you\O install\O an\O SSD\O on\O it\O .\O
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+0 0 0 0 1 1 0 0 1 1 0 0 0 0 0 0 0
+SSD
+Performance\O is\O much\O much\O better\B on\O the\O Pro\O ,\O especially\O if\O you\O install\O an\O SSD\O on\O it\O .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3
+0 0 0 0 1 1 0 0 1 1 0 0 0 0 0 0 0
+MagSafe accessories
+Note\O ,\O however\O ,\O that\O any\O existing\O MagSafe\O accessories\O you\O have\O will\O not\B work\I with\O the\O MagSafe\O 2\O connection\O .\O
+7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11
+1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0
+MagSafe 2 connection
+Note\O ,\O however\O ,\O that\O any\O existing\O MagSafe\O accessories\O you\O have\O will\O not\B work\I with\O the\O MagSafe\O 2\O connection\O .\O
+7 6 5 4 3 2 1 0 0 0 1
+1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0
+touchpad
+The\O only\O thing\O I\O dislike\B is\O the\O touchpad\O ,\O alot\O of\O the\O times\O its\O unresponsive\B and\O does\O things\O I\O dont\O want\O it\O too\O ,\O I\O would\O recommend\O using\O a\O mouse\O with\O it\O .\O
+7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+mouse
+The\O only\O thing\O I\O dislike\O is\O the\O touchpad\O ,\O alot\O of\O the\O times\O its\O unresponsive\O and\O does\O things\O I\O dont\O want\O it\O too\O ,\O I\O would\O recommend\B using\O a\O mouse\O with\O it\O .\O
+29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+runs
+The\O Mac\O mini\O is\O about\O 8x\O smaller\O than\O my\O old\O computer\O which\O is\O a\O huge\O bonus\O and\O runs\O very\O quiet\B ,\O actually\O the\O fans\O are\O n't\O audible\O unlike\O my\O old\O pc\O
+17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+fans
+The\O Mac\O mini\O is\O about\O 8x\O smaller\O than\O my\O old\O computer\O which\O is\O a\O huge\O bonus\O and\O runs\O very\O quiet\O ,\O actually\O the\O fans\O are\B n't\I audible\I unlike\O my\O old\O pc\O
+23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7
+1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mac ecosystem
+I\O thought\O the\O transition\O would\O be\O difficult\O at\O best\O and\O would\O take\B some\I time\I to\O fully\O familiarize\O myself\O with\O the\O new\O Mac\O ecosystem\O .\O
+21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 0 1 0 0 1 1 0 1 0 0 0 0 0 0 1 0 0 0 1 0
+price
+It\O 's\O absolutely\O wonderful\B and\O worth\B the\O price\O !\O
+7 6 5 4 3 2 1 0 1
+1 0 0 0 1 0 0 0
+use
+I\O am\O please\B with\O the\O products\O ease\B of\O use\O ;\O out\O of\O the\O box\O ready\O ;\O appearance\O and\O functionality\O .\O
+8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 1 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0
+appearance
+I\O am\O please\B with\O the\O products\O ease\O of\O use\O ;\O out\O of\O the\O box\O ready\O ;\O appearance\O and\O functionality\O .\O
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3
+0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0
+functionality
+I\O am\O please\B with\O the\O products\O ease\O of\O use\O ;\O out\O of\O the\O box\O ready\O ;\O appearance\O and\O functionality\O .\O
+18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0
+graphic design
+Perfect\B for\O all\O my\O graphic\O design\O classes\O I\O 'm\O taking\O this\O year\O in\O college\O :\O -\O )\O
+4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11
+1 1 0 0 0 0 0 0 0 0 0 0 0 0
+slot
+I\O will\O not\B be\I using\I that\O slot\O again\O .\O
+6 5 4 3 2 1 0 1 2
+0 0 1 0 0 1 0 0 0
+OS
+The\O OS\O is\O fast\B and\O fluid\B ,\O everything\O is\O organized\B and\O it\O 's\O just\O beautiful\B .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 1 0 1 0 0 0 0 0 0 0 0 0 0 0
+use
+They\O are\O simpler\B to\O use\O .\O
+4 3 2 1 0 1
+0 0 1 0 0 0
+SSD
+!\O so\O nice\B ..\O stable\B ..\O fast\B ..\O now\O i\O got\O my\O SSD\O !\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 1 0 0 0 0 0 0 0
+start up
+I\O love\B the\O quick\O start\O up\O .\O
+4 3 2 1 0 0 1
+0 0 0 0 0 0 0
+functionality
+You\O just\O can\B not\I beat\I the\O functionality\O of\O an\O Apple\O device\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5
+0 0 0 0 0 0 1 0 1 1 0 0
+function
+Yet\O my\O mac\O continues\O to\O function\O properly\B .\O
+5 4 3 2 1 0 1 2
+0 0 1 0 0 0 0 0
+Graphics
+Graphics\O are\O much\O improved\B .\O
+0 1 2 3 4
+1 0 0 0 0
+Build Quality
+Here\O are\O the\O things\O that\O made\O me\O confident\B with\O my\O purchase\O :\O Build\O Quality\O -\O Seriously\O ,\O you\O ca\O n't\O beat\O a\O unibody\O construction\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11
+1 0 0 0 0 0 0 1 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0
+unibody construction
+Here\O are\O the\O things\O that\O made\O me\O confident\O with\O my\O purchase\O :\O Build\O Quality\O -\O Seriously\O ,\O you\O ca\B n't\I beat\I a\O unibody\O construction\O .\O
+22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+1 0 0 0 0 0 0 1 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0
+flexibility for connectivity
+It\O provides\O much\O more\B flexibility\O for\O connectivity\O .\O
+4 3 2 1 0 0 0 1
+1 1 1 0 0 0 0 0
+Mac tutorials
+Mac\O tutorials\O do\O help\B .\O
+0 0 1 2 3
+1 0 0 0 0
+technical support
+The\O technical\O support\O was\O not\B helpful\I as\O well\O .\O
+1 0 0 1 2 3 4 5 6
+0 1 0 1 1 0 0 0 0
+adapter
+I\O got\O the\O new\B adapter\O and\O there\O was\O no\B change\I .\O
+4 3 2 1 0 1 2 3 4 5 6
+1 0 0 0 1 0 1 0 1 0 0
+Logic board
+Logic\O board\O utterly\B fried\I ,\O cried\B ,\O and\O laid\B down\I and\O died\B .\O
+0 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 1 1 0 0 0 0 0 0 0 1 0
+sound
+The\O sound\O was\O crappy\B even\O when\O you\O turn\O up\O the\O volume\O still\O the\O same\O results\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 0
+volume
+The\O sound\O was\O crappy\B even\O when\O you\O turn\O up\O the\O volume\O still\O the\O same\O results\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5
+0 0 0 1 0 0 0 0 0 0 1 1 0 1 1 0
+OSX Lion
+OSX\O Lion\O is\O a\O great\B performer..extremely\O fast\B and\O reliable\B .\O
+0 0 1 2 3 4 5 6 7 8
+1 0 0 0 0 0 0 0 0
+application
+Having\O heard\O from\O friends\O and\O family\O about\O how\O reliable\O a\O Mac\O product\O is\O ,\O I\O never\O expected\O to\O have\O an\O application\O crash\B within\O the\O first\O month\O ,\O but\O I\O did\O .\O
+20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+physical form
+The\O Macbook\O pro\O 's\O physical\O form\O is\O wonderful\B .\O
+4 3 2 1 0 0 1 2 3
+0 1 0 0 0 0 0 0
+body
+The\O Mini\O 's\O body\O has\B n't\I changed\I since\O late\O 2010-\O and\O for\O a\O good\B reason\O .\O
+3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 1 1 0 1 1 0 0 0 0 0 0 0
+unibody construction
+The\O unibody\O construction\O really\O does\O feel\O lot\O more\O solid\B than\O Apple\O 's\O previous\O laptops\O .\O
+1 0 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 0 0 0 0 0 0 0 0 1 0 1 0
+3D rendering
+3D\O rendering\O slows\B it\I down\I considerably\O .\O
+0 0 1 2 3 4 5
+1 0 0 0 0 0
+screen
+fast\B ,\O great\B screen\O ,\O beautiful\O apps\O for\O a\O laptop\O ;\O priced\O at\O 1100\O on\O the\O apple\O website\O ;\O amazon\O had\O it\O for\O 1098+\O tax\O -\O plus\O i\O had\O a\O 10\O %\O off\O coupon\O from\O amazon-cost\O me\O 998\O plus\O tax-\O 1070-\O OTD\O !\O
+3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39
+0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0
+apps
+fast\O ,\O great\O screen\O ,\O beautiful\B apps\O for\O a\O laptop\O ;\O priced\O at\O 1100\O on\O the\O apple\O website\O ;\O amazon\O had\O it\O for\O 1098+\O tax\O -\O plus\O i\O had\O a\O 10\O %\O off\O coupon\O from\O amazon-cost\O me\O 998\O plus\O tax-\O 1070-\O OTD\O !\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36
+0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0
+ports
+All\O the\O ports\O are\O much\B needed\I since\O this\O is\O my\O main\O computer\O .\O
+2 1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 0 1 0 1 1 1 0 1 0
+package
+The\O Like\O New\O condition\O of\O the\O iMac\O MC309LL/A\O on\O Amazon\O is\O at\O $\O 900+\O level\O only\O ,\O and\O it\O is\O a\O Quad-Core\O 2.5\O GHz\O CPU\O (\O similar\O to\O the\O $\O 799\O Mini\O )\O ,\O with\O Radeon\O HD\O 6750M\O 512MB\O graphic\O card\O (\O this\O mini\O is\O integrated\O Intel\O 4000\O card\O )\O ,\O and\O it\O even\O comes\O with\O wireless\O Apple\O Keyboard\O and\O Mouse\O ,\O all\O put\O together\O in\O neat\B and\O nice\B package\O .\O
+69 68 67 66 65 64 63 62 61 60 59 58 57 56 55 54 53 52 51 50 49 48 47 46 45 44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+cover
+Put\O a\O cover\O on\O it\O and\O is\O a\B little\I better\I but\O that\O is\O my\O only\O complaint\B .\O
+2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+gestures
+Within\O a\O few\O hours\O I\O was\O using\O the\O gestures\O unconsciously\B .\O
+8 7 6 5 4 3 2 1 0 1 2
+0 0 0 0 0 0 0 0 1 0
+cable
+This\O mac\O does\O come\O with\O an\O extender\O cable\O and\O I\O 'm\O using\O mine\O right\O now\O hoping\O the\O cable\O will\O stay\O nice\B for\O the\O many\O years\O I\O plan\O on\O using\O this\O mac\O .\O
+7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+2.9ghz dual-core i7 chip
+The\O 2.9ghz\O dual-core\O i7\O chip\O really\B out\O does\O itself\O .\O
+1 0 0 0 0 1 2 3 4 5
+0 1 0 0 0 0 0
+starts up
+It\O is\O pretty\O snappy\B and\O starts\O up\O in\O about\O 30\O seconds\O which\O is\O good\B enough\O for\O me\O .\O
+5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11
+1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0
+heat
+So\O noise\O is\O reduced\O at\O least\O 50\O %\O and\O the\O heat\O is\O much\O better\B ,\O now\O it\O does\B n't\I feel\I hot\I but\O warm\B .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0
+noise
+So\O noise\O is\O reduced\B at\O least\O 50\O %\O and\O the\O heat\O is\O much\O better\O ,\O now\O it\O does\O n't\O feel\O hot\O but\O warm\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0
+Windows 8
+Not\B sure\I on\O Windows\O 8\O .\O
+3 2 1 0 0 1
+1 0 0 0 0
+internal CD drive
+My\O one\O complaint\B is\O that\O there\O was\O no\B internal\O CD\O drive\O .\O
+8 7 6 5 4 3 2 1 0 0 0 1
+0 0 0 0 0 0 0 0 0 1 0 0
+hard drive
+This\O newer\O netbook\O has\O no\B hard\O drive\O or\O network\O lights\O .\O
+5 4 3 2 1 0 0 1 2 3 4
+0 0 1 0 0 0 0 0 0 0 0
+network lights
+This\O newer\O netbook\O has\O no\B hard\O drive\O or\O network\O lights\O .\O
+8 7 6 5 4 3 2 1 0 0 1
+0 0 1 0 0 0 0 0 0 0 0
+storage
+Not\O too\O expense\O and\O has\O enough\B storage\O for\O most\O users\O and\O many\O ports\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7
+0 0 0 1 0 0 0 0 0 0 0 0 0 0
+ports
+Not\O too\O expense\O and\O has\O enough\B storage\O for\O most\O users\O and\O many\O ports\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0
+audio volume
+The\O audio\O volume\O is\O quite\O low\B and\O virtually\O unusable\B in\O a\O room\O with\O any\O background\O activity\O .\O
+1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0
+size
+It\O is\O lightweight\O and\O the\O perfect\B size\O to\O carry\O to\O class\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5
+0 0 0 0 0 0 0 0 0 0 0 0
+capabilities
+The\O MBP\O is\O beautiful\O has\O many\O wonderful\B capabilities\O .\O
+7 6 5 4 3 2 1 0 1
+0 1 0 0 0 0 0 0 0
+settings
+I\O thought\O that\O it\O will\O be\O fine\B ,\O if\O i\O do\O some\O settings\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Runs
+Runs\O very\O smoothly\B .\O
+0 1 2 3
+1 0 0 0
+Boot-up
+Boot-up\O slowed\B significantly\O after\O all\O Windows\O updates\O were\O installed\O .\O
+0 1 2 3 4 5 6 7 8 9
+1 0 0 0 0 0 0 0 0
+Windows updates
+Boot-up\O slowed\B significantly\O after\O all\O Windows\O updates\O were\O installed\O .\O
+5 4 3 2 1 0 0 1 2 3
+1 0 0 0 0 0 0 0 0
+internet
+It\O was\O important\O that\O it\O was\O powerful\B enough\O to\O do\O all\O of\O the\O tasks\O he\O needed\O on\O the\O internet\O ,\O word\O processing\O ,\O graphic\O design\O and\O gaming\O .\O
+18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9
+0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 1 0 1 0 0 0 0 0 1 0
+word processing
+It\O was\O important\O that\O it\O was\O powerful\B enough\O to\O do\O all\O of\O the\O tasks\O he\O needed\O on\O the\O internet\O ,\O word\O processing\O ,\O graphic\O design\O and\O gaming\O .\O
+20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6
+0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 1 0 1 1 0 0 0 0 1 0
+graphic design
+It\O was\O important\O that\O it\O was\O powerful\B enough\O to\O do\O all\O of\O the\O tasks\O he\O needed\O on\O the\O internet\O ,\O word\O processing\O ,\O graphic\O design\O and\O gaming\O .\O
+23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3
+0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 1 0 1 1 0 0 0 0 1 0
+gaming
+It\O was\O important\O that\O it\O was\O powerful\B enough\O to\O do\O all\O of\O the\O tasks\O he\O needed\O on\O the\O internet\O ,\O word\O processing\O ,\O graphic\O design\O and\O gaming\O .\O
+26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 1 0 1 1 0 0 0 0 1 0
+setup
+I\O like\B the\O Mini\O Mac\O it\O was\O easy\B to\O setup\O and\O install\O ,\O but\O I\O am\O learning\O as\O I\O go\O and\O could\O use\O a\O tutorial\O to\O learn\O how\O to\O use\O some\O of\O the\O features\O I\O was\O use\O to\O on\O the\O PC\O especially\O the\O right\O mouse\O click\O menu\O .\O
+9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38
+0 0 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+install
+I\O like\B the\O Mini\O Mac\O it\O was\O easy\B to\O setup\O and\O install\O ,\O but\O I\O am\O learning\O as\O I\O go\O and\O could\O use\O a\O tutorial\O to\O learn\O how\O to\O use\O some\O of\O the\O features\O I\O was\O use\O to\O on\O the\O PC\O especially\O the\O right\O mouse\O click\O menu\O .\O
+11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36
+0 0 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0
+Runs
+Runs\O real\O quick\B .\O
+0 1 2 3
+1 0 0 0
+profile
+Since\O the\O machine\O 's\O slim\B profile\O is\O critical\B to\O me\O ,\O that\O was\O a\O problem\O .\O
+5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+disk drive
+WiFi\O capability\O ,\O disk\O drive\O and\O multiple\O USB\O ports\O to\O connect\O scale\O and\O printers\O was\O all\O that\O was\O required\B .\O
+3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+1 0 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+USB ports
+WiFi\O capability\O ,\O disk\O drive\O and\O multiple\O USB\O ports\O to\O connect\O scale\O and\O printers\O was\O all\O that\O was\O required\B .\O
+7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11
+1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+WiFi capability
+WiFi\O capability\O ,\O disk\O drive\O and\O multiple\O USB\O ports\O to\O connect\O scale\O and\O printers\O was\O all\O that\O was\O required\B .\O
+0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+1 0 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+SD card reader
+The\O SD\O card\O reader\O is\O slightly\O recessed\B and\O upside\B down\I (\O the\O nail\O slot\O on\O the\O card\O can\O not\O be\O accessed\O )\O ,\O if\O this\O was\O a\O self\O ejecting\O slot\O this\O would\O not\O be\O an\O issue\O ,\O but\O its\O not\O .\O
+1 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37
+0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0
+nail slot on the card
+The\O SD\O card\O reader\O is\O slightly\O recessed\O and\O upside\O down\O (\O the\O nail\O slot\O on\O the\O card\O can\B not\I be\I accessed\I )\O ,\O if\O this\O was\O a\O self\O ejecting\O slot\O this\O would\O not\O be\O an\O issue\O ,\O but\O its\O not\O .\O
+2 1 0 0 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34
+0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0
+slot
+The\O SD\O card\O reader\O is\O slightly\O recessed\O and\O upside\O down\O (\O the\O nail\O slot\O on\O the\O card\O can\O not\O be\O accessed\O )\O ,\O if\O this\O was\O a\O self\O ejecting\O slot\O this\O would\O not\O be\O an\O issue\B ,\O but\O its\O not\O .\O
+13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11
+0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0
+touch
+Soft\B touch\O ,\O anodized\O aluminum\O with\O laser\O cut\O precision\O and\O no\O flaws\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 1 0 0 0 1 0 0 0 0 0 0
+anodized aluminum
+Soft\O touch\O ,\O anodized\O aluminum\O with\O laser\O cut\O precision\B and\O no\B flaws\I .\O
+3 2 1 0 0 1 2 3 4 5 6 7 8
+0 0 1 0 0 0 1 0 0 0 0 0 0
+aluminium
+Simple\O details\O ,\O crafted\B aluminium\O and\O real\O glass\O make\O this\O laptop\O blow\O away\O the\O other\O plastic\O ridden\O ,\O bulky\O sticker\O filled\O laptops\O .\O
+4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+0 1 1 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 1 0 0 1 0
+glass
+Simple\O details\O ,\O crafted\O aluminium\O and\O real\O glass\O make\O this\O laptop\O blow\B away\I the\O other\O plastic\O ridden\O ,\O bulky\O sticker\O filled\O laptops\O .\O
+7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+0 1 1 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 1 0 0 1 0
+aluminum
+First\O of\O all\O yes\O this\O is\O a\O mac\O and\O it\O has\O that\O nice\B brushed\O aluminum\O .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 0
+HDMI port
+No\B HDMI\O port\O .\O
+1 0 0 1
+0 0 0 0
+Customization
+Customization\O on\O mac\O is\O impossible\B .\O
+0 1 2 3 4 5
+1 0 1 0 0 0
+two finger clicking
+Plus\O two\O finger\O clicking\O as\O a\O replacement\O for\O the\O right\O click\O button\O is\O surprisingly\B intuitive\O .\O
+1 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12
+1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0
+right click button
+Plus\O two\O finger\O clicking\O as\O a\O replacement\O for\O the\O right\O click\O button\O is\O surprisingly\O intuitive\B .\O
+9 8 7 6 5 4 3 2 1 0 0 0 1 2 3 4
+0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0
+SuperDrive
+The\O SuperDrive\O is\O quiet\B .\O
+1 0 1 2 3
+0 1 0 0 0
+battery
+The\O battery\O was\O completely\O dead\B ,\O in\O fact\O it\O had\O grown\O about\O a\O quarter\O inch\O thick\O lump\O on\O the\O underside\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+practicality
+if\O yo\O like\B practicality\O this\O is\O the\O laptop\O for\O you\O .\O
+3 2 1 0 1 2 3 4 5 6 7
+0 1 0 0 0 0 0 1 0 0 0
+OS
+The\O OS\O is\O great\B .\O
+1 0 1 2 3
+0 0 1 1 0
+Price
+CONS\O :\O Price\O is\O a\O bit\O ridiculous\B ,\O kinda\O heavy\B .\O
+2 1 0 1 2 3 4 5 6 7 8
+1 1 1 0 0 0 0 0 0 0 0
+USB 2 ports
+Which\O it\O did\O not\B have\I ,\O only\O 3\O USB\O 2\O ports\O .\O
+8 7 6 5 4 3 2 1 0 0 0 1
+0 0 1 0 0 0 0 0 0 0
+startup disk
+No\B startup\O disk\O was\O not\B included\I but\O that\O may\O be\O my\O fault\B .\O
+1 0 0 1 2 3 4 5 6 7 8 9 10
+0 0 1 0 0 0 0 0 0 0 0 0 0
+`` tools '' menu
+There\O is\O no\B ``\O tools\O ''\O menu\O .\O
+3 2 1 0 0 0 0 1
+1 0 0 0 0 0
+word program
+It\O is\O very\O fast\O and\O has\O everything\O that\O I\O need\O except\B for\I a\O word\O program\O .\O
+13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0
+power switch
+Needs\O a\O CD/DVD\O drive\O and\O a\O bigger\B power\O switch\O .\O
+7 6 5 4 3 2 1 0 0 1
+1 0 1 0 0 0 0 0 0
+Windows 7
+My\O laptop\O with\O Windows\O 7\O crashed\B and\O I\O did\O not\O want\O Windows\O 8\O .\O
+3 2 1 0 0 1 2 3 4 5 6 7 8 9
+0 1 0 0 1 0 0 0 0 0 0 0
+Windows 8
+My\O laptop\O with\O Windows\O 7\O crashed\O and\O I\O did\O not\B want\I Windows\O 8\O .\O
+3 2 1 0 0 1
+0 1 0 0 1 0 0 0 0 0 0 0
+install
+Easy\B to\O install\O also\O small\O to\O leave\O anywhere\O at\O your\O bedroom\O also\O very\O easy\O to\O configure\O for\O ADSl\O cable\O or\O wifi\O .\O
+2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0
+configure for ADSl cable or wifi
+Easy\O to\O install\O also\O small\O to\O leave\O anywhere\O at\O your\O bedroom\O also\O very\O easy\B to\O configure\O for\O ADSl\O cable\O or\O wifi\O .\O
+15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 0 0 0 1
+1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0
+speakers
+The\O speakers\O could\O have\O been\O better\B but\O it\O was\O n't\O a\O deal\O breaker\O ...\O this\O is\O a\O great\O little\O laptop\O ...\O love\O it\O !\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0
+packing
+Nice\B packing\O .\O
+1 0 1
+0 1 0
+windows
+I\O switched\O to\O this\O because\O I\O wanted\O something\O different\O ,\O even\O though\O I\O miss\B windows\O .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0
+iDVD
+Apple\O no\B longer\I includes\I iDVD\O with\O the\O computer\O and\O furthermore\O ,\O Apple\O does\O n't\O even\O offer\O it\O anymore\O !\O
+4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+1 1 0 0 0 0 0 0 0 1 1 0 1 0 0 1 0
+Windows 7
+I\O also\O wanted\B Windows\O 7\O ,\O which\O this\O one\O has\O .\O
+3 2 1 0 0 1 2 3 4 5 6
+0 0 0 1 0 0 0 0 0 0
+Mac system
+At\O first\O ,\O I\O feel\O a\O little\O bit\O uncomfortable\B in\O using\O the\O Mac\O system\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+works
+It\O just\O works\O out\B of\I the\I box\I and\O you\O have\O a\O lot\O of\O cool\O software\O included\O with\O the\O OS\O .\O
+2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+software
+It\O just\O works\O out\O of\O the\O box\O and\O you\O have\O a\O lot\O of\O cool\B software\O included\O with\O the\O OS\O .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5
+1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0
+OS
+It\O just\O works\O out\O of\O the\O box\O and\O you\O have\O a\O lot\O of\O cool\B software\O included\O with\O the\O OS\O .\O
+18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0
+works
+its\O as\O advertised\O on\O here\O ...\O ..\O it\O works\O great\B and\O is\O not\O a\O waste\O of\O money\O !\O
+8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9
+0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0
+price
+Premium\B price\O for\O the\O OS\O more\O than\O anything\O else\O .\O
+1 0 1 2 3 4 5 6 7 8
+1 0 0 0 0 0 0 0 0 0
+OS
+Premium\B price\O for\O the\O OS\O more\O than\O anything\O else\O .\O
+4 3 2 1 0 1 2 3 4 5
+0 0 0 0 0 0 0 0 0 0
+touch pad
+I\O was\O a\O little\O concerned\B about\O the\O touch\O pad\O based\O on\O reviews\O ,\O but\O I\O 've\O found\O it\O fine\B to\O work\O with\O .\O
+7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0
+reliability
+I\O bought\O this\O Mac\O book\O pro\O along\O with\O a\O new\O 27\O ''\O iMac\O and\O while\O they\O are\O still\O light\O years\O more\O reliable\O than\O a\O PC\O I\O have\O noticed\O a\O decline\B in\O the\O reliability\O of\O my\O Mac\O computers\O .\O
+32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5
+0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0
+sound
+The\O sound\O as\O mentioned\O earlier\O is\B n't\I the\I best\I ,\O but\O it\O can\O be\O solved\O with\O headphones\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+track pad
+The\O track\O pad\O is\O a\O bit\O squirrely\B at\O times-\O sometimes\O too\O sensitive\B ,\O and\O sometimes\O a\O bit\O unresponsive\B ,\O but\O it\O 's\O usable\B .\O
+1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+OS
+However\O ,\O the\O experience\O was\O great\B since\O the\O OS\O does\O not\B become\I unstable\I and\O the\O application\O will\O simply\O shutdown\O and\O reopen\O .\O
+8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0
+battery
+The\O battery\O is\O not\B as\I shown\I in\O the\O product\O photos\O .\O
+1 0 1 2 3 4 5 6 7 8 9
+0 0 0 1 0 0 0 0 0 0 0
+Shipping
+Shipping\O was\O quick\B and\O product\O described\O was\O the\O product\O sent\O and\O so\O much\O more\O ...\O
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 0 0 0 0 0 0 0 0 1 1 0
+retina display display
+the\O retina\O display\O display\O make\O pictures\O i\O took\O years\O ago\O jaw\O dropping\B .\O
+1 0 0 0 1 2 3 4 5 6 7 8 9
+1 1 0 0 1 1 0 0 0 0 0 0 0
+compact computing
+The\O Mac\O Mini\O is\O probably\O the\O simplest\B example\O of\O compact\O computing\O out\O there\O .\O
+9 8 7 6 5 4 3 2 1 0 0 1 2 3
+1 1 0 0 0 0 0 0 0 0 0 0 0
+ventilation system
+Additionally\O ,\O there\O is\O barely\B a\O ventilation\O system\O in\O the\O computer\O ,\O and\O even\O the\O simple\O activity\O of\O watching\O videos\O let\O alone\O playing\O steam\O games\O causes\O the\O laptop\O to\O get\O very\O very\O hot\B ,\O and\O in\O fact\O impossible\O to\O keep\O on\O lap\O .\O
+6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35
+0 0 1 0 1 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+watching videos
+Additionally\O ,\O there\O is\O barely\O a\O ventilation\O system\O in\O the\O computer\O ,\O and\O even\O the\O simple\B activity\O of\O watching\O videos\O let\O alone\O playing\O steam\O games\O causes\O the\O laptop\O to\O get\O very\O very\O hot\B ,\O and\O in\O fact\O impossible\O to\O keep\O on\O lap\O .\O
+18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+playing steam games
+Additionally\O ,\O there\O is\O barely\O a\O ventilation\O system\O in\O the\O computer\O ,\O and\O even\O the\O simple\O activity\O of\O watching\O videos\O let\O alone\O playing\O steam\O games\O causes\O the\O laptop\O to\O get\O very\O very\O hot\B ,\O and\O in\O fact\O impossible\O to\O keep\O on\O lap\O .\O
+22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+operating system files
+Chatting\O with\O Acer\O support\O ,\O I\O was\O advised\O the\O problem\O was\O corrupted\B operating\O system\O files\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 1
+0 1 0 0 0 0 0 0 0 0 0 0 0 1 0
+keys
+It\O 's\O been\O a\O couple\O weeks\O since\O the\O purchase\O and\O I\O 'm\O struggle\B with\O finding\O the\O correct\O keys\O (\O but\O that\O was\O expected\O )\O .\O
+17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7
+1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0
+OS
+Many\O people\O complain\B about\O the\O new\O OS\O ,\O and\O it\O 's\O urgent\O for\O Apple\O to\O fix\O it\O asap\O !\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0
+Lion
+Now\O that\O I\O have\O upgraded\B to\O Lion\O I\O am\O much\O happier\O about\O MAC\O OS\O and\O have\O just\O bought\O an\O iMac\O for\O office\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+0 0 0 0 0 1 1 0 0 0 0 0 1 1 0 0 0 0 0 1 1 0 0
+MAC OS
+Now\O that\O I\O have\O upgraded\O to\O Lion\O I\O am\O much\O happier\B about\O MAC\O OS\O and\O have\O just\O bought\O an\O iMac\O for\O office\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9
+0 0 0 0 0 1 1 0 0 0 0 0 1 1 0 0 0 0 0 1 1 0 0
+RAM
+User\O upgradeable\B RAM\O and\O HDD\O .\O
+2 1 0 1 2 3
+1 1 0 0 1 0
+HDD
+User\O upgradeable\B RAM\O and\O HDD\O .\O
+4 3 2 1 0 1
+0 1 0 0 1 0
+CD/DVD player
+But\O I\O wanted\B the\O Pro\O for\O the\O CD/DVD\O player\O .\O
+7 6 5 4 3 2 1 0 0 1
+0 0 0 0 0 0 0 1 0
+RAM memory
+The\O RAM\O memory\O is\O good\B but\O should\O have\O splurged\O for\O 8Mb\O instead\O of\O 4Mb\O .\O
+1 0 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 1 1 0 0 0 0 0 0 0 1 0 0
+os.x
+I\O was\O a\O little\O worry\B at\O first\O because\O I\O do\O n't\O have\O a\O lot\O of\O experience\O with\O os.x\O and\O windows\O has\O always\O been\O second\O nature\O to\O me\O after\O many\O years\O of\O using\O windows\O .\O
+17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+OS
+With\O the\O softwares\O supporting\O the\O use\O of\O other\O OS\O makes\O it\O much\O better\B .\O
+8 7 6 5 4 3 2 1 0 1 2 3 4 5
+0 1 0 0 0 0 0 0 0 0 0 0 0
+softwares
+With\O the\O softwares\O supporting\O the\O use\O of\O other\O OS\O makes\O it\O much\O better\B .\O
+2 1 0 1 2 3 4 5 6 7 8 9 10 11
+0 1 0 0 0 0 0 0 0 0 0 0 0
+Mac OS X 10.8 `` Mountain Lion ''
+I\O then\O upgraded\B to\O Mac\O OS\O X\O 10.8\O ``\O Mountain\O Lion\O ''\O .\O
+4 3 2 1 0 0 0 0 0 0 0 0 1
+0 0 0 0 1 0 0 1 0 0
+performance
+I\O was\O considering\O buying\O the\O Air\O ,\O but\O in\O reality\O ,\O this\O one\O has\O a\O more\O powerful\B performance\O and\O seems\O much\O more\O convenient\O ,\O even\O though\O it\O 's\O about\O .20\O inch\O thicker\O and\O 2\O lbs\O heavier\O .\O
+17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+built in screen size
+At\O home\O and\O the\O office\O it\O gets\O plugged\O into\O an\O external\O 24\O ''\O LCD\O screen\O ,\O so\O built\O in\O screen\O size\O is\O not\B terribly\I important\I .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 0 1 2 3 4 5 6 7 8
+0 0 0 0 1 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 0 0 0
+DVD slot
+Just\O beware\O no\B DVD\O slot\O so\O when\O I\O went\O to\O install\O software\O I\O had\O on\O CD\O I\O could\O n't\O .\O
+3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+Cd Rom
+No\B Cd\O Rom\O in\O the\O new\O version\O there\O 's\O no\O way\O I\O 'm\O spending\O that\O kind\O of\O money\O on\O something\O has\O less\O features\O than\O the\O older\O version\O .\O
+1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+features
+No\O Cd\O Rom\O in\O the\O new\O version\O there\O 's\O no\O way\O I\O 'm\O spending\O that\O kind\O of\O money\O on\O something\O has\O less\B features\O than\O the\O older\O version\O .\O
+22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5
+0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+volume
+the\O volume\O is\O really\O low\B to\O low\O for\O a\O laptopwas\O not\O expectin\O t\O volume\O to\O be\O so\O lowan\O i\O hate\B that\O about\O this\O computer\O
+1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+volume
+the\O volume\O is\O really\O low\B to\O low\O for\O a\O laptopwas\O not\O expectin\O t\O volume\O to\O be\O so\O lowan\O i\O hate\B that\O about\O this\O computer\O
+1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+case
+and\O its\O not\O hard\O to\O accidentally\O bang\O it\O against\O something\O so\O i\O recommend\B getting\O a\O case\O to\O protect\O it\O .\O
+15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+price
+I\O got\O this\O at\O an\O amazing\B price\O from\O Amazon\O and\O it\O arrived\O just\O in\O time\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+log into the system
+Every\O time\O I\O log\O into\O the\O system\O after\O a\O few\O hours\O ,\O there\O is\O this\O endlessly\O frustrating\B process\O that\O I\O have\O to\O go\O through\O .\O
+3 2 1 0 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+0 0 0 1 0 0 1 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0
+set up
+Put\O a\O SSD\O and\O use\O a\O 21\O ''\O LED\O screen\O ,\O this\O set\O up\O is\O silky\B smooth\I !\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4
+0 0 0 0 0 0 0 0 0 1 1 0 1 1 0
+case
+The\O case\O is\O now\O slightly\O larger\B than\O the\O previous\O generation\O ,\O but\O the\O lack\O of\O an\O external\O power\O supply\O justifies\O the\O small\O increase\O in\O size\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+1 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+size
+The\O case\O is\O now\O slightly\O larger\O than\O the\O previous\O generation\O ,\O but\O the\O lack\O of\O an\O external\O power\O supply\O justifies\O the\O small\O increase\B in\O size\O .\O
+24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+external power supply
+The\O case\O is\O now\O slightly\O larger\O than\O the\O previous\O generation\O ,\O but\O the\O lack\B of\O an\O external\O power\O supply\O justifies\O the\O small\O increase\O in\O size\O .\O
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 1 2 3 4 5 6 7
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+pad
+I\O had\O to\O buy\O a\O wireless\O mouse\O to\O go\O with\O it\O ,\O as\O I\O am\O old\O school\O and\O hate\B the\O pad\O ,\O but\O knew\O that\O before\O I\O bought\O it\O ,\O now\O it\O works\O great\O ,\O need\O to\O get\O adjusted\O to\O the\O key\O board\O ,\O as\O I\O am\O used\O to\O a\O bigger\O one\O and\O pounding\O .\O
+20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+works
+I\O had\O to\O buy\O a\O wireless\O mouse\O to\O go\O with\O it\O ,\O as\O I\O am\O old\O school\O and\O hate\O the\O pad\O ,\O but\O knew\O that\O before\O I\O bought\O it\O ,\O now\O it\O works\O great\B ,\O need\O to\O get\O adjusted\O to\O the\O key\O board\O ,\O as\O I\O am\O used\O to\O a\O bigger\O one\O and\O pounding\O .\O
+32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+features
+Has\O all\O the\O other\O features\O I\O wanted\B including\O a\O VGA\O port\O ,\O HDMI\O ,\O ethernet\O and\O 3\O USB\O ports\O .\O
+4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+0 0 0 0 1 1 0 0 0 1 0 0 0 0 1 0 0 0 0
+VGA port
+Has\O all\O the\O other\O features\O I\O wanted\B including\O a\O VGA\O port\O ,\O HDMI\O ,\O ethernet\O and\O 3\O USB\O ports\O .\O
+9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9
+0 0 0 0 1 1 0 0 0 1 0 0 0 0 1 0 0 0 0
+HDMI
+Has\O all\O the\O other\O features\O I\O wanted\B including\O a\O VGA\O port\O ,\O HDMI\O ,\O ethernet\O and\O 3\O USB\O ports\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7
+0 0 0 0 1 1 0 0 0 1 0 0 0 0 1 0 0 0 0
+ethernet
+Has\O all\O the\O other\O features\O I\O wanted\B including\O a\O VGA\O port\O ,\O HDMI\O ,\O ethernet\O and\O 3\O USB\O ports\O .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5
+0 0 0 0 1 1 0 0 0 1 0 0 0 0 1 0 0 0 0
+USB ports
+Has\O all\O the\O other\O features\O I\O wanted\B including\O a\O VGA\O port\O ,\O HDMI\O ,\O ethernet\O and\O 3\O USB\O ports\O .\O
+17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 0 0 1 1 0 0 0 1 0 0 0 0 1 0 0 0 0
+rubber pads
+The\O only\O thing\O I\O dislike\B about\O this\O laptop\O are\O the\O rubber\O pads\O found\O on\O the\O bottom\O of\O the\O computer\O for\O grip\O .\O
+10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+price
+It\O 's\O a\O decent\B computer\O for\O the\O price\O and\O hopefully\O it\O will\O last\O a\O long\O time\O .\O
+7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+price
+I\O was\O really\O happy\B because\O it\O is\O a\O much\O better\B price\O on\O amazon.com\O than\O it\O was\O in\O the\O Mac\O store\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10
+0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+heat output
+The\O nicest\B part\O is\O the\O low\B heat\O output\O and\O ultra\O quiet\O operation\O .\O
+6 5 4 3 2 1 0 0 1 2 3 4 5
+0 1 0 0 0 0 1 0 0 0 0 0 0
+operation
+The\O nicest\B part\O is\O the\O low\O heat\O output\O and\O ultra\O quiet\B operation\O .\O
+11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 0 0 0 0 0 0
+built-in mic
+this\O Mac\O Mini\O does\O not\B have\I a\O built-in\O mic\O ,\O and\O it\O would\O seem\O that\O its\O Mac\O OS\O 10.9\O does\O not\O handle\O external\O microphones\O properly\O .\O
+7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0
+Mac OS 10.9
+this\O Mac\O Mini\O does\O not\O have\O a\O built-in\O mic\O ,\O and\O it\O would\O seem\O that\O its\O Mac\O OS\O 10.9\O does\O not\B handle\I external\O microphones\O properly\O .\O
+1 0 0 0 1 2 3 4 5 6 7
+0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0
+features
+A\O lot\B of\I features\O and\O shortcuts\O on\O the\O MBP\O that\O I\O was\O never\O exposed\O to\O on\O a\O normal\O PC\O .\O
+3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+shortcuts
+A\O lot\B of\I features\O and\O shortcuts\O on\O the\O MBP\O that\O I\O was\O never\O exposed\O to\O on\O a\O normal\O PC\O .\O
+5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+IOS system
+Was\O n't\O sure\O if\O I\O was\O going\O to\O like\O it\O much\O less\O love\O it\O so\O I\O went\O to\O a\O local\O best\O buy\O and\O played\O around\O with\O the\O IOS\O system\O on\O a\O Mac\O Pro\O and\O it\O was\O totally\O unique\B and\O different\B .\O
+27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 0 0 0 0 0 0 0
+resolution
+air\O has\O higher\B resolution\O but\O the\O fonts\O are\O small\O .\O
+3 2 1 0 1 2 3 4 5 6
+1 0 1 1 1 0 0 0 0 0
+fonts
+air\O has\O higher\O resolution\O but\O the\O fonts\O are\O small\B .\O
+6 5 4 3 2 1 0 1 2 3
+0 0 1 1 1 0 0 0 0 0
+working
+working\O with\O Mac\O is\O so\O much\O easier\B ,\O so\O many\O cool\O features\O .\O
+0 1 2 3 4 5 6 7 8 9 10 11 12
+1 1 1 0 0 0 0 0 0 0 0 0 0
+features
+working\O with\O Mac\O is\O so\O much\O easier\O ,\O so\O many\O cool\B features\O .\O
+11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 1 0 0 0 0 0 0 0 0 0 0
+brightness
+I\O like\B the\O brightness\O and\O adjustments\O .\O
+3 2 1 0 1 2 3
+0 0 0 1 0 1 0
+adjustments
+I\O like\B the\O brightness\O and\O adjustments\O .\O
+5 4 3 2 1 0 1
+0 0 0 0 0 1 0
+CD/DVD player
+I\O only\O wish\B this\O mac\O had\O a\O CD/DVD\O player\O built\O in\O .\O
+7 6 5 4 3 2 1 0 0 1 2 3
+0 0 0 0 1 0 0 1 0 0 0
+backlit keys
+The\O only\O thing\O I\O miss\B is\O that\O my\O old\O Alienware\O laptop\O had\O backlit\O keys\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 0 0 0 0 0 0 0 1 0 0 0 0
+`` Home/End '' type keys
+The\O only\O thing\O I\O miss\B are\O the\O ``\O Home/End\O ''\O type\O keys\O and\O other\O things\O that\O I\O grew\O accustomed\O to\O after\O so\O long\O .\O
+7 6 5 4 3 2 1 0 0 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+Microsoft Word
+So\O happy\O with\O this\O purchase\O ,\O I\O just\O wish\B it\O came\O with\O Microsoft\O Word\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 1 0 0 0 0 0 0 1 0 1 0 0 0
+memory
+It\O has\O enough\B memory\O and\O speed\O to\O run\O my\O business\O with\O all\O the\O flexibility\O that\O comes\O with\O a\O laptop\O .\O
+3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+speed
+It\O has\O enough\B memory\O and\O speed\O to\O run\O my\O business\O with\O all\O the\O flexibility\O that\O comes\O with\O a\O laptop\O .\O
+5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+battery life
+The\O battery\O life\O is\O excellent\B ,\O the\O display\O is\O excellent\O ,\O and\O downloading\O apps\O is\O a\O breeze\O .\O
+1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+1 1 0 0 0 1 1 0 0 0 1 1 1 0 0 0 0 0
+display
+The\O battery\O life\O is\O excellent\O ,\O the\O display\O is\O excellent\B ,\O and\O downloading\O apps\O is\O a\O breeze\O .\O
+7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10
+1 0 0 0 0 1 1 0 0 0 1 1 1 0 0 0 0 0
+downloading apps
+The\O battery\O life\O is\O excellent\O ,\O the\O display\O is\O excellent\O ,\O and\O downloading\O apps\O is\O a\O breeze\B .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4
+0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0
+operating system
+The\O screen\O ,\O the\O software\O and\O the\O smoothness\B of\O the\O operating\O system\O .\O
+10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 1 0 1 0 0 0 0 0 0 0 0
+bass
+But\O with\O this\O laptop\O ,\O the\O bass\O is\O very\O weak\B and\O the\O sound\O comes\O out\O sounding\O tinny\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11
+0 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0
+sound
+But\O with\O this\O laptop\O ,\O the\O bass\O is\O very\O weak\O and\O the\O sound\O comes\O out\O sounding\O tinny\B .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5
+0 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0
+built quality
+The\O built\O quality\O is\O really\O good\B ,\O I\O was\O so\O Happy\B and\O excited\B about\O this\O Product\O .\O
+1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0
+performance
+I\O am\O loving\B the\O fast\B performance\O also\O .\O
+5 4 3 2 1 0 1 2
+0 0 0 0 0 0 1 0
+Bluetooth interface
+Further\O ,\O this\O Mac\O Mini\O has\O a\O sloppy\B Bluetooth\O interface\O (\O courtesy\O of\O the\O Mac\O OS\O )\O and\O the\O range\O is\O poor\O .\O
+8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0
+Mac OS
+Further\O ,\O this\O Mac\O Mini\O has\O a\O sloppy\O Bluetooth\O interface\O (\O courtesy\B of\O the\O Mac\O OS\O )\O and\O the\O range\O is\O poor\O .\O
+3 2 1 0 0 1 2 3 4 5 6 7
+0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0
+range
+Further\O ,\O this\O Mac\O Mini\O has\O a\O sloppy\O Bluetooth\O interface\O (\O courtesy\O of\O the\O Mac\O OS\O )\O and\O the\O range\O is\O poor\B .\O
+19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3
+0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0
+RAM
+My\O only\O gripe\B would\O be\O the\O need\O to\O add\O more\O RAM\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 0 0 0 0 0
+touch screen
+Fine\B if\O you\O have\O a\O touch\O screen\O .\O
+5 4 3 2 1 0 0 1
+0 0 0 1 0 0 0 0
+built
+This\O by\O far\O beats\O any\O computer\O out\O on\O the\O market\O today\O built\O well\B ,\O battery\O life\O AMAZING\O .\O
+11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6
+0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0
+battery life
+This\O by\O far\O beats\O any\O computer\O out\O on\O the\O market\O today\O built\O well\O ,\O battery\O life\O AMAZING\B .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0
+OS
+The\O OS\O is\O easy\B ,\O and\O offers\O all\O kinds\O of\O surprises\B .\O
+1 0 1 2 3 4 5 6 7 8 9 10
+0 1 0 0 0 0 0 0 0 0 0 0
+Firewire 800
+A\O veryimportant\B feature\O is\O Firewire\O 800\O which\O in\O my\O experience\O works\O better\B then\O USB3\O (\O in\O PC\O enabled\O with\O USB3\O )\O I\O was\O not\O originally\O sold\O on\O the\O MAC\O OS\O I\O felt\O it\O was\O inferior\O in\O many\O ways\O To\O Windows\O 7\O .\O
+4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36
+0 0 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+MAC OS
+A\O veryimportant\O feature\O is\O Firewire\O 800\O which\O in\O my\O experience\O works\O better\O then\O USB3\O (\O in\O PC\O enabled\O with\O USB3\O )\O I\O was\O not\O originally\O sold\O on\O the\O MAC\O OS\O I\O felt\O it\O was\O inferior\B in\O many\O ways\O To\O Windows\O 7\O .\O
+28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+iTunes
+I\O like\B iTunes\O ,\O the\O apparent\O security\O ,\O the\O Mini\O form\O factor\O ,\O all\O the\O nice\O graphics\O stuff\O .\O
+2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+0 0 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 0 0
+security
+I\O like\O iTunes\O ,\O the\O apparent\B security\O ,\O the\O Mini\O form\O factor\O ,\O all\O the\O nice\O graphics\O stuff\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 0 0
+graphics stuff
+I\O like\O iTunes\O ,\O the\O apparent\O security\O ,\O the\O Mini\O form\O factor\O ,\O all\O the\O nice\B graphics\O stuff\O .\O
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0
+ssd drive
+After\O replacing\O the\O spinning\O hard\O disk\O with\O an\O ssd\O drive\O ,\O my\O mac\O is\O just\O flying\B .\O
+8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7
+0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0
+HDMI
+I\O know\O some\O people\O complained\B about\O HDMI\O issues\O but\O they\O released\O a\O firmware\O patch\O to\O address\O that\O issue\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0
+specs
+With\O the\O needs\O of\O a\O professional\O photographer\O I\O generally\O need\O to\O keep\O up\O with\O the\O best\B specs\O .\O
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0
+packing
+packing\O and\O everything\O was\O perfect\B
+0 1 2 3 4
+0 0 1 0 0
+mother boards
+I\O called\O Toshiba\O where\O I\O gave\O them\O the\O serial\O number\O and\O they\O informed\O me\O that\O they\O were\O having\O issues\B with\O the\O mother\O boards\O .\O
+21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mother Board
+I\O seem\O to\O be\O having\O repeat\O problems\O as\O the\O Mother\O Board\O in\O this\O one\O is\O diagnosed\O as\O faulty\B ,\O related\O to\O the\O graphics\O card\O .\O
+9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0
+graphics card
+I\O seem\O to\O be\O having\O repeat\O problems\O as\O the\O Mother\O Board\O in\O this\O one\O is\O diagnosed\O as\O faulty\B ,\O related\O to\O the\O graphics\O card\O .\O
+22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0
+performs
+It\O also\O comes\O with\O 4G\O of\O RAM\O but\O if\O you\O 're\O like\O me\O you\O want\O to\O max\O that\O out\O so\O I\O immediately\O put\O 8G\O of\O RAM\O in\O her\O and\O I\O 've\O never\O used\O a\O computer\O that\O performs\O better\B .\O
+36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0
+virtual home schooling
+This\O computer\O is\O also\O awesome\B for\O my\O sons\O virtual\O home\O schooling\O .\O
+8 7 6 5 4 3 2 1 0 0 0 1
+0 1 0 0 1 1 0 0 0 0 0 0
+Cost
+Cost\O is\O more\B as\O compared\O to\O other\O brands\O .\O
+0 1 2 3 4 5 6 7 8
+1 0 0 0 0 0 0 0 0
+operating system
+also\O ...\O -\O excellent\B operating\O system\O --\O size\O and\O weight\O for\O optimal\O mobility\O --\O excellent\O durability\O of\O the\O battery\O --\O the\O functions\O provided\O by\O the\O trackpad\O is\O unmatched\O by\O any\O other\O brand-\O
+4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 1 0 0 0 0 0
+size
+also\O ...\O -\O excellent\B operating\O system\O --\O size\O and\O weight\O for\O optimal\O mobility\O --\O excellent\O durability\O of\O the\O battery\O --\O the\O functions\O provided\O by\O the\O trackpad\O is\O unmatched\O by\O any\O other\O brand-\O
+7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 1 0 0 0 0 0
+weight
+also\O ...\O -\O excellent\B operating\O system\O --\O size\O and\O weight\O for\O optimal\O mobility\O --\O excellent\O durability\O of\O the\O battery\O --\O the\O functions\O provided\O by\O the\O trackpad\O is\O unmatched\O by\O any\O other\O brand-\O
+9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 1 0 0 0 0 0
+mobility
+also\O ...\O -\O excellent\O operating\O system\O --\O size\O and\O weight\O for\O optimal\B mobility\O --\O excellent\O durability\O of\O the\O battery\O --\O the\O functions\O provided\O by\O the\O trackpad\O is\O unmatched\O by\O any\O other\O brand-\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 1 0 0 0 0 0
+durability of the battery
+also\O ...\O -\O excellent\O operating\O system\O --\O size\O and\O weight\O for\O optimal\O mobility\O --\O excellent\B durability\O of\O the\O battery\O --\O the\O functions\O provided\O by\O the\O trackpad\O is\O unmatched\O by\O any\O other\O brand-\O
+15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 1 0 0 0 0 0
+functions provided by the trackpad
+also\O ...\O -\O excellent\O operating\O system\O --\O size\O and\O weight\O for\O optimal\O mobility\O --\O excellent\O durability\O of\O the\O battery\O --\O the\O functions\O provided\O by\O the\O trackpad\O is\O unmatched\B by\O any\O other\O brand-\O
+17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 0 0 1 2 3 4 5 6 7 8 9 10
+0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 1 0 0 0 0 0
+hardware
+This\O hardware\O seems\O to\O be\O better\B than\O the\O iMac\O in\O that\O it\O is\O n't\O $\O 1400\O and\O smaller\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0
+software
+I\O 've\O had\O it\O for\O about\O 2\O months\O now\O and\O found\O no\B issues\I with\O software\O or\O updates\O .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+updates
+I\O 've\O had\O it\O for\O about\O 2\O months\O now\O and\O found\O no\B issues\I with\O software\O or\O updates\O .\O
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+disc drive
+the\O latest\O version\O does\O not\B have\I a\O disc\O drive\O .\O
+7 6 5 4 3 2 1 0 0 1
+0 0 0 1 0 0 0 1 1 0
+Screen
+Screen\O -\O although\O some\O people\O might\O complain\B about\O low\O res\O which\O I\O think\O is\O ridiculous\B .\O
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+res
+Screen\O -\O although\O some\O people\O might\O complain\O about\O low\B res\O which\O I\O think\O is\O ridiculous\B .\O
+9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0

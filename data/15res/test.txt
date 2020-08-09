@@ -1,0 +1,1744 @@
+Al Di La
+Love\B Al\O Di\O La\O
+1 0 0 0
+1 0 0 0
+place
+I\O recommend\B this\O place\O to\O everyone\O .\O
+3 2 1 0 1 2 3
+0 1 0 0 0 0 0
+food
+Great\B food\O .\O
+1 0 1
+1 0 0
+pastas
+The\O pastas\O are\O incredible\B ,\O the\O risottos\O (\O particularly\O the\O sepia\O )\O are\O fantastic\O and\O the\O braised\O rabbit\O is\O amazing\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0
+risottos
+The\O pastas\O are\O incredible\O ,\O the\O risottos\O (\O particularly\O the\O sepia\O )\O are\O fantastic\B and\O the\O braised\O rabbit\O is\O amazing\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0
+sepia
+The\O pastas\O are\O incredible\O ,\O the\O risottos\O (\O particularly\O the\O sepia\O )\O are\O fantastic\B and\O the\O braised\O rabbit\O is\O amazing\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0
+braised rabbit
+The\O pastas\O are\O incredible\O ,\O the\O risottos\O (\O particularly\O the\O sepia\O )\O are\O fantastic\O and\O the\O braised\O rabbit\O is\O amazing\B .\O
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3
+0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0
+food
+The\O food\O here\O was\O mediocre\B at\O best\O .\O
+1 0 1 2 3 4 5 6
+0 0 0 0 1 0 0 0
+fish and chips
+It\O was\O totally\O overpriced\B -\O fish\O and\O chips\O was\O about\O $\O 15\O ...\O .\O
+5 4 3 2 1 0 0 0 1 2 3 4 5 6
+0 0 0 1 1 0 0 0 0 0 1 0 1
+Dog
+Tasty\B Dog\O !\O
+1 0 1
+1 0 0
+dog
+An\O awesome\O organic\B dog\O ,\O and\O a\O conscious\O eco\O friendly\O establishment\O .\O
+3 2 1 0 1 2 3 4 5 6 7 8
+0 1 1 0 0 0 0 0 1 0 0
+establishment
+An\O awesome\O organic\O dog\O ,\O and\O a\O conscious\O eco\B friendly\I establishment\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1
+0 1 1 0 0 0 0 0 1 0 0
+pork souvlaki
+But\O the\O best\B pork\O souvlaki\O I\O ever\O had\O is\O the\O main\O thing\O .\O
+3 2 1 0 0 1 2 3 4 5 6 7 8
+0 0 1 0 0 0 0 0 0 0 0 0
+Pizza
+Super\O YUMMY\B Pizza\O !\O
+2 1 0 1
+1 1 0 0
+restaurant
+I\O was\O visiting\O New\O York\O City\O with\O a\O friend\O and\O we\O discovered\O this\O really\O warm\O and\O inviting\B restaurant\O .\O
+17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0
+eggplant pizza
+I\O LOOOVE\B their\O eggplant\O pizza\O ,\O as\O well\O as\O their\O pastas\O !\O
+3 2 1 0 0 1 2 3 4 5 6 7
+0 1 0 0 0 0 1 0 0 0 0
+pastas
+I\O LOOOVE\B their\O eggplant\O pizza\O ,\O as\O well\O as\O their\O pastas\O !\O
+10 9 8 7 6 5 4 3 2 1 0 1
+0 1 0 0 0 0 1 0 0 0 0
+half/half pizza
+We\O had\O half/half\O pizza\O ,\O mine\O was\O eggplant\O and\O my\O friend\O had\O the\O buffalo\O and\O it\O was\O sooo\O huge\B for\O a\O small\O size\O pizza\O !\O
+2 1 0 0 1
+1 0 0 1 1 1 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1
+food
+Excellent\B food\O ,\O although\O the\O interior\O could\O use\O some\O help\O .\O
+1 0 1 2 3 4 5 6 7 8 9
+1 0 0 0 0 0 0 0 0 0 0
+interior
+Excellent\O food\O ,\O although\O the\O interior\O could\O use\O some\O help\B .\O
+5 4 3 2 1 0 1 2 3 4 5
+1 0 0 0 0 0 0 0 0 0 0
+meal
+I\O paid\O just\O about\O $\O 60\O for\O a\O good\B meal\O ,\O though\O :\O )\O
+9 8 7 6 5 4 3 2 1 0 1 2 3 4
+0 1 0 0 1 0 0 1 0 0 1 0 1
+sake
+Great\B sake\O !\O
+1 0 1
+1 0 0
+Sushi
+Reliable\B ,\O Fresh\B Sushi\O
+3 2 1 0
+0 0 1 0
+sashimi
+The\O sashimi\O is\O always\O fresh\B and\O the\O rolls\O are\O innovative\O and\O delicious\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 0 0 1 0 0 0 0 0 0 1 0
+rolls
+The\O sashimi\O is\O always\O fresh\O and\O the\O rolls\O are\O innovative\B and\O delicious\B .\O
+7 6 5 4 3 2 1 0 1 2 3 4 5
+0 0 0 0 1 0 0 0 0 0 0 1 0
+service
+Have\O never\O had\O a\O problem\B with\O service\O save\O a\O missing\O rice\O once\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6
+0 0 0 0 0 0 0 0 0 1 0 1 0
+Delivery
+Delivery\O can\O be\O spot\O on\O or\O lacking\B depending\O on\O the\O weather\O and\O the\O day\O of\O the\O week\O .\O
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Delivery guy
+Delivery\O guy\O sometimes\O get\O upset\B if\O you\O do\O n't\O tip\O more\O than\O 10\O %\O .\O
+0 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 0 0 1 0 0 0 0 0 0 0 1 1
+Sushi
+Best\B .\O Sushi\O .\O Ever\O .\O
+2 1 0 1 2 3
+1 0 0 0 0 0
+sushi
+This\O place\O has\O ruined\B me\O for\O neighborhood\O sushi\O .\O
+7 6 5 4 3 2 1 0 1
+0 0 0 1 0 0 0 0 0
+sashimi
+Excellent\B sashimi\O ,\O and\O the\O millennium\O roll\O is\O beyond\O delicious\O .\O
+1 0 1 2 3 4 5 6 7 8 9
+1 0 0 0 0 0 0 0 1 0
+millennium roll
+Excellent\O sashimi\O ,\O and\O the\O millennium\O roll\O is\O beyond\O delicious\B .\O
+5 4 3 2 1 0 0 1 2 3 4
+1 0 0 0 0 0 0 0 1 0
+place
+The\O place\O is\O a\O bit\O hidden\B away\I ,\O but\O once\O you\O get\O there\O ,\O it\O 's\O all\O worth\B it\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+waiter
+The\O waiter\O was\O attentive\B ,\O the\O food\O was\O delicious\O and\O the\O views\O of\O the\O city\O were\O great\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+food
+The\O waiter\O was\O attentive\O ,\O the\O food\O was\O delicious\B and\O the\O views\O of\O the\O city\O were\O great\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+views of the city
+The\O waiter\O was\O attentive\O ,\O the\O food\O was\O delicious\O and\O the\O views\O of\O the\O city\O were\O great\B .\O
+5 4 3 2 1 0 0 0 0 1 2 3 4 5 6 7 8 9
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+place
+Great\B place\O to\O relax\O and\O enjoy\O your\O dinner\O
+1 0 1 2 3 4 5 6
+1 0 0 0 0 0 0 0
+food
+Good\B food\O :\O my\O favorite\O is\O the\O seafood\O spaghetti\O .\O
+1 0 1 2 3 4 5 6 7 8
+1 0 0 0 1 0 0 0 0 0
+seafood spaghetti
+Good\O food\O :\O my\O favorite\B is\O the\O seafood\O spaghetti\O .\O
+7 6 5 4 3 2 1 0 0 1
+1 0 0 0 1 0 0 0 0 0
+food
+Excellent\B food\O for\O great\O prices\O
+1 0 1 2 3
+1 0 0 0 0
+wait staff
+The\O wait\O staff\O is\O very\O courteous\B and\O accomodating\B .\O
+1 0 0 1 2 3 4 5 6
+0 1 0 1 1 0 1 0 1
+space
+The\O space\O is\O limited\B so\O be\O prepared\O to\O wait\O up\O to\O 45\O minutes\O -\O 1\O hour\O ,\O but\O be\O richly\O rewarded\O when\O you\O savor\O the\O delicious\O indo-chinese\O food\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0
+indo-chinese food
+The\O space\O is\O limited\O so\O be\O prepared\O to\O wait\O up\O to\O 45\O minutes\O -\O 1\O hour\O ,\O but\O be\O richly\O rewarded\O when\O you\O savor\O the\O delicious\B indo-chinese\O food\O .\O
+26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0
+place
+my\O favorite\B place\O lol\O
+2 1 0 1
+0 1 0 0
+chicken pasta
+i\O love\B their\O chicken\O pasta\O cant\O remember\O the\O name\O but\O is\O sooo\O good\O
+3 2 1 0 0 1 2 3 4 5 6 7 8
+0 1 0 0 0 0 0 0 0 0 0 0 1
+place
+im\O not\O necessarily\O fanatical\B about\O this\O place\O ,\O but\O it\O was\O a\O fun\O time\O for\O low\O pirces\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+lobster
+lobster\O was\O good\B ,\O nothing\B spectacular\I .\O
+0 1 2 3 4 5 6
+0 0 1 0 0 1 0
+restaraunt
+its\O just\O a\O fun\O place\O to\O go\O ,\O not\O a\O five\B star\I restaraunt\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 1 0 0 0 0 0 0 0 0 0 0
+pizza
+I\O think\O the\O pizza\O is\O so\O overrated\B and\O was\O under\B cooked\I .\O
+3 2 1 0 1 2 3 4 5 6 7 8
+0 0 0 0 0 0 1 0 0 0 0 0
+staff
+Had\O no\O flavor\O and\O the\O staff\O is\O rude\B and\O not\B attentive\I .\O
+5 4 3 2 1 0 1 2 3 4 5 6
+0 1 0 0 0 0 0 1 0 1 0 0
+place
+I\O love\B this\O place\O
+3 2 1 0
+0 1 0 0
+service
+The\O service\O was\O quick\B and\O friendly\B .\O
+1 0 1 2 3 4 5
+0 1 0 1 0 1 0
+restaurant
+I\O thought\O the\O restaurant\O was\O nice\B and\O clean\B .\O
+3 2 1 0 1 2 3 4 5
+0 0 0 0 0 1 0 1 0
+vitello alla marsala
+I\O ordered\O the\O vitello\O alla\O marsala\O and\O I\O was\O pretty\O impressed\B .\O
+3 2 1 0 0 0 1 2 3 4 5 6
+0 0 1 1 0 1 0 0 1 1 1
+veal
+The\O veal\O and\O the\O mushrooms\O were\O cooked\O perfectly\B .\O
+1 0 1 2 3 4 5 6 7
+0 0 0 0 0 0 0 1 0
+mushrooms
+The\O veal\O and\O the\O mushrooms\O were\O cooked\O perfectly\B .\O
+4 3 2 1 0 1 2 3 4
+0 0 0 0 0 0 0 1 0
+potato balls
+The\O potato\O balls\O were\O not\B dry\I at\O all\O ...\O in\O fact\O it\O was\O buttery\B .\O
+1 0 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 1 0 1 1 0 0 1 0 0 0 0 0 1
+PLACE
+WORST\B PLACE\O ON\O SMITH\O STREET\O IN\O BROOKLYN\O
+1 0 1 2 3 4 5
+1 0 0 0 0 0 0
+bartender
+Very\O immature\B bartender\O ,\O didnt\O know\O how\O to\O make\O specific\O drinks\O ,\O service\O was\O so\O slowwwww\O ,\O the\O food\O was\O not\O fresh\O or\O warm\O ,\O waitresses\O were\O busy\O flirting\O with\O men\O at\O the\O bar\O and\O werent\O very\O attentive\O to\O all\O the\O customers\O .\O
+2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1
+service
+Very\O immature\O bartender\O ,\O didnt\O know\O how\O to\O make\O specific\O drinks\O ,\O service\O was\O so\O slowwwww\B ,\O the\O food\O was\O not\O fresh\O or\O warm\O ,\O waitresses\O were\O busy\O flirting\O with\O men\O at\O the\O bar\O and\O werent\O very\O attentive\O to\O all\O the\O customers\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1
+food
+Very\O immature\O bartender\O ,\O didnt\O know\O how\O to\O make\O specific\O drinks\O ,\O service\O was\O so\O slowwwww\O ,\O the\O food\O was\O not\B fresh\I or\I warm\I ,\O waitresses\O were\O busy\O flirting\O with\O men\O at\O the\O bar\O and\O werent\O very\O attentive\O to\O all\O the\O customers\O .\O
+18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1
+waitresses
+Very\O immature\O bartender\O ,\O didnt\O know\O how\O to\O make\O specific\O drinks\O ,\O service\O was\O so\O slowwwww\O ,\O the\O food\O was\O not\O fresh\O or\O warm\O ,\O waitresses\O were\O busy\O flirting\O with\O men\O at\O the\O bar\O and\O werent\B very\I attentive\I to\O all\O the\O customers\O .\O
+25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1
+place
+I\O would\O never\B recommend\I this\O place\O to\O anybody\O even\O for\O a\O casual\O dinner\O .\O
+5 4 3 2 1 0 1 2 3 4 5 6 7 8
+0 0 1 1 0 0 0 0 0 0 0 0 0 0
+food
+the\O food\O is\O always\O fresh\B ...\O
+1 0 1 2 3 4
+0 0 0 0 1 0
+japanese food
+overpriced\B japanese\O food\O with\O mediocre\O service\O
+1 0 0 1 2 3
+1 0 0 0 1 0
+service
+overpriced\O japanese\O food\O with\O mediocre\B service\O
+5 4 3 2 1 0
+0 0 0 0 1 0
+food
+food\O was\O luke\B warm\I .\O
+0 1 2 3 4
+0 1 0 1 1
+waitress
+The\O waitress\O was\O not\B attentive\I at\O all\O .\O
+1 0 1 2 3 4 5 6
+0 0 0 1 0 0 0 0
+food
+The\O food\O was\O excellent\B as\O well\O as\O service\O ,\O however\O ,\O I\O left\O The\O Four\O Seasons\O very\O dissappointed\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+service
+The\O food\O was\O excellent\B as\O well\O as\O service\O ,\O however\O ,\O I\O left\O The\O Four\O Seasons\O very\O dissappointed\O .\O
+7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+The Four Seasons
+The\O food\O was\O excellent\O as\O well\O as\O service\O ,\O however\O ,\O I\O left\O The\O Four\O Seasons\O very\O dissappointed\B .\O
+0 0 0 1 2 3
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+Red Dragon Roll
+Red\O Dragon\O Roll\O -\O my\O favorite\B thing\O to\O eat\O ,\O of\O any\O food\O group\O -\O hands\O down\O
+0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+Seafood Dynamite
+The\O Seafood\O Dynamite\O is\O also\O otherworldly\B .\O
+1 0 0 1 2 3 4
+0 0 0 1 1 1
+Sushi
+Favorite\B Sushi\O in\O NYC\O
+1 0 1 2
+1 0 0 0
+spot
+An\O unpretentious\B spot\O in\O Park\O Slope\O ,\O the\O sushi\O is\O consistently\O good\O ,\O the\O service\O is\O pleasant\O ,\O effective\O and\O unassuming\O .\O
+2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 1 0 0 0
+sushi
+An\O unpretentious\O spot\O in\O Park\O Slope\O ,\O the\O sushi\O is\O consistently\O good\B ,\O the\O service\O is\O pleasant\O ,\O effective\O and\O unassuming\O .\O
+8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 1 0 0 0
+service
+An\O unpretentious\O spot\O in\O Park\O Slope\O ,\O the\O sushi\O is\O consistently\O good\O ,\O the\O service\O is\O pleasant\B ,\O effective\B and\O unassuming\B .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7
+0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 1 0 0 0
+back garden area
+In\O the\O summer\O months\O ,\O the\O back\O garden\O area\O is\O really\O nice\B .\O
+6 5 4 3 2 1 0 0 0 1 2 3 4
+0 0 0 0 0 0 0 0 0 0 0 1 0
+rolls
+The\O rolls\O are\O creative\B and\O I\O have\O yet\O to\O find\O another\O sushi\O place\O that\O serves\O up\O more\O inventive\O yet\O delicious\O japanese\O food\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0
+japanese food
+The\O rolls\O are\O creative\O and\O I\O have\O yet\O to\O find\O another\O sushi\O place\O that\O serves\O up\O more\O inventive\B yet\O delicious\B japanese\O food\O .\O
+20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0
+Dancing , White River and Millenium rolls
+The\O Dancing\O ,\O White\O River\O and\O Millenium\O rolls\O are\O musts\B .\O
+1 0 0 0 0 0 0 0 1 2 3
+1 1 0 0 0 0 0 0 1
+PLACE
+I\O CAN\O EAT\O HERE\O EVERY\O DAY\O OF\O THE\O WEEK\O REALLY\O LOL\O LOVE\B THIS\O PLACE\O ...\O )\O
+13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+food
+Gross\B food\O –\O Wow-\O
+1 0 1 2
+1 0
+guacamole
+And\O $\O 11\O for\O a\O plate\O of\O bland\B guacamole\O ?\O
+8 7 6 5 4 3 2 1 0 1
+0 1 0 0 0 0 1 0 0
+place
+Oh\O ,\O and\O I\O never\O write\O reviews\O --\O I\O just\O was\O so\O moved\O by\O how\O bad\B this\O place\O was\O ,\O I\O felt\O it\O was\O my\O duty\O to\O spread\O the\O word\O .\O
+17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+Indian Food
+Great\B Indian\O Food\O !\O
+1 0 0 1
+1 0 0 0
+food
+The\O food\O was\O good\B ,\O the\O place\O was\O clean\O and\O affordable\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 1 0 0 0 0 1 0 0 0
+place
+The\O food\O was\O good\O ,\O the\O place\O was\O clean\B and\O affordable\B .\O
+6 5 4 3 2 1 0 1 2 3 4 5
+0 0 0 1 0 0 0 0 1 0 0 0
+indian place
+I\O noticed\O alot\O of\O indian\O people\O eatting\O there\O which\O is\O a\O great\B sign\O for\O an\O indian\O place\O !\O
+4 3 2 1 0 0 1
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1
+food
+This\O is\O one\O of\O my\O favorite\O spot\O ,\O very\O relaxing\O the\O food\O is\O great\B all\O the\O times\O ,\O celebrated\O my\O engagement\O and\O my\O wedding\O here\O ,\O it\O was\O very\O well\O organized\O .\O
+11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+0 0 0 0 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+staff
+The\O staff\O is\O very\O good\B .\O
+1 0 1 2 3 4
+0 0 0 0 1 0
+drink menu
+Love\B their\O drink\O menu\O .\O
+2 1 0 0 1
+1 0 0 0 0
+place
+I\O highly\O recommend\B this\O beautiful\B place\O .\O
+5 4 3 2 1 0 1
+0 0 1 0 1 0 0
+view of river and NYC
+Nice\B view\O of\O river\O and\O NYC\O .\O
+1 0 0 0 0 0 1
+1 1 0 0 0 0 0
+survice
+Great\B survice\O
+1 0
+1
+Egyptian restaurant
+A\O beautifully\O designed\O dreamy\B Egyptian\O restaurant\O that\O gets\O sceney\O at\O night\O .\O
+4 3 2 1 0 0 1 2 3 4 5 6
+0 1 0 0 0 0 0 0 0 0
+baba ganoush
+Watch\O the\O talented\O belly\O dancers\O as\O you\O enjoy\B delicious\B baba\O ganoush\O that\O 's\O more\O lemony\O than\O smoky\O .\O
+9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7
+0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0
+belly dancers
+Watch\O the\O talented\B belly\O dancers\O as\O you\O enjoy\O delicious\O baba\O ganoush\O that\O 's\O more\O lemony\O than\O smoky\O .\O
+3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0
+Raymond
+Raymond\O the\O bartender\O rocks\B !\O
+0 1 2 3 4
+0 0 1 0
+Pacifico
+Pacifico\O is\O a\O great\B place\O to\O casually\O hang\O out\O .\O
+0 1 2 3 4 5 6 7 8 9
+0 0 1 0 0 0 0 0
+drinks
+The\O drinks\O are\O great\B ,\O especially\O when\O made\O by\O Raymond\O .\O
+1 0 1 2 3 4 5 6 7 8 9
+0 0 0 1 0 0 0 0 0 0
+Raymond
+The\O drinks\O are\O great\B ,\O especially\O when\O made\O by\O Raymond\O .\O
+9 8 7 6 5 4 3 2 1 0 1
+0 0 0 1 0 0 0 0 0 0
+omlette for brunch
+The\O omlette\O for\O brunch\O is\O great\B ...\O
+1 0 0 0 1 2 3
+0 0 0 0 0 1 0
+spinach
+the\O spinach\O is\O fresh\B ,\O definately\O not\O frozen\O ...\O
+1 0 1 2 3 4 5 6 7
+0 0 0 1 0 0 0 0 0
+quacamole
+quacamole\O at\O pacifico\O is\O yummy\B ,\O as\O are\O the\O wings\O with\O chimmichuri\O .\O
+0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 1 0 0 0 0 0 0 1
+wings with chimmichuri
+quacamole\O at\O pacifico\O is\O yummy\B ,\O as\O are\O the\O wings\O with\O chimmichuri\O .\O
+9 8 7 6 5 4 3 2 1 0 0 0 1
+0 0 1 0 0 0 0 0 0 1
+chicken in the salads
+A\O weakness\B is\O the\O chicken\O in\O the\O salads\O .\O
+3 2 1 0 0 0 0 1 2
+0 0 0 0 1 0 0 1
+portobello and asparagus mole
+Also\O ,\O I\O personally\O was\O n't\O a\O fan\B of\O the\O portobello\O and\O asparagus\O mole\O .\O
+10 9 8 7 6 5 4 3 2 1 0 0 0 0 1
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 1
+food
+Overall\O ,\O decent\B food\O at\O a\O good\O price\O ,\O with\O friendly\O people\O .\O
+3 2 1 0 1 2 3 4 5 6 7 8 9
+0 0 1 0 0 0 1 0 0 0 0 0 0
+people
+Overall\O ,\O decent\O food\O at\O a\O good\O price\O ,\O with\O friendly\B people\O .\O
+11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 1 0 0 0 1 0 0 0 1 0 0
+Indian Restaurant
+Best\B Indian\O Restaurant\O in\O the\O City\O
+1 0 0 1 2 3
+1 0 0 0 0 0
+Decor
+Decor\O needs\O to\O be\O upgraded\B but\O the\O food\O is\O amazing\O !\O
+0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 0 0 0 0 0 1 0
+food
+Decor\O needs\O to\O be\O upgraded\O but\O the\O food\O is\O amazing\B !\O
+7 6 5 4 3 2 1 0 1 2 3
+0 0 0 0 0 0 0 0 0 1 0
+gyros
+This\O small\O Astoria\O souvlaki\O spot\O makes\O what\O many\O consider\O the\O best\B gyros\O in\O New\O York\O .\O
+11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4
+0 0 1 0 0 0 0 0 1 0 0 0 0 0
+food
+What\O really\O makes\O it\O shine\B is\O the\O food\O ,\O which\O is\O aggressively\O seasoned\O with\O Cyrpriot\O spices\O ,\O and\O all\O made\O in-house\O (\O even\O the\O gyro\O meat\O and\O sausages\O )\O ,\O and\O made\O of\O much\O higher\O quality\O ingredients\O that\O might\O otherwise\O be\O expected\O .\O
+7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35
+0 0 0 0 1 0 1 0 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 1 1
+gyro meat
+What\O really\O makes\O it\O shine\O is\O the\O food\O ,\O which\O is\O aggressively\O seasoned\O with\O Cyrpriot\O spices\O ,\O and\O all\O made\O in-house\B (\O even\O the\O gyro\O meat\O and\O sausages\O )\O ,\O and\O made\O of\O much\O higher\O quality\O ingredients\O that\O might\O otherwise\O be\O expected\O .\O
+24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+0 0 0 0 1 0 1 0 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 1 1
+sausages
+What\O really\O makes\O it\O shine\O is\O the\O food\O ,\O which\O is\O aggressively\O seasoned\O with\O Cyrpriot\O spices\O ,\O and\O all\O made\O in-house\B (\O even\O the\O gyro\O meat\O and\O sausages\O )\O ,\O and\O made\O of\O much\O higher\O quality\O ingredients\O that\O might\O otherwise\O be\O expected\O .\O
+27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+0 0 0 0 1 0 1 0 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 1 1
+ingredients
+What\O really\O makes\O it\O shine\O is\O the\O food\O ,\O which\O is\O aggressively\O seasoned\O with\O Cyrpriot\O spices\O ,\O and\O all\O made\O in-house\O (\O even\O the\O gyro\O meat\O and\O sausages\O )\O ,\O and\O made\O of\O much\O higher\B quality\I ingredients\O that\O might\O otherwise\O be\O expected\O .\O
+36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6
+0 0 0 0 1 0 1 0 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 1 1
+Greek and Cypriot dishes
+All\O the\O various\O Greek\O and\O Cypriot\O dishes\O are\O excellent\B ,\O but\O the\O gyro\O is\O the\O reason\O to\O come\O --\O if\O you\O do\O n't\O eat\O one\O your\O trip\O was\O wasted\O .\O
+3 2 1 0 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+restaurant
+Best\B restaurant\O in\O Brooklyn\O
+1 0 1 2
+1 0 0 0
+food
+Great\B food\O ,\O amazing\O service\O ,\O this\O place\O is\O a\O class\O act\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11
+1 0 0 1 0 0 0 0 0 0 0 0 0
+service
+Great\O food\O ,\O amazing\B service\O ,\O this\O place\O is\O a\O class\O act\O .\O
+4 3 2 1 0 1 2 3 4 5 6 7 8
+1 0 0 1 0 0 0 0 0 0 0 0 0
+place
+Great\O food\O ,\O amazing\O service\O ,\O this\O place\O is\O a\O class\B act\I .\O
+7 6 5 4 3 2 1 0 1 2 3 4 5
+1 0 0 1 0 0 0 0 0 0 0 0 0
+veal
+The\O veal\O was\O incredible\B last\O night\O .\O
+1 0 1 2 3 4 5
+0 0 0 1 0 0 0
+place
+This\O place\O is\O a\O must\B visit\I !\O
+1 0 1 2 3 4 5
+0 0 0 1 0 0 0
+food
+The\O food\O is\O all\O shared\B so\O we\O get\O to\O order\O together\O and\O eat\O together\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+1 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+dishes
+I\O 've\O enjoyed\B 99\O %\O of\O the\O dishes\O we\O 've\O ordered\O with\O the\O only\O exceptions\O being\O the\O occasional\O too-authentic-for-me\O dish\O (\O I\O 'm\O a\O daring\O eater\O but\O not\O THAT\O daring\O )\O .\O
+7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+dish
+I\O 've\O enjoyed\O 99\O %\O of\O the\O dishes\O we\O 've\O ordered\O with\O the\O only\O exceptions\O being\O the\O occasional\O too-authentic-for-me\B dish\O (\O I\O 'm\O a\O daring\O eater\O but\O not\O THAT\O daring\O )\O .\O
+19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+Water 's Edge
+My\O daughter\O 's\O wedding\O reception\O at\O Water\O 's\O Edge\O received\O the\O highest\B compliments\I from\O our\O guests\O .\O
+2 1 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 0 1 0 0 0 0 1 0 0 1 1 0 0 0 0
+atmosphere
+Everyone\O raved\B about\O the\O atmosphere\O (\O elegant\O rooms\O and\O absolutely\O incomparable\O views\O )\O and\O the\O fabulous\O food\O !\O
+4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+rooms
+Everyone\O raved\O about\O the\O atmosphere\O (\O elegant\B rooms\O and\O absolutely\O incomparable\O views\O )\O and\O the\O fabulous\O food\O !\O
+7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+views
+Everyone\O raved\O about\O the\O atmosphere\O (\O elegant\O rooms\O and\O absolutely\O incomparable\B views\O )\O and\O the\O fabulous\O food\O !\O
+11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+food
+Everyone\O raved\O about\O the\O atmosphere\O (\O elegant\O rooms\O and\O absolutely\O incomparable\O views\O )\O and\O the\O fabulous\B food\O !\O
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+Service
+Service\O was\O wonderful\B ;\O
+0 1 2 3
+0 0 1 0
+Paul
+Paul\O ,\O the\O maitre\O d\O '\O ,\O was\O totally\O professional\B and\O always\O on\O top\O of\O things\O .\O
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+Service
+Service\O ok\B but\O unfriendly\B ,\O filthy\O bathroom\O .\O
+0 1 2 3 4 5 6 7
+0 0 0 1 0 1 0 0
+bathroom
+Service\O ok\O but\O unfriendly\O ,\O filthy\B bathroom\O .\O
+6 5 4 3 2 1 0 1
+0 0 0 1 0 1 0 1
+bar drinks
+The\O bar\O drinks\O were\O Eh\O ,\O ok\B to\O say\O the\O least\O .\O
+1 0 0 1 2 3 4 5 6 7 8 9
+0 0 0 1 1 0 1 0 0 0 0 1
+stuff tilapia
+The\O stuff\O tilapia\O was\O horrid\B ...\O tasted\O like\O cardboard\O .\O
+1 0 0 1 2 3 4 5 6 7
+0 0 0 0 1 0 0 0 1 1
+mens bathroom
+oh\O speaking\O of\O bathroom\O ,\O the\O mens\O bathroom\O was\O disgusting\B .\O
+3 2 1 0 0 1 2 3 4 5 6
+0 0 0 0 0 0 0 0 0 1 0
+wine list
+The\O wine\O list\O was\O extensive\B -\O though\O the\O staff\O did\O not\O seem\O knowledgeable\O about\O wine\O pairings\O .\O
+1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 1
+staff
+The\O wine\O list\O was\O extensive\O -\O though\O the\O staff\O did\O not\B seem\I knowledgeable\I about\O wine\O pairings\O .\O
+8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8
+0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1
+bread
+The\O bread\O we\O received\O was\O horrible\B -\O rock\B hard\I and\O cold\B -\O and\O the\O ``\O free\O ''\O appetizer\O of\O olives\O was\O disappointing\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+appetizer of olives
+The\O bread\O we\O received\O was\O horrible\O -\O rock\O hard\O and\O cold\O -\O and\O the\O ``\O free\O ''\O appetizer\O of\O olives\O was\O disappointing\B .\O
+17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 1 2 3
+0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0
+main course
+However\O ,\O our\O main\O course\O was\O wonderful\B .\O
+3 2 1 0 0 1 2 3
+0 0 0 0 0 0 1 0
+fish
+I\O had\O fish\O and\O my\O husband\O had\O the\O filet\O -\O both\O of\O which\O exceeded\B our\I expectations\I .\O
+2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0
+filet
+I\O had\O fish\O and\O my\O husband\O had\O the\O filet\O -\O both\O of\O which\O exceeded\B our\I expectations\I .\O
+8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8
+0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1
+pear torte
+The\O dessert\O (\O we\O had\O a\O pear\O torte\O )\O was\O good\B -\O but\O ,\O once\O again\O ,\O the\O staff\O was\O unable\O to\O provide\O appropriate\O drink\O suggestions\O .\O
+6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 1
+staff
+The\O dessert\O (\O we\O had\O a\O pear\O torte\O )\O was\O good\O -\O but\O ,\O once\O again\O ,\O the\O staff\O was\O unable\B to\I provide\I appropriate\O drink\O suggestions\O .\O
+18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 1 0 0 0 0 0 1
+location
+Not\O what\O I\O would\O expect\B for\O the\O price\O and\O prestige\O of\O this\O location\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 1
+1 0 0 0 1 0 0 1 0 1 0 0 0 1
+restaurant
+All\O in\O all\O ,\O I\O would\O return\O -\O as\O it\O was\O a\O beautiful\B restaurant\O -\O but\O I\O hope\O the\O staff\O pays\O more\O attention\O to\O the\O little\O details\O in\O the\O future\O .\O
+13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0
+seating
+short\O and\O sweet\O –\O seating\O is\O great\B :\O it\O 's\O romantic\O ,\O cozy\O and\O private\O .\O
+4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 1 0 0 1 0 0 0 1 0 1 0 0 0
+boths
+The\O boths\O are\O not\B as\I small\I as\O some\O of\O the\O reviews\O make\O them\O out\O to\O look\O they\O 're\O perfect\B for\O 2\O people\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+service
+The\O service\O was\O extremely\O fast\B and\O attentive\B (\O thanks\O to\O the\O service\O button\O on\O your\O table\O )\O but\O I\O barely\O understood\O 1\O word\O when\O the\O waiter\O took\O our\O order\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+service button
+The\O service\O was\O extremely\O fast\O and\O attentive\O (\O thanks\B to\I the\O service\O button\O on\O your\O table\O )\O but\O I\O barely\O understood\O 1\O word\O when\O the\O waiter\O took\O our\O order\O .\O
+1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+waiter
+The\O service\O was\O extremely\O fast\O and\O attentive\O (\O thanks\O to\O the\O service\O button\O on\O your\O table\O )\O but\O I\O barely\B understood\I 1\O word\O when\O the\O waiter\O took\O our\O order\O .\O
+25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4
+0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+food
+The\O food\O was\O ok\B and\O fair\B nothing\O to\O go\O crazy\O .\O
+1 0 1 2 3 4 5 6 7 8 9
+0 0 0 1 0 1 1 0 0 0 0
+looks
+Over\O all\O the\O looks\O of\O the\O place\O exceeds\B the\O actual\O meals\O .\O
+3 2 1 0 1 2 3 4 5 6 7 8
+1 0 0 1 0 0 1 0 0 0 0 0
+food
+Subtle\B food\O and\O service\O
+1 0 1 2
+1 0 0 0
+service
+Subtle\B food\O and\O service\O
+3 2 1 0
+1 0 0 0
+service
+Noodle\O pudding\O is\O exactly\O the\O type\O of\O service\O and\O food\O I\O enjoy\B .\O
+7 6 5 4 3 2 1 0 1 2 3 4 5
+0 0 0 0 0 0 0 0 0 0 0 1 0
+food
+Noodle\O pudding\O is\O exactly\O the\O type\O of\O service\O and\O food\O I\O enjoy\B .\O
+9 8 7 6 5 4 3 2 1 0 1 2 3
+0 0 0 0 0 0 0 0 0 0 0 1 0
+Greg
+Servers\O are\O all\O different\O ,\O Greg\O is\O my\O favorite\B .\O
+5 4 3 2 1 0 1 2 3 4
+0 0 0 0 0 0 0 0 1 0
+servers
+I\O go\O out\O to\O eat\O and\O like\O my\O courses\O ,\O servers\O are\O patient\B and\O never\O rush\O courses\O or\O force\O another\O drink\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1
+dogs
+amazing\B fresh\I dogs\O but\O best\O of\O all\O endless\O toppings\O !\O !\O !\O
+2 1 0 1 2 3 4 5 6 7 8 9
+1 1 0 0 0 0 0 0 0 0 0 0
+toppings
+amazing\O fresh\O dogs\O but\O best\B of\O all\O endless\B toppings\O !\O !\O !\O
+8 7 6 5 4 3 2 1 0 1 2 3
+1 1 0 0 1 0 0 0 0 0 0 0
+hot dog
+amazing\B fun\I for\O hot\O dog\O lovers\O of\O all\O ages\O PLEASE\O do\O yourself\O a\O favor\O and\O check\O this\O place\O out\O !\O !\O !\O !\O
+3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Casa La Femme
+Stepping\O into\O Casa\O La\O Femme\O last\O night\O was\O a\O true\B experience\O unlike\O any\O other\O in\O New\O York\O !\O
+2 1 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0
+decor
+Highly\O impressed\B from\O the\O decor\O to\O the\O food\O to\O the\O hospitality\O to\O the\O great\O night\O I\O had\O !\O
+4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+food
+Highly\O impressed\B from\O the\O decor\O to\O the\O food\O to\O the\O hospitality\O to\O the\O great\O night\O I\O had\O !\O
+7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10
+1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+cocktail with Citrus Vodka and lemon and lime juice and mint leaves
+The\O have\O a\O great\B cocktail\O with\O Citrus\O Vodka\O and\O lemon\O and\O lime\O juice\O and\O mint\O leaves\O that\O is\O to\O die\O for\O !\O
+4 3 2 1 0 0 0 0 0 0 0 0 0 0 0 0 1 2 3 4 5 6
+0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Food
+Food\O took\O some\O time\O to\O prepare\O ,\O all\O worth\B waiting\O for\O .\O
+0 1 2 3 4 5 6 7 8 9 10 11
+0 1 0 0 0 0 0 0 1 0 0 0
+belly dancing show
+We\O were\O drawn\O into\O the\O belly\O dancing\O show\O that\O captivated\B the\O crowd\O .\O
+5 4 3 2 1 0 0 0 1 2 3 4 5
+0 1 1 0 0 1 0 0 0 0 0 0
+restaurant
+I\O never\O write\O on\O these\O sites\O but\O this\O restaurant\O is\O def\O worth\B commending\O !\O
+8 7 6 5 4 3 2 1 0 1 2 3 4 5
+0 0 0 0 0 0 0 0 0 0 1 1 0
+menu
+The\O menu\O looked\O great\B ,\O and\O the\O waiter\O was\O very\O nice\O ,\O but\O when\O the\O food\O came\O ,\O it\O was\O average\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1
+waiter
+The\O menu\O looked\O great\O ,\O and\O the\O waiter\O was\O very\O nice\B ,\O but\O when\O the\O food\O came\O ,\O it\O was\O average\O .\O
+7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1
+food
+The\O menu\O looked\O great\O ,\O and\O the\O waiter\O was\O very\O nice\O ,\O but\O when\O the\O food\O came\O ,\O it\O was\O average\B .\O
+15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
+food
+I\O have\O worked\O in\O restaurants\O and\O cook\O a\O lot\O ,\O and\O there\O is\O no\O way\O a\O maggot\O should\O be\O able\O to\O get\O into\O well\B prepared\I food\O .\O
+25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 1
+restaurant
+For\O a\O restaurant\O with\O such\O a\O good\B reputation\I and\O that\O is\O usually\O so\O packed\O ,\O there\O was\O no\O reason\O for\O such\O a\O lack\O of\O intelligent\O customer\O service\O .\O
+2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+0 0 0 0 0 0 1 1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 0
+customer service
+For\O a\O restaurant\O with\O such\O a\O good\O reputation\O and\O that\O is\O usually\O so\O packed\O ,\O there\O was\O no\O reason\O for\O such\O a\O lack\O of\O intelligent\B customer\O service\O .\O
+25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 1 0 0 0
+place
+Great\B place\O ,\O great\O value\O .\O
+1 0 1 2 3 4
+1 0 0 1 0 0
+food
+The\O food\O is\O flavorful\B ,\O plentiful\B and\O reasonably\B priced\I .\O
+1 0 1 2 3 4 5 6 7 8
+0 0 0 1 0 1 0 0 0 0
+atmosphere
+The\O atmosphere\O is\O relaxed\B and\O casual\B .\O
+1 0 1 2 3 4 5
+0 0 0 1 0 0 0
+place
+It\O 's\O a\O great\B place\O to\O order\O from\O or\O sit-in\O .\O
+4 3 2 1 0 1 2 3 4 5 6
+0 0 0 1 0 0 0 0 0 0
+Sushi
+Sushi\O experience\O was\O unbelievable\B with\O my\O fiance\O .\O
+0 1 2 3 4 5 6 7
+0 0 0 1 0 0 0 0
+rolls
+Good\B creative\B rolls\O !\O
+2 1 0 1
+1 1 0 0
+Yamato
+Yamato\O is\O an\O excellent\B place\O to\O go\O if\O youre\O not\O into\O sashimi\O ,\O or\O if\O you\O have\O friends\O who\O doesnt\O like\O sushi\O much\O .\O
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+rolls
+They\O have\O great\B rolls\O ,\O the\O triple\O color\O and\O norwegetan\O rolls\O ,\O are\O awesome\O and\O filling\O .\O
+3 2 1 0 1 2 3 4 5 6
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+triple color and norwegetan rolls
+They\O have\O great\O rolls\O ,\O the\O triple\O color\O and\O norwegetan\O rolls\O ,\O are\O awesome\B and\O filling\B .\O
+3 2 1 0 0 0 0 0 1 2 3 4 5 6 7 8 9
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+dessert
+One\O special\O roll\O and\O one\O regular\O roll\O is\O enough\O to\O fill\O you\O up\O ,\O but\O save\B room\I for\O dessert\O !\O
+18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 1 0 0 0 0 0 0 1 0 1 1 0 0 1 0 0 0 0 0
+special roll
+One\O special\O roll\O and\O one\O regular\O roll\O is\O enough\B to\O fill\O you\O up\O ,\O but\O save\O room\O for\O dessert\O !\O
+1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+1 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0
+regular roll
+One\O special\O roll\O and\O one\O regular\O roll\O is\O enough\B to\O fill\O you\O up\O ,\O but\O save\O room\O for\O dessert\O !\O
+2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+1 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0
+banana chocolate dessert
+They\O have\O a\O delicious\B banana\O chocolate\O dessert\O ,\O as\O well\O as\O a\O great\O green\O tea\O tempura\O .\O
+4 3 2 1 0 0 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+green tea tempura
+They\O have\O a\O delicious\O banana\O chocolate\O dessert\O ,\O as\O well\O as\O a\O great\B green\O tea\O tempura\O .\O
+13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 1
+0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0
+appetizers
+The\O appetizers\O are\O also\O delicious\B !\O
+1 0 1 2 3 4
+0 0 0 0 1 0
+food
+Amazing\B food\O .\O
+1 0 1
+1 0 0
+interior
+Mazing\B interior\O .\O
+1 0 1
+0 1
+food
+Great\B food\O !\O
+1 0 1
+1 0 0
+modern Japanese
+I\O 've\O had\O my\O fair\O share\O of\O modern\O Japanese\O and\O this\O spot\O delivers\B .\O
+7 6 5 4 3 2 1 0 0 1 2 3 4 5
+0 0 0 0 0 1 0 0 0 0 0 1 1 0
+atmosphere
+The\O atmosphere\O was\O pretty\O nice\B but\O had\O a\O bit\O lacking\O ,\O which\O it\O tries\O to\O make\O up\O for\O with\O a\O crazy\O scheme\O of\O mirrors\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1 1 0 0 0 0 0 0 0
+scheme of mirrors
+The\O atmosphere\O was\O pretty\O nice\O but\O had\O a\O bit\O lacking\O ,\O which\O it\O tries\O to\O make\O up\O for\O with\O a\O crazy\B scheme\O of\O mirrors\O .\O
+21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 1
+0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1 1 0 0 0 0 0 0 0
+modern Japanese food
+Despite\O the\O confusing\O mirrors\O this\O will\O likely\O be\O my\O go-to\B for\I modern\O Japanese\O food\O for\O the\O foreseeable\O future\O .\O
+11 10 9 8 7 6 5 4 3 2 1 0 0 0 1 2 3 4 5
+0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+mirrors
+Despite\O the\O confusing\B mirrors\O this\O will\O likely\O be\O my\O go-to\O for\O modern\O Japanese\O food\O for\O the\O foreseeable\O future\O .\O
+3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+Indo Chinese food
+Indo\O Chinese\O food\O ,\O pretty\O good\B ...\O
+0 0 0 1 2 3 4
+0 0 0 0 1 0
+place
+Not\O a\O very\O fancy\B place\O but\O very\O good\O Chinese\O style\O Indian\O food\O .\O
+4 3 2 1 0 1 2 3 4 5 6 7 8
+0 0 0 0 0 0 0 1 0 0 0 0 0
+Chinese style Indian food
+Not\O a\O very\O fancy\O place\O but\O very\O good\B Chinese\O style\O Indian\O food\O .\O
+8 7 6 5 4 3 2 1 0 0 0 0 1
+0 0 0 0 0 0 0 1 0 0 0 0 0
+chicken lollipop
+The\O chicken\O lollipop\O is\O my\O favorite\B ,\O most\O of\O the\O dishes\O (\O I\O have\O to\O agree\O with\O a\O previous\O reviewer\O )\O are\O quite\O oily\O and\O very\O spicy\O ,\O espeically\O the\O Chilli\O Chicken\O .\O
+1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+dishes
+The\O chicken\O lollipop\O is\O my\O favorite\O ,\O most\O of\O the\O dishes\O (\O I\O have\O to\O agree\O with\O a\O previous\O reviewer\O )\O are\O quite\O oily\B and\O very\O spicy\B ,\O espeically\O the\O Chilli\O Chicken\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Chilli Chicken
+The\O chicken\O lollipop\O is\O my\O favorite\O ,\O most\O of\O the\O dishes\O (\O I\O have\O to\O agree\O with\O a\O previous\O reviewer\O )\O are\O quite\O oily\B and\O very\O spicy\B ,\O espeically\O the\O Chilli\O Chicken\O .\O
+30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+food
+My\O mom\O originally\O introduced\O me\O to\O this\O place\O ,\O but\O even\O she\O (\O being\O Indian\O )\O feels\O the\O food\O can\O be\O somewhat\O over\O the\O top\O spicy\B and\O far\O too\O oily\B .\O
+18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 1 0 0 1 1 1
+food
+I\O was\O speechless\B by\O the\O horrible\B food\O .\O
+6 5 4 3 2 1 0 1
+0 0 0 0 1 0 0
+food
+I\O attended\O a\O holiday\O dinner\O at\O the\O restaurant\O ,\O and\O the\O food\O was\O majorly\O disappointing\B .\O
+11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
+restaurant
+This\O is\O the\O MOST\O wonderful\B restaurant\O in\O all\O of\O New\O York\O City\O ,\O not\O just\O Brooklyn\O ...\O
+5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+food
+for\O 7\O years\O they\O have\O put\O out\O the\O most\O tasty\B ,\O most\O delicious\B food\O and\O kept\O it\O that\O way\O ...\O
+13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+meal
+never\O swaying\O ,\O never\B a\I bad\I meal\O ,\O never\O bad\O service\O ...\O
+6 5 4 3 2 1 0 1 2 3 4 5
+1 0 0 0 0 0 0 0 1 0 1
+service
+never\O swaying\O ,\O never\O a\O bad\O meal\O ,\O never\B bad\I service\O ...\O
+10 9 8 7 6 5 4 3 2 1 0 1
+1 0 0 0 0 0 0 0 1 0 1
+food
+great\B food\O ,\O great\O wine\O list\O ,\O great\O service\O in\O a\O great\O neighborhood\O ...\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12
+1 0 0 1 0 0 0 1 0 0 0 0 0 0
+wine list
+great\O food\O ,\O great\B wine\O list\O ,\O great\O service\O in\O a\O great\O neighborhood\O ...\O
+4 3 2 1 0 0 1 2 3 4 5 6 7 8
+1 0 0 1 0 0 0 1 0 0 0 0 0 0
+service
+great\O food\O ,\O great\O wine\O list\O ,\O great\B service\O in\O a\O great\O neighborhood\O ...\O
+8 7 6 5 4 3 2 1 0 1 2 3 4 5
+1 0 0 1 0 0 0 1 0 0 0 0 0 0
+neighborhood
+great\O food\O ,\O great\O wine\O list\O ,\O great\O service\O in\O a\O great\B neighborhood\O ...\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 1
+1 0 0 1 0 0 0 1 0 0 0 0 0 0
+Patsy 's Pizza
+Patsy\O 's\O Pizza\O =\O true\B love\I
+0 0 0 1 2 3
+0 0 0 1 1
+pizza
+Hands\O down\O the\O best\B pizza\O on\O the\O planet\O .\O
+4 3 2 1 0 1 2 3 4
+0 0 0 1 0 0 0 0 0
+hot dogs
+great\B hot\O dogs\O .\O
+1 0 0 1
+1 0 0 0
+hot dogs
+the\O hot\O dogs\O were\O juicy\B and\O tender\O inside\O and\O had\O plenty\O of\O crunch\O and\O snap\O on\O the\O outside\O .\O
+1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+toppings
+great\B toppings\O definitely\O a\O place\O you\O need\O to\O check\O out\O for\O late\O night\O munchies\O or\O a\O mid\O day\O boost\O !\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+dishes
+For\O me\O dishes\O a\O little\O oily\B ,\O but\O overall\O dining\O experience\O good\O .\O
+2 1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 0 0 0 0 0 0 0 1 0
+service
+Helpful\B service\O and\O average\O price\O per\O dish\O $\O 10\O .\O
+1 0 1 2 3 4 5 6 7 8
+1 0 0 0 0 0 0 1 0
+decor
+The\O only\O thing\O that\O strikes\O you\O is\O the\O decor\O ?\O (\O not\B very\I pleasant\I )\O .\O
+8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7
+0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0
+food
+great\B food\O
+1 0
+1 0
+indian chinese food
+This\O place\O has\O great\B indian\O chinese\O food\O .\O
+4 3 2 1 0 0 0 1
+0 0 0 1 0 0 0 0
+place
+Be\O prepared\O to\O wait\O ,\O because\O the\O place\O is\O pretty\O tiny\B .\O
+7 6 5 4 3 2 1 0 1 2 3 4
+0 0 0 0 0 0 0 0 0 1 1 1
+place
+Even\O though\O the\O place\O is\O not\B beautiful\I ,\O the\O food\O speaks\O for\O itself\O .\O
+3 2 1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 0 1 1 0 1 1 1 0 0 0
+food
+Even\O though\O the\O place\O is\O not\O beautiful\O ,\O the\O food\O speaks\B for\I itself\I .\O
+9 8 7 6 5 4 3 2 1 0 1 2 3 4
+0 0 0 0 0 1 0 0 1 1 1 0 0 0
+Indian Chinese
+Best\B Indian\O Chinese\O in\O the\O city\O ,\O by\O far\O !\O
+1 0 0 1 2 3 4 5 6 7
+1 0 0 0 0 0 0 0 0 0
+martinis
+The\O martinis\O are\O amazing\B and\O very\O fairly\B priced\I .\O
+1 0 1 2 3 4 5 6 7
+0 0 0 1 0 0 0 0 0
+SERVICE
+THE\O SERVICE\O IS\O AMAZING\B ,\O i\O 've\O had\O different\O waiters\O and\O they\O were\O all\O nice\O ,\O which\O is\O a\O rare\O thing\O in\O NYC\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+waiters
+THE\O SERVICE\O IS\O AMAZING\O ,\O i\O 've\O had\O different\O waiters\O and\O they\O were\O all\O nice\B ,\O which\O is\O a\O rare\O thing\O in\O NYC\O .\O
+9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+DJ
+The\O DJ\O is\O awesome\B ,\O I\O have\O been\O there\O for\O my\O birthday\O and\O a\O bunch\O of\O other\O times\O with\O friends\O and\O I\O keep\O going\O back\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0
+menu
+Everything\O on\O the\O menu\O is\O great\B .\O
+3 2 1 0 1 2 3
+0 0 0 0 0 1 0
+establishment
+This\O establishment\O is\O the\O real\B deal\I .\O
+1 0 1 2 3 4 5
+0 0 0 1 1 0 0
+food
+Wish\O NY\O had\O more\O of\O these\O kind\O of\O places\O :\O intimate\O ,\O superb\B food\O ,\O homey\O ,\O top\O notch\O all\O the\O way\O around\O ,\O certainly\O worth\O the\O wait\O .\O
+13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0
+appetizers
+Look\O ,\O the\O appetizers\O were\O really\O good\B .\O
+3 2 1 0 1 2 3 4
+0 0 0 0 0 0 1 0
+entree
+The\O entree\O was\O also\O very\O good\B .\O
+1 0 1 2 3 4 5
+0 0 0 0 0 1 0
+place
+Yes\O ,\O the\O place\O is\O classy\B and\O beautiful\B ,\O but\O they\O most\O certainly\O target\O the\O uber\O whealthy\O Not\O the\O common\O joe\O that\O wants\O to\O go\O all\O out\O every\O once\O in\O a\O while\O .\O
+3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vanison
+Vanison\O was\O good\B but\O not\B amazing\I .\O
+0 1 2 3 4 5 6
+0 1 0 0 0 0
+Bison
+Bison\O was\O quite\O excellent\B however\O .\O
+0 1 2 3 4 5
+0 0 1 0 0
+Dessert
+Dessert\O :\O pure\O disaster\B .\O
+0 1 2 3 4
+0 0 0 1 0
+restaurant
+I\O read\O reviews\O that\O called\O the\O restaurant\O too\O expensive\B and\O I\O thought\O to\O myself\O ,\O but\O may\O be\O it\O is\O worth\O it\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+food
+All\O in\O all\O ,\O the\O food\O was\O great\B (\O except\O for\O the\O dessserts\O )\O .\O
+5 4 3 2 1 0 1 2 3 4 5 6 7 8 9
+0 0 0 0 0 0 0 1 0 0 0 0 0 0
+environment
+The\O environment\O is\O very\O upscale\B and\O you\O will\O see\O a\O lot\O of\O rich\O guys\O with\O trophy\O wives\O or\O just\O highly\O paid\O escorts\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+food
+If\O you\O are\O going\O for\O the\O food\O ,\O it\O will\O not\O be\O worth\B it\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+service
+You\O would\O think\O they\O would\O make\O up\O for\O it\O with\O service\O ,\O sadly\B ,\O no\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0
+Service
+Service\O was\O just\O ok\B ,\O it\O is\O not\O what\O you\O 'd\O expect\O for\O $\O 500\O .\O
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+Casa La Femme
+I\O literally\O just\O got\O back\O home\O after\O visiting\O Casa\O La\O Femme\O and\O was\O so\O offended\B by\O my\O visit\O felt\O it\O necessary\O to\O try\O and\O warn\O other\O diners\O who\O value\O their\O money\O and\O time\O .\O
+8 7 6 5 4 3 2 1 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1
+place
+The\O place\O is\O beautiful\B !\O
+1 0 1 2 3
+0 0 0 1 0
+hostess
+The\O hostess\O was\O very\O pleasant\B .\O
+1 0 1 2 3 4
+0 0 0 0 1 0
+drinks
+However\O ,\O our\O $\O 14\O drinks\O were\O were\O horrible\B !\O
+5 4 3 2 1 0 1 2 3 4
+0 0 0 0 0 0 0 1 0
+waiter
+We\O asked\O for\O sides\O which\O the\O waiter\O than\O admitted\O that\O he\O forgot\B to\O put\O in\O that\O part\O of\O our\O order\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+1 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1
+chicken
+My\O chicken\O was\O inedible\B as\O there\O were\O so\O many\O fatty\O lumps\O which\O i\O had\O to\O keep\O spitting\O out\O into\O my\O napkin\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+food
+By\O the\O time\O we\O left\O our\O wallets\O were\O empy\O and\O so\O were\O our\O stomachs\O AND\O we\O missed\O the\O show\O we\O were\O supposed\O to\O see\O following\O our\O dinner\O ,\O which\O would\O have\O been\O acceptable\O if\O we\O got\O to\O enjoy\O the\O experience\O of\O good\B food\O and\O belly\O dancers\O !\O
+42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+meal
+If\O it\O seemed\O possible\O to\O do\O so\O while\O there\O I\O would\O have\O fought\O my\O bill\O since\O my\O dinner\O portion\O of\O my\O meal\O was\O inedible\B !\O
+21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+restaurant
+I\O have\O never\O left\O a\O restaurant\O feeling\O as\O if\O i\O was\O abused\B ,\O and\O wasted\O my\O hard\O earned\O money\O .\O
+5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1
+menu
+The\O menu\O is\O fairly\O simple\B without\O much\O descriptions\O .\O
+1 0 1 2 3 4 5 6 7
+0 0 0 1 1 1 0 0 0
+beer
+There\O was\O no\O tap\O beer\O that\O evening\O ,\O which\O was\O a\O disappointment\B .\O
+4 3 2 1 0 1 2 3 4 5 6 7 8
+0 0 1 0 0 0 0 0 0 0 0 1 0
+selection of bottled beer
+Not\B much\I of\O a\O selection\O of\O bottled\O beer\O either\O ,\O we\O went\O with\O Brahma\O .\O
+2 1 0 0 0 0 1 2 3 4 5 6 7 8 9
+1 0 0 0 0 0 0 0 0 0 0 0 0 1
+fried oysters and clams
+The\O appetizers\O we\O ordered\O were\O served\O quickly\O -\O an\O order\O of\O fried\O oysters\O and\O clams\O were\O delicious\B but\O a\O tiny\O portion\O (\O maybe\O 3\O of\O each\O )\O .\O
+11 10 9 8 7 6 5 4 3 2 1 0 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 1 1
+lobster knuckles
+The\O lobster\O knuckles\O (\O special\O of\O the\O day\O )\O were\O ok\B ,\O but\O pretty\O tasteless\B .\O
+1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+Thai style Fried Sea Bass
+I\O had\O the\O Thai\O style\O Fried\O Sea\O Bass\O ...\O which\O was\O very\O good\B .\O
+3 2 1 0 0 0 0 0 1 2 3 4 5 6
+0 0 0 0 0 0 0 0 0 0 0 0 1 0
+food
+Everyone\O seemed\O generally\O happy\B with\O their\O food\O ,\O except\O my\O brother\O who\O had\O the\O grilled\O Mahi\O Mahi\O ,\O seemingly\O drenched\O in\O Grapfruit\O Juice\O !\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+grilled Mahi Mahi
+Everyone\O seemed\O generally\O happy\O with\O their\O food\O ,\O except\O my\O brother\O who\O had\O the\O grilled\O Mahi\O Mahi\O ,\O seemingly\O drenched\B in\O Grapfruit\O Juice\O !\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 1 2 3 4 5 6 7
+1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+lobster roll
+I\O heard\O the\O lobster\O roll\O was\O excellent\B .\O
+3 2 1 0 0 1 2 3
+0 0 0 0 0 0 1 0
+food
+All\O in\O all\O the\O food\O was\O good\B -\O a\O little\O on\O the\O expensive\B side\O ,\O but\O fresh\B .\O
+4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0
+Service
+Service\O not\B the\I friendliest\I to\O our\O ``\O large\O party\O ''\O !\O
+0 1 2 3 4 5 6 7 8 9 10
+0 1 0 0 0 0 0 0 0 0 0
+Indian food
+Great\B Indian\O food\O
+1 0 0
+1 0 0
+Food
+Food\O was\O amazing\B -\O I\O love\O Indian\O food\O and\O eat\O it\O quite\O regularly\O ,\O but\O I\O can\O say\O this\O is\O one\O of\O the\O best\O I\O 've\O had\O .\O
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+Indian food
+Very\O ``\O normal\B Indian\O food\O ''\O ,\O but\O done\O really\O well\B .\O
+3 2 1 0 0 1 2 3 4 5 6 7
+0 0 0 0 0 0 0 0 0 0 1 0
+lunch buffet
+The\O lunch\O buffet\O is\O expensive\B but\O is\O deff\O worth\B it\O .\O
+1 0 0 1 2 3 4 5 6 7 8
+0 0 0 0 0 0 0 0 1 0 0
+service
+We\O have\O gone\O for\O dinner\O only\O a\O few\O times\O but\O the\O same\O great\B quality\O and\O service\O is\O given\O .\O
+15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3
+0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0
+dinner
+We\O have\O gone\O for\O dinner\O only\O a\O few\O times\O but\O the\O same\O great\B quality\I and\O service\O is\O given\O .\O
+4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+Bukhara
+Bukhara\O is\O on\O my\O top\B 5\O Indian\O places\O in\O NYC\O
+0 1 2 3 4 5 6 7 8 9
+0 0 0 1 0 0 0 0
+food
+I\O have\O never\O been\O so\O disgusted\B by\O both\O food\O an\O service\O .\O
+8 7 6 5 4 3 2 1 0 1 2 3
+0 0 0 0 0 1 0 0 0 0 0 0
+service
+I\O have\O never\O been\O so\O disgusted\B by\O both\O food\O an\O service\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 1 0 0 0 0 0 0
+kimchee
+However\O ,\O once\O I\O received\O my\O predictably\O mediocre\O order\O of\O what\O Dokebi\O thinks\O passes\O as\O Korean\O fair\O ,\O (\O sometimes\O you\O have\O to\O settle\O when\O it\O 's\O your\O only\O option\O )\O ,\O I\O got\O through\O about\O half\O my\O kimchee\O before\O I\O found\O a\O piece\O of\O random\O lettuce\O accompanied\O by\O a\O far\O more\O disgusting\B ,\O slimy\O ,\O clearly\O bad\O piece\O of\O fish\O skin\O .\O
+38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0
+Korean fair
+However\O ,\O once\O I\O received\O my\O predictably\O mediocre\B order\O of\O what\O Dokebi\O thinks\O passes\O as\O Korean\O fair\O ,\O (\O sometimes\O you\O have\O to\O settle\O when\O it\O 's\O your\O only\O option\O )\O ,\O I\O got\O through\O about\O half\O my\O kimchee\O before\O I\O found\O a\O piece\O of\O random\O lettuce\O accompanied\O by\O a\O far\O more\O disgusting\O ,\O slimy\O ,\O clearly\O bad\O piece\O of\O fish\O skin\O .\O
+15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0
+meal
+My\O girlfriend\O ,\O being\O slightly\O more\O aggressive\O ,\O and\O having\O been\O equally\O disgusted\B causing\O her\O to\O throw\O out\O the\O remainder\O of\O her\O barely\O eaten\O meal\O ,\O called\O back\O only\O to\O be\O informed\O that\O I\O was\O probably\O wrong\O and\O that\O it\O was\O most\O likely\O an\O oyster\O ,\O and\O that\O we\O were\O also\O blacklisted\O from\O their\O restaurant\O .\O
+24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+restaurant
+It\O was\O n't\O as\O if\O this\O restaurant\O had\O any\O major\O bragging\O points\O before\O hand\O ,\O but\O now\O it\O 's\O simply\O repulsive\B .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+place
+Gorgeous\B place\O ideal\B for\O a\O romantic\O dinner\O
+1 0 1 2 3 4 5
+1 0 0 0 0 0 0
+four course prix fix menu
+I\O book\O a\O gorgeous\O white\O organza\O tent\O which\O included\O a\O four\O course\O prix\O fix\O menu\O which\O we\O enjoyed\B a\O lot\O .\O
+10 9 8 7 6 5 4 3 2 1 0 0 0 0 0 1 2 3 4 5 6
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+white organza tent
+I\O book\O a\O gorgeous\B white\O organza\O tent\O which\O included\O a\O four\O course\O prix\O fix\O menu\O which\O we\O enjoyed\O a\O lot\O .\O
+4 3 2 1 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+service
+The\O service\O was\O spectacular\B as\O the\O waiter\O knew\O everything\O about\O the\O menu\O and\O his\O recommendations\O were\O amazing\O !\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+waiter
+The\O service\O was\O spectacular\O as\O the\O waiter\O knew\O everything\O about\O the\O menu\O and\O his\O recommendations\O were\O amazing\B !\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+Casa La Femme
+I\O completely\O recommend\B Casa\O La\O Femme\O for\O any\O special\O occasion\O and\O to\O REALLY\O impress\O your\O date\O .\O
+3 2 1 0 0 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0
+bibimbap
+The\O bibimbap\O was\O average\B ,\O but\O the\O stone\O bowl\O was\O n't\O even\O close\O to\O sizzling\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+stone bowl
+The\O bibimbap\O was\O average\O ,\O but\O the\O stone\O bowl\O was\B n't\I even\I close\I to\I sizzling\I .\O
+7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1
+stone bowl
+Too\O bad\B I\O had\O paid\O an\O extra\O $\O 2\O for\O the\O stone\O bowl\O .\O
+11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 1 0 0 0 0 0 1 0 0 0 0 0
+nakgi-bokum
+The\O nakgi-bokum\O was\O horrible\B .\O
+1 0 1 2 3
+0 0 1 0
+stir-fried squid
+Easily\O the\O worst\B stir-fried\O squid\O I\O 've\O ever\O tasted\O .\O
+3 2 1 0 0 1 2 3 4 5
+0 0 1 0 0 0 0 0 0
+side dishes
+The\O side\O dishes\O were\O passable\B ,\O and\O I\O did\O get\O a\O refill\O upon\O request\O .\O
+1 0 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 1
+service
+The\O real\O problem\O I\O had\O with\O this\O place\O was\O the\O complete\O lack\B of\I service\O .\O
+13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 1 0 0 0 0 0 0 0 0 1 0 0 0
+dish
+My\O wife\O had\O barely\O touched\O that\O mess\B of\O a\O dish\O .\O
+9 8 7 6 5 4 3 2 1 0 1
+0 0 0 1 0 0 1 0 0 0 0
+risotto
+The\O wife\O had\O the\O risotto\O which\O was\O amazing\B .\O
+4 3 2 1 0 1 2 3 4
+0 0 0 0 0 0 0 1 0
+farro salad
+The\O farro\O salad\O and\O the\O mashed\O yukon\O potatoes\O were\O also\O extremely\O tasty\B .\O
+1 0 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 0 0 0 0 0 1 0
+mashed yukon potatoes
+The\O farro\O salad\O and\O the\O mashed\O yukon\O potatoes\O were\O also\O extremely\O tasty\B .\O
+5 4 3 2 1 0 0 0 1 2 3 4 5
+0 0 0 0 0 0 0 0 0 1 0
+east village pizza
+i\O love\B margherita\O pizza\O –\O i\O looove\O east\O village\O pizza\O
+3 2 1 0 0 0 1 2 3 4
+0 1 1 0 0 0 0 0
+margherita pizza
+i\O love\O margherita\O pizza\O –\O i\O looove\B east\O village\O pizza\O
+2 1 0 0
+0 1 1 0 0 0 0 0
+place
+Love\B this\O place\O ,\O every\O time\O we\O are\O in\O the\O city\O this\O is\O one\O of\O the\O places\O we\O always\O go\O .\O
+2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+slice of NYC pizza
+A\O quintessential\B slice\O of\O NYC\O pizza\O .\O
+2 1 0 0 0 0 1
+0 1 0 0 0 0 0
+crust
+The\O crust\O has\O a\O great\B bite\O and\O a\O good\B chew\O ,\O the\O sauce\O is\O light\O with\O a\O nice\O acidity\O to\O it\O ,\O the\O salt\O from\O the\O cheese\O is\O great\O ,\O really\O heightens\O the\O flavor\O of\O all\O the\O other\O components\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38
+0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+sauce
+The\O crust\O has\O a\O great\O bite\O and\O a\O good\O chew\O ,\O the\O sauce\O is\O light\B with\O a\O nice\O acidity\O to\O it\O ,\O the\O salt\O from\O the\O cheese\O is\O great\O ,\O really\O heightens\O the\O flavor\O of\O all\O the\O other\O components\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27
+0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+cheese
+The\O crust\O has\O a\O great\O bite\O and\O a\O good\O chew\O ,\O the\O sauce\O is\O light\O with\O a\O nice\O acidity\O to\O it\O ,\O the\O salt\O from\O the\O cheese\O is\O great\B ,\O really\O heightens\O the\O flavor\O of\O all\O the\O other\O components\O .\O
+26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+margherita pizza
+Personally\O I\O like\B the\O margherita\O pizza\O better\O ,\O but\O they\O are\O all\O good\O .\O
+4 3 2 1 0 0 1 2 3 4 5 6 7 8
+0 0 0 0 0 0 0 0 0 0 0 0 1 0
+Restaurant
+Possibly\O the\O Most\O Romantic\B Restaurant\O in\O the\O City\O
+4 3 2 1 0 1 2 3
+0 0 1 1 0 0 0 0
+modern Japanese brasserie
+This\O is\O undoubtedly\O my\O favorite\B modern\O Japanese\O brasserie\O (\O that\O don\O ’\O t\O serve\O sushi\O )\O ,\O and\O in\O my\O opinion\O ,\O one\O of\O the\O most\O romantic\B restaurants\O in\O the\O city\O !\O
+5 4 3 2 1 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+spot
+Not\O only\O is\O it\O an\O adventure\O getting\O to\O this\O somewhat\O hidden\B spot\O ,\O once\O you\O enter\O the\O unmarked\O wooden\O doors\O ,\O the\O zen\O and\O intimate\O décor\O will\O make\O you\O feel\O like\O you\O ’\O re\O no\O longer\O in\O the\O city\O .\O
+11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+décor
+Not\O only\O is\O it\O an\O adventure\O getting\O to\O this\O somewhat\O hidden\O spot\O ,\O once\O you\O enter\O the\O unmarked\O wooden\O doors\O ,\O the\O zen\O and\O intimate\B décor\O will\O make\O you\O feel\O like\O you\O ’\O re\O no\O longer\O in\O the\O city\O .\O
+25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+private booths
+If\O you\O ’\O re\O planning\O to\O come\O here\O ,\O make\O sure\O that\O your\O date\O is\O someone\O whom\O you\O really\O like\O since\O you\O ’\O ll\O be\O ushered\B to\O private\O booths\O where\O there\O will\O be\O no\O people\O or\O food\O watching\O (\O choose\O the\O ones\O on\O the\O ground\O level\O that\O have\O glass\O ceilings\O so\O you\O may\O see\O the\O stars\O in\O the\O sky\O !\O )\O .\O
+27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 1 1
+BBE $ 29 fixe prix menu
+My\O party\O had\O the\O BBE\O $\O 29\O fixe\O prix\O menu\O ,\O which\O was\O such\O a\O wonderful\B deal\O since\O it\O also\O came\O with\O a\O flight\O of\O sake\O !\O
+4 3 2 1 0 0 0 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+sashimi amuse bouche
+We\O started\O off\O with\O a\O delightful\B sashimi\O amuse\O bouche\O .\O
+6 5 4 3 2 1 0 0 0 1
+0 0 0 0 0 1 0 0
+Grilled Black Cod
+I\O picked\O the\O Grilled\O Black\O Cod\O as\O my\O entree\O ,\O which\O I\O absolutely\O devoured\B while\O someone\O commented\O that\O the\O Grilled\O Salmon\O dish\O was\O better\O .\O
+3 2 1 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+0 0 0 0 1 1 1 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 1
+Grilled Salmon dish
+I\O picked\O the\O Grilled\O Black\O Cod\O as\O my\O entree\O ,\O which\O I\O absolutely\O devoured\O while\O someone\O commented\O that\O the\O Grilled\O Salmon\O dish\O was\O better\B .\O
+3 2 1 0 0 0 1 2 3
+0 0 0 0 1 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1 1
+sake ’ s
+The\O sake\O ’\O s\O complimented\O the\O courses\O very\O well\B and\O is\O successfully\O easing\O me\O into\O the\O sake\O world\O .\O
+1 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0
+frozen black sesame mousse
+For\O desserts\O ,\O we\O tried\O the\O frozen\O black\O sesame\O mousse\O (\O interesting\B but\O not\O extraordinary\B )\O and\O matcha\O (\O powdered\O green\O tea\O )\O and\O blueberry\O cheesecake\O ,\O which\O was\O phenomenal\O .\O
+6 5 4 3 2 1 0 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1
+matcha ( powdered green tea ) and blueberry cheesecake
+For\O desserts\O ,\O we\O tried\O the\O frozen\O black\O sesame\O mousse\O (\O interesting\O but\O not\O extraordinary\O )\O and\O matcha\O (\O powdered\O green\O tea\O )\O and\O blueberry\O cheesecake\O ,\O which\O was\O phenomenal\B .\O
+10 9 8 7 6 5 4 3 2 1 0 0 0 0 0 0 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1
+brasserie
+Maybe\O it\O was\O the\O great\O company\O (\O I\O had\O friends\O visiting\O from\O Philly\O –\O yes\O ,\O it\O was\O not\O a\O date\O this\O time\O )\O or\O the\O super\O reasonable\O price\O point\O ,\O but\O I\O just\O can\O ’\O t\O say\O enough\O good\B things\O about\O this\O brasserie\O .\O
+43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0
+service
+The\O service\O leaves\B much\I to\I be\I desired\I ,\O from\O feeling\O like\O you\O are\O rushed\O the\O place\O your\O order\O ,\O to\O being\O ignored\O the\O rest\O of\O the\O night\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+service
+They\O are\O extremely\O rude\O ,\O not\O even\O apologizing\O for\O the\O horrible\B service\O we\O got\O and\O handing\O us\O a\O bill\O well\O over\O $\O 500\O for\O some\O drinks\O adn\O their\O pita\O bread\O !\O
+11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+Shabu Shabu
+Great\B Shabu\O Shabu\O
+1 0 0
+1
+dishes
+I\O tried\O a\O couple\O other\O dishes\O but\O was\B n't\I too\I impressed\I .\O
+5 4 3 2 1 0 1 2 3 4 5 6
+0 0 0 0 0 0 1 1 1 1 0 0
+meat
+The\O meat\O is\O fresh\B ,\O the\O sauces\O are\O great\O ,\O you\O get\O kimchi\O and\O a\O salad\O free\O with\O your\O meal\O and\O service\O is\O good\O too\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+sauces
+The\O meat\O is\O fresh\O ,\O the\O sauces\O are\O great\B ,\O you\O get\O kimchi\O and\O a\O salad\O free\O with\O your\O meal\O and\O service\O is\O good\O too\O .\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+service
+The\O meat\O is\O fresh\O ,\O the\O sauces\O are\O great\O ,\O you\O get\O kimchi\O and\O a\O salad\O free\O with\O your\O meal\O and\O service\O is\O good\B too\O .\O
+21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4
+0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+kimchi
+The\O meat\O is\O fresh\O ,\O the\O sauces\O are\O great\O ,\O you\O get\O kimchi\O and\O a\O salad\O free\B with\O your\O meal\O and\O service\O is\O good\O too\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+salad
+The\O meat\O is\O fresh\O ,\O the\O sauces\O are\O great\O ,\O you\O get\O kimchi\O and\O a\O salad\O free\B with\O your\O meal\O and\O service\O is\O good\O too\O .\O
+15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+Korean food
+Dokebi\O gives\O Williamsburg\O the\O right\O one-two\O punch\O of\O classic\B Korean\O food\O and\O fusion\O twists\O like\O pork\O belly\O tacos\O .\O
+9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8
+1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0
+fusion twists
+Dokebi\O gives\O Williamsburg\O the\O right\O one-two\O punch\O of\O classic\B Korean\O food\O and\O fusion\O twists\O like\O pork\O belly\O tacos\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5
+1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0
+pork belly tacos
+Dokebi\O gives\O Williamsburg\O the\O right\O one-two\O punch\O of\O classic\B Korean\O food\O and\O fusion\O twists\O like\O pork\O belly\O tacos\O .\O
+15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 1
+1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0
+hot dogs
+The\O hot\O dogs\O are\O good\B ,\O yes\O ,\O but\O the\O reason\O to\O get\O over\O here\O is\O the\O fantastic\O pork\O croquette\O sandwich\O ,\O perfect\O on\O its\O supermarket\O squishy\O bun\O .\O
+1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0
+pork croquette sandwich
+The\O hot\O dogs\O are\O good\O ,\O yes\O ,\O but\O the\O reason\O to\O get\O over\O here\O is\O the\O fantastic\B pork\O croquette\O sandwich\O ,\O perfect\O on\O its\O supermarket\O squishy\O bun\O .\O
+18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 1 2 3 4 5 6 7 8
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0
+bun
+The\O hot\O dogs\O are\O good\O ,\O yes\O ,\O but\O the\O reason\O to\O get\O over\O here\O is\O the\O fantastic\O pork\O croquette\O sandwich\O ,\O perfect\B on\O its\O supermarket\O squishy\O bun\O .\O
+27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0
+food
+The\O food\O tasted\O very\O good\B .\O
+1 0 1 2 3 4
+0 0 0 0 1 0
+family seafood entree
+The\O family\O seafood\O entree\O was\O very\O good\B .\O
+1 0 0 0 1 2 3 4
+0 0 0 0 0 0 1 0
+main entree
+The\O main\O entree\O was\O also\O very\O good\B .\O
+1 0 0 1 2 3 4 5
+0 0 0 0 0 0 1 0
+food
+Price\O is\O high\O but\O the\O food\O is\O good\B ,\O so\O I\O would\O come\O back\O again\O .\O
+5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+decor
+This\O place\O has\O totally\O weird\B decor\O ,\O stairs\O going\O up\O with\O mirrored\O walls\O -\O I\O am\O surprised\O how\O no\O one\O yet\O broke\O their\O head\O or\O fall\O off\O the\O stairs\O -\O mirrored\O walls\O make\O you\O dizzy\O and\O delusional\O ...\O
+5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32
+0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+mirrored walls
+This\O place\O has\O totally\O weird\O decor\O ,\O stairs\O going\O up\O with\O mirrored\O walls\O -\O I\O am\O surprised\O how\O no\O one\O yet\O broke\O their\O head\O or\O fall\O off\O the\O stairs\O -\O mirrored\O walls\O make\O you\O dizzy\B and\O delusional\B ...\O
+11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6
+0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+place
+This\O place\O is\O not\B inviting\I and\O the\O food\O is\O totally\O weird\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 1 0 0 0 0 0 0 1 0
+food
+This\O place\O is\O not\O inviting\O and\O the\O food\O is\O totally\O weird\B .\O
+7 6 5 4 3 2 1 0 1 2 3 4
+0 0 0 1 0 0 0 0 0 0 1 0
+japanese tapas
+The\O concept\O of\O japanese\O tapas\O is\O newly\O created\O and\O clearly\O does\B n't\I work\I .\O
+3 2 1 0 0 1 2 3 4 5 6 7 8 9
+0 0 0 0 0 0 0 0 0 0 0 1 0 0
+food
+The\O food\O they\O serve\O is\O not\B comforting\I ,\O not\B appetizing\I and\O uncooked\B .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 0 0 0 1 0 0 0 0 0 0 0
+Food
+Good\B Food\O
+1 0
+1 0
+food
+The\O food\O was\O great\B and\O tasty\B ,\O but\O the\O sitting\O space\O was\O too\O small\O ,\O I\O do\O n't\O like\O being\O cramp\O in\O a\O corner\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1
+sitting space
+The\O food\O was\O great\O and\O tasty\O ,\O but\O the\O sitting\O space\O was\O too\B small\I ,\O I\O do\O n't\O like\O being\O cramp\O in\O a\O corner\O .\O
+9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1
+place
+Over\O all\O it\O was\O a\O very\O nice\B romantic\B place\O .\O
+8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 1 0 0 0
+Pacifico
+A\O coworker\O and\O I\O tried\O Pacifico\O after\O work\O a\O few\O Fridays\O and\O loved\B it\O .\O
+5 4 3 2 1 0 1 2 3 4 5 6 7 8 9
+0 0 0 0 0 0 0 0 0 0 0 1 0 0
+atmosphere
+The\O atmosphere\O was\O great\B .\O
+1 0 1 2 3
+0 0 0 1 0
+food
+The\O food\O we\O ordered\O was\O excellent\B ,\O although\O I\O would\O n't\O say\O the\O margaritas\O were\O anything\O to\O write\O home\O about\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+waitress
+Our\O waitress\O was\B n't\I mean\I ,\O but\O not\B especially\I warm\I or\I attentive\I either\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 0 1 0 0 0 1 0 0 0 0 0 0
+restaurant
+I\O must\O say\O I\O am\O surprised\O by\O the\O bad\B reviews\O of\O the\O restaurant\O earlier\O in\O the\O year\O ,\O though\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7
+0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0
+servers
+The\O servers\O at\O Flatbush\O Farm\O appear\O to\O have\O perfected\B that\O ghastly\O technique\O of\O making\O you\O feel\O guilty\O and\O ashamed\O for\O deigning\O to\O attract\O their\O attention\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+server
+A\O different\O server\O enhanced\B the\O fun\O ,\O dumping\O our\O entrees\O in\O front\O of\O us\O halfway\O through\O our\O appetizer\O (\O which\O was\O delicious\O )\O .\O
+2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+appetizer
+A\O different\O server\O enhanced\O the\O fun\O ,\O dumping\O our\O entrees\O in\O front\O of\O us\O halfway\O through\O our\O appetizer\O (\O which\O was\O delicious\B )\O .\O
+17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6
+0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+food
+Overall\O the\O food\O quality\O was\O pretty\O good\B ,\O though\O I\O hear\O the\O salmon\O is\O much\O better\O when\O it\O has\O n't\O sat\O cooling\O in\O front\O of\O the\O guest\O .\O
+2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+0 0 0 0 0 1 1 0 1 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0
+fit-out
+The\O place\O has\O a\O nice\B fit-out\O ,\O some\O attractive\O furnishings\O and\O ,\O from\O what\O I\O could\O tell\O ,\O a\O reasonable\O wine\O list\O (\O I\O was\O given\O the\O food\O menu\O when\O I\O asked\O for\O the\O carte\O des\O vins\O )\O
+5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32
+0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+furnishings
+The\O place\O has\O a\O nice\O fit-out\O ,\O some\O attractive\B furnishings\O and\O ,\O from\O what\O I\O could\O tell\O ,\O a\O reasonable\O wine\O list\O (\O I\O was\O given\O the\O food\O menu\O when\O I\O asked\O for\O the\O carte\O des\O vins\O )\O
+9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+wine list
+The\O place\O has\O a\O nice\O fit-out\O ,\O some\O attractive\O furnishings\O and\O ,\O from\O what\O I\O could\O tell\O ,\O a\O reasonable\B wine\O list\O (\O I\O was\O given\O the\O food\O menu\O when\O I\O asked\O for\O the\O carte\O des\O vins\O )\O
+20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+meals
+Everything\O was\O going\O good\B until\O we\O got\O our\O meals\O .\O
+8 7 6 5 4 3 2 1 0 1
+0 0 0 1 0 0 0 0 0 0
+chicken
+I\O took\O one\O look\O at\O the\O chicken\O and\O I\O was\O appalled\B .\O
+6 5 4 3 2 1 0 1 2 3 4 5
+0 0 0 1 0 0 0 1 0 0 1 1
+spinach
+It\O was\O served\O with\O skin\O ,\O over\O a\O bed\O of\O extremely\O undercooked\B spinach\O and\O mashed\O potatoes\O .\O
+12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1
+salmon
+I\O took\O one\O bite\O from\O the\O $\O 24\O salmon\O ,\O and\O I\O have\O never\O ,\O in\O the\O 17\O years\O I\O have\O been\O going\O to\O restaurants\O tasted\O salmon\O as\O fishy\B ,\O as\O dry\B ,\O and\O as\O bland\B as\O the\O one\O in\O Flatbush\O Farms\O .\O
+8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0
+was
+So\O ,\O I\O switch\O with\O my\O boyfriend\O again\O to\O see\O if\O maybe\O I\O could\O stomach\O the\O meat\O and\O spinach\O again\O ,\O but\O the\O spinach\O was\O so\O undercooked\B that\O I\O just\O could\O not\O bite\O through\O it\O .\O
+24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 1
+manager
+This\O is\O where\O it\O really\O really\O gets\O bad\B :\O the\O manager\O said\O ,\O there\O is\O absolutely\O nothing\O we\O can\O do\O ,\O it\O 's\O a\O matter\O of\O taste\O that\O she\O did\O n't\O like\O it\O ,\O and\O I\O can\O not\O comp\O it\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+drinks
+The\O manager\O came\O to\O the\O table\O and\O said\O we\O can\O do\O what\O we\O want\O ,\O so\O we\O paid\O for\O what\O we\O did\O enjoy\B ,\O the\O drinks\O and\O appetizers\O ,\O and\O walked\O out\O .\O
+25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7
+0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+appetizers
+The\O manager\O came\O to\O the\O table\O and\O said\O we\O can\O do\O what\O we\O want\O ,\O so\O we\O paid\O for\O what\O we\O did\O enjoy\B ,\O the\O drinks\O and\O appetizers\O ,\O and\O walked\O out\O .\O
+27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+STAFF
+THIS\O STAFF\O SHOULD\O BE\O FIRED\B .\O
+1 0 1 2 3 4
+0 0 0 0 1 0
+margherita pizza
+cirspy\B crust\B margherita\O pizza\O
+2 1 0 0
+1 1 0
+pizza
+it\O was\O really\O good\B pizza\O .\O
+4 3 2 1 0 1
+0 0 0 1 0 0
+crust
+the\O crust\O was\O imazingly\O cooked\B well\I and\O pizza\O was\O fully\O loaded\O :\O )\O :\O )\O :\O )\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+0 0 0 0 1 0 0 0 0 1 0 1 0 1 0 0
+pizza
+the\O crust\O was\O imazingly\O cooked\O well\O and\O pizza\O was\O fully\B loaded\I :\O )\O :\O )\O :\O )\O
+7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9
+0 0 0 0 1 0 0 0 0 1 0 1 0 1 0 0
+Restaurant
+Single\O Worst\B Restaurant\O in\O Manhattan\O
+2 1 0 1 2
+0 1 0 0
+decor
+I\O 'll\O being\O with\O a\O couple\O of\O positives\O :\O cool\B decor\O ,\O good\O pita\O and\O hummus\O ,\O and\O grilled\O octopus\O that\O was\O actually\O pretty\O tasty\O .\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+0 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0
+pita
+I\O 'll\O being\O with\O a\O couple\O of\O positives\O :\O cool\O decor\O ,\O good\B pita\O and\O hummus\O ,\O and\O grilled\O octopus\O that\O was\O actually\O pretty\O tasty\O .\O
+13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0
+hummus
+I\O 'll\O being\O with\O a\O couple\O of\O positives\O :\O cool\O decor\O ,\O good\B pita\O and\O hummus\O ,\O and\O grilled\O octopus\O that\O was\O actually\O pretty\O tasty\O .\O
+15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0
+grilled octopus
+I\O 'll\O being\O with\O a\O couple\O of\O positives\O :\O cool\O decor\O ,\O good\O pita\O and\O hummus\O ,\O and\O grilled\O octopus\O that\O was\O actually\O pretty\O tasty\B .\O
+18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6
+0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0
+scene
+It\O is\O quite\O a\O spectacular\B scene\O i\O 'll\O give\O them\O that\O .\O
+5 4 3 2 1 0 1 2 3 4 5 6
+0 0 0 0 1 0 0 0 0 0 0 0
+decor
+The\O decor\O however\O seems\O to\O be\O the\O distraction\B so\O you\O wo\O n't\O notice\O that\O you\O just\O payed\O 300\O bucks\O for\O some\O cold\O eggplant\O that\O took\O 2\O FRICKIN\O HOURS\O TO\O COME\O !\O !\O !\O !\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 1 1
+eggplant
+The\O decor\O however\O seems\O to\O be\O the\O distraction\O so\O you\O wo\O n't\O notice\O that\O you\O just\O payed\O 300\O bucks\O for\O some\O cold\B eggplant\O that\O took\O 2\O FRICKIN\O HOURS\O TO\O COME\O !\O !\O !\O !\O
+22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 1 1
+Hot Dogs
+Great\B Hot\O Dogs\O !\O
+1 0 0 1
+1 0 0 0
+hot dogs
+The\O hot\O dogs\O are\O top\B notch\I ,\O and\O they\O 're\O Slamwich\O is\O amazing\O !\O
+1 0 0 1 2 3 4 5 6 7 8 9 10 11
+0 0 0 0 0 0 0 0 0 0 0 1 0
+Slamwich
+The\O hot\O dogs\O are\O top\O notch\O ,\O and\O they\O 're\O Slamwich\O is\O amazing\B !\O
+10 9 8 7 6 5 4 3 2 1 0 1 2 3
+0 0 0 0 0 0 0 0 0 0 0 1 0
+Bark
+Going\O to\O Bark\O is\O always\O worth\B the\O train\O ride\O ,\O and\O will\O make\O your\O tongue\O and\O belly\O very\O happy\O !\O
+2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 1 0
+spot
+But\O nonetheless\O --\O great\B spot\O ,\O great\O food\O .\O
+4 3 2 1 0 1 2 3 4
+0 0 0 1 0 0 1 0 0
+food
+But\O nonetheless\O --\O great\O spot\O ,\O great\B food\O .\O
+7 6 5 4 3 2 1 0 1
+0 0 0 1 0 0 1 0 0
+food
+Fabulous\B food\O -\O if\O the\O front\O of\O house\O staff\O do\O n't\O put\O you\O off\O –\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+1 0 0 0 0 0 0 0 0 0 1 0 0 0
+waiters
+Each\O time\O we\O 've\O been\O ,\O the\O front\O of\O house\O staff\O (\O not\O the\O waiters\O -\O they\O 're\O fantastic\B -\O but\O the\O people\O who\O greet\O and\O seat\O you\O )\O has\O been\O so\O hideous\O to\O us\O that\O were\O it\O not\O for\O the\O exceptional\O fish\O dishes\O I\O would\O never\O return\O .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0
+front of house staff
+Each\O time\O we\O 've\O been\O ,\O the\O front\O of\O house\O staff\O (\O not\O the\O waiters\O -\O they\O 're\O fantastic\O -\O but\O the\O people\O who\O greet\O and\O seat\O you\O )\O has\O been\O so\O hideous\B to\O us\O that\O were\O it\O not\O for\O the\O exceptional\O fish\O dishes\O I\O would\O never\O return\O .\O
+7 6 5 4 3 2 1 0 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0
+fish dishes
+Each\O time\O we\O 've\O been\O ,\O the\O front\O of\O house\O staff\O (\O not\O the\O waiters\O -\O they\O 're\O fantastic\O -\O but\O the\O people\O who\O greet\O and\O seat\O you\O )\O has\O been\O so\O hideous\O to\O us\O that\O were\O it\O not\O for\O the\O exceptional\B fish\O dishes\O I\O would\O never\O return\O .\O
+42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0
+front of house staff
+As\O BFC\O does\O n't\O take\O reservations\O you\O almost\O always\O have\O to\O wait\O by\O the\O bar\O -\O and\O be\O abused\B by\O the\O front\O of\O house\O staff\O until\O you\O are\O seated\O ,\O which\O can\O be\O over\O an\O hour\O later\O !\O
+21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 1 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 1
+girl
+The\O frizzy\B retro\O girl\O (\O with\O winged/\O Dame\O Edna\O glasses\O )\O will\O yell\O at\O you\O if\O you\O try\O to\O order\O a\O drink\O .\O
+3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 1
+staff
+I\O 'd\O be\O horrified\B if\O my\O staff\O were\O turning\O away\O customers\O so\O early\O and\O so\O rudely\O !\O
+6 5 4 3 2 1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1
+girl
+There\O 's\O another\O girl\O who\O I\O ca\O n't\O describe\O ,\O she\O is\O about\O 5'6\O ''\O with\O brown\O hair\O ,\O who\O eavesdrops\O on\O your\O conversation\O and\O chimes\O in\O -\O except\O she\O only\O hears\O the\O last\O part\O of\O what\O you\O said\O ,\O so\O her\O uninvited\B opinions\O are\O often\O out\O of\O context\O and\O nothing\O to\O do\O with\O what\O you\O 're\O *really*\O talking\O about\O .\O
+3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+service
+Considering\O you\O will\O spend\O at\O least\O $\O 60\O a\O head\O ,\O I\O expect\B better\I service\O .\O
+14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1
+food
+The\O food\O and\O service\O were\O fine\B ,\O however\O the\O maitre-D\O was\O incredibly\O unwelcoming\O and\O arrogant\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 0 0 0 0 1 0 0 0 1 0 1 1
+service
+The\O food\O and\O service\O were\O fine\B ,\O however\O the\O maitre-D\O was\O incredibly\O unwelcoming\O and\O arrogant\O .\O
+3 2 1 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 0 0 0 0 0 1 0 0 0 1 0 1 1
+maitre-D
+The\O food\O and\O service\O were\O fine\O ,\O however\O the\O maitre-D\O was\O incredibly\O unwelcoming\B and\O arrogant\B .\O
+9 8 7 6 5 4 3 2 1 0 1 2 3 4 5 6
+0 0 0 0 0 0 0 1 0 0 0 1 0 1 1
+bottle of wine
+While\O finishing\O our\O meals\O which\O included\O a\O high-end\B bottle\O of\O wine\O ,\O our\O son\O 's\O fiance\O joined\O us\O for\O a\O glass\O of\O wine\O and\O dessert\O .\O
+8 7 6 5 4 3 2 1 0 0 0 1 2 3
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+frontman
+This\O guy\O refused\O to\O seat\O her\O and\O she\O left\O ,\O followed\O shortly\O by\O the\O four\O of\O us\O ,\O but\O not\O before\O I\O told\O him\O that\O in\O my\O 40\O years\O of\O world\O travel\O ,\O including\O Paris\O ,\O that\O I\O had\O never\O seen\O such\O a\O display\O of\O bad\B behavior\O by\O a\O frontman\O in\O a\O restaurant\O .\O
+49 48 47 46 45 44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4
+0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 1
+meal
+Best\B meal\O in\O a\O long\O time\O !\O
+1 0 1 2 3 4 5
+1 0 0 0 0 0 0
+Mussles
+Mussles\O and\O calamari\O were\O superb\B Saturday\O evening\O .\O
+0 1 2 3 4 5 6 7
+0 0 0 1 0 0 0
+calamari
+Mussles\O and\O calamari\O were\O superb\B Saturday\O evening\O .\O
+2 1 0 1 2 3 4 5
+0 0 0 1 0 0 0
+Lamb special
+I\O had\O the\O Lamb\O special\O which\O was\O perfect\B .\O
+3 2 1 0 0 1 2 3 4
+0 0 0 0 1 0 0 1 0
+flank steak
+My\O father\O had\O the\O flank\O steak\O which\O was\O very\O good\B ,\O and\O my\O mother\O had\O the\O swordfish\O .\O
+4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+The Four Seasons restaurant
+The\O Four\O Seasons\O restaurant\O is\O a\O great\B experience\O .\O
+0 0 0 0 1 2 3 4 5
+0 0 0 0 0 0 1 0 0
+food
+The\O food\O is\O great\B and\O the\O environment\O is\O even\O better\O .\O
+1 0 1 2 3 4 5 6 7 8 9
+0 0 0 1 0 0 0 0 0 0 0
+environment
+The\O food\O is\O great\O and\O the\O environment\O is\O even\O better\B .\O
+6 5 4 3 2 1 0 1 2 3 4
+0 0 0 1 0 0 0 0 0 1 0
+hot dog
+Here\O the\O hot\O dog\O is\O elevated\B to\O the\O level\O of\O a\O real\O entree\O with\O numerous\O variations\O available\O .\O
+2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+0 0 0 0 1 1 1 0 1 0 0 1 0 0 0 0 0 0
+Atmosphere
+Great\B Atmosphere\O
+1 0
+1 0
+fish tacos
+I\O highly\O recommend\B the\O fish\O tacos\O ,\O everything\O else\O was\O ok\O .\O
+4 3 2 1 0 0 1 2 3 4 5 6
+0 0 1 0 0 0 0 0 0 0 0 0
+atmosphere
+Cool\B atmosphere\O ,\O the\O fire\O place\O in\O the\O back\O really\O ads\O to\O it\O but\O needs\O a\O bit\O more\O heat\O throughout\O on\O a\O cold\O night\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+service
+Poor\B service\O and\O management\O
+1 0 1 2
+1 0 0 0
+management
+Poor\B service\O and\O management\O
+3 2 1 0
+1 0 0 0
+Casa la Femme
+Had\O an\O awful\B experience\O at\O Casa\O la\O Femme\O on\O a\O Saturday\O dinner\O .\O
+5 4 3 2 1 0 0 0 1 2 3 4 5
+0 0 1 0 0 0 0 0 0 0 0 1
+manager
+The\O manager\O was\O rude\B and\O handled\O the\O situation\O extremely\O poorly\O .\O
+1 0 1 2 3 4 5 6 7 8 9
+0 0 0 1 0 0 0 0 0 1 0
+restaurant
+Can\O ’\O t\O believe\O how\O an\O expensive\B NYC\O restaurant\O can\O be\O so\O disrespectful\O to\O its\O clients\O .\O
+8 7 6 5 4 3 2 1 0 1 2 3 4 5 6 7 8
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+food
+The\O food\O is\O very\O good\B ,\O but\O not\B outstanding\I .\O
+1 0 1 2 3 4 5 6 7 8
+0 0 0 0 1 0 0 0 0 0
+bread
+The\O bread\O was\O stale\B ,\O the\O salad\O was\O overpriced\O and\O empty\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10
+0 0 0 1 0 0 0 0 0 0 1 0
+salad
+The\O bread\O was\O stale\O ,\O the\O salad\O was\O overpriced\B and\O empty\B .\O
+6 5 4 3 2 1 0 1 2 3 4 5
+0 0 0 0 0 0 0 0 0 0 1 0
+pasta
+The\O pasta\O was\O well\B cooked\I ,\O did\O n't\O have\O enough\O sauce\O though\O or\O flavor\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+0 0 1 1 0 0 0 1 0 0 0 0 0 0 0
+hostess
+The\O hostess\O was\O rude\B and\O I\O got\O a\O distinct\O feeling\O that\O they\O did\O not\O want\O to\O serve\O us\O .\O
+1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+bartender
+The\O only\O thing\O that\O my\O friend\O left\O out\O is\O that\O when\O we\O sat\O down\O at\O the\O bar\O the\O bartender\O disappeared\B .\O
+18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1
+staff
+Shame\O on\O this\O place\O for\O the\O horrible\O rude\B staff\O and\O non-existent\O customer\O service\O .\O
+8 7 6 5 4 3 2 1 0 1 2 3 4 5
+0 0 0 0 0 0 1 1 0 0 0 0 0 0
+customer service
+Shame\O on\O this\O place\O for\O the\O horrible\O rude\O staff\O and\O non-existent\B customer\O service\O .\O
+11 10 9 8 7 6 5 4 3 2 1 0 0 1
+0 0 0 0 0 0 1 1 0 0 0 0 0 0
+staff
+bad\B staff\O
+1 0
+1 0
+place
+I\O generally\O like\B this\O place\O .\O
+4 3 2 1 0 1
+0 1 1 0 1 0
+food
+The\O food\O is\O good\B .\O
+1 0 1 2 3
+0 0 0 1 0
+space
+The\O design\O of\O the\O space\O is\O good\B .\O
+4 3 2 1 0 1 2 3
+0 0 0 0 0 0 1 0
+service
+But\O the\O service\O is\O HORRID\B !\O
+2 1 0 1 2 3
+0 0 0 0 1 0

@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+python LOTN_crf.py --train_file_path='data/14lap/train.txt' --embedding_file_path='data/laptop/laptop_2014_840b_300.txt' --pre_trained_path='data/amazon/checkpoint' --saver_checkpoint='data/14lap/checkpoint_crf'
+python LOTN_crf.py --train_file_path='data/14res/train.txt' --embedding_file_path='data/14res/res14_2014_840b_300.txt' --pre_trained_path='data/yelp/checkpoint' --saver_checkpoint='data/14res/checkpoint_crf'
+python LOTN_crf.py --train_file_path='data/15res/train.txt' --embedding_file_path='data/15res/res_15_2014_840b_300.txt' --pre_trained_path='data/yelp/checkpoint' --saver_checkpoint='data/15res/checkpoint_crf'
+python LOTN_crf.py --train_file_path='data/16res/train.txt' --embedding_file_path='data/16res/res_16_2014_840b_300.txt' --pre_trained_path='data/yelp/checkpoint' --saver_checkpoint='data/16res/checkpoint_crf'

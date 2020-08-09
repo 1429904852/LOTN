@@ -3,7 +3,7 @@ LOTN is the proposed model in 《Latent Opinions Transfer Network for Target-Ori
 
 # Dependencies
 
-```angularjs
+```bash
 python==3.5
 numpy==1.14.2
 tensorflow==1.9
@@ -11,22 +11,22 @@ tensorflow==1.9
 # Quick Start
 
 ### Step1: pretrained
-```angularjs
+```bash
 sh run_pre_trained.sh
 ```
 ### step2: transfer
 - Softmax
-```angularjs
+```bash
 sh run_LOTN.sh
 python eval_LOTN.py
 ```
 - CRF
-```angularjs
+```bash
 sh run_LOTN.sh
 python eval_LOTN_crf.py
 ```
 # Cite
-```angularjs
+```bash
 @article{wu2020latent,
   title={Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction},
   author={Wu, Zhen and Zhao, Fei and Dai, Xin-Yu and Huang, Shujian and Chen, Jiajun},
@@ -34,3 +34,5 @@ python eval_LOTN_crf.py
   year={2020}
 }
 ```
+
+if you have any questions, please contact me zhaof@smail.nju.edu.cn.

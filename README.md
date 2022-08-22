@@ -1,14 +1,21 @@
 # LOTN
 LOTN is the proposed model in 《[Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction](https://arxiv.org/pdf/2001.01989.pdf)》, which is accepted by AAAI'2020.
 
-# Dependencies
+## Overview
+
+<img src="figs/LOTN.png" style="width:200px height:300px" />
+
+- In tackling the problem of insufficient annotated data, we are the first to propose transferring latent opinion knowledge from resource-rich review sentiment classification datasets to the low-resource task of TOWE.
+- To transfer opinion information effectively, we propose a Latent Opinions Transfer Network (LOTN) model that obtains latent opinion words from a sentiment classification model and integrates them into TOWE via an auxiliary learning signal.
+
+## Dependencies
 
 ```bash
 python==3.5
 numpy==1.14.2
 tensorflow==1.9
 ```
-# Quick Start
+## Quick Start
 
 ### Step1: pretrained
 ```bash
@@ -25,13 +32,24 @@ python eval_LOTN.py
 sh run_LOTN.sh
 python eval_LOTN_crf.py
 ```
-# Cite
+## Cite
 ```bash
-@article{wu2020latent,
-  title={Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction},
-  author={Wu, Zhen and Zhao, Fei and Dai, Xin-Yu and Huang, Shujian and Chen, Jiajun},
-  journal={arXiv preprint arXiv:2001.01989},
-  year={2020}
+@inproceedings{DBLP:conf/aaai/WuZDHC20,
+  author    = {Zhen Wu and
+               Fei Zhao and
+               Xin{-}Yu Dai and
+               Shujian Huang and
+               Jiajun Chen},
+  title     = {Latent Opinions Transfer Network for Target-Oriented Opinion Words
+               Extraction},
+  booktitle = {The Thirty-Fourth {AAAI} Conference on Artificial Intelligence, {AAAI}
+               2020, The Thirty-Second Innovative Applications of Artificial Intelligence
+               Conference, {IAAI} 2020, The Tenth {AAAI} Symposium on Educational
+               Advances in Artificial Intelligence, {EAAI} 2020, New York, NY, USA,
+               February 7-12, 2020},
+  pages     = {9298--9305},
+  publisher = {{AAAI} Press},
+  year      = {2020}
 }
 ```
 

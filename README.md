@@ -10,11 +10,10 @@ LOTN is the proposed model in 《[Latent Opinions Transfer Network for Target-Or
 
 ## Dependencies
 
-```bash
-python==3.5
-numpy==1.14.2
-tensorflow==1.9
-```
+- python=3.5
+- numpy=1.14.2
+- tensorflow==1.9
+
 ## Quick Start
 
 ### Step1: pretrained
@@ -32,23 +31,13 @@ python eval_LOTN.py
 sh run_LOTN.sh
 python eval_LOTN_crf.py
 ```
-## Cite
+## Citation
 ```bash
 @inproceedings{DBLP:conf/aaai/WuZDHC20,
-  author    = {Zhen Wu and
-               Fei Zhao and
-               Xin{-}Yu Dai and
-               Shujian Huang and
-               Jiajun Chen},
-  title     = {Latent Opinions Transfer Network for Target-Oriented Opinion Words
-               Extraction},
-  booktitle = {The Thirty-Fourth {AAAI} Conference on Artificial Intelligence, {AAAI}
-               2020, The Thirty-Second Innovative Applications of Artificial Intelligence
-               Conference, {IAAI} 2020, The Tenth {AAAI} Symposium on Educational
-               Advances in Artificial Intelligence, {EAAI} 2020, New York, NY, USA,
-               February 7-12, 2020},
+  author    = {Zhen Wu and Fei Zhao and Xin{-}Yu Dai and Shujian Huang and Jiajun Chen},
+  title     = {Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction},
+  booktitle = {The Thirty-Fourth {AAAI} Conference on Artificial Intelligence, {AAAI} 2020, New York, NY, USA, February 7-12, 2020},
   pages     = {9298--9305},
-  publisher = {{AAAI} Press},
   year      = {2020}
 }
 ```

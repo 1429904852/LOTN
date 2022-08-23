@@ -1,6 +1,6 @@
 # LOTN
 
-Code and data for "[Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction](https://arxiv.org/pdf/2001.01989.pdf)" (AAAI 2020)
+Codes and datasets for our AAAI 2022 paper: "[Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction](https://arxiv.org/pdf/2001.01989.pdf)"
 
 ## Overview
 

@@ -1,5 +1,6 @@
 # LOTN
-LOTN is the proposed model in 《[Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction](https://arxiv.org/pdf/2001.01989.pdf)》, which is accepted by AAAI'2020.
+
+Code and data for "[Latent Opinions Transfer Network for Target-Oriented Opinion Words Extraction](https://arxiv.org/pdf/2001.01989.pdf)" (AAAI 2020)
 
 ## Overview
 

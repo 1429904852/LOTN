@@ -15,7 +15,7 @@ Codes and datasets for our AAAI 2022 paper: "[Latent Opinions Transfer Network f
 - numpy=1.14.2
 - tensorflow==1.9
 
-## Quick Start
+## Usage
 
 ### Step1: pretrained
 ```bash
